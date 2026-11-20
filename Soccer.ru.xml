@@ -1,103 +1,431 @@
-<?xml version="1.0" ?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
   <channel>
-    <title>Soccer.ru</title>
-    <link>https://www.soccer.ru</link>
-    <description>Soccer.Ru - новости футбола, футбольная статистика. Общение о футболе.</description>
+    <title>Soccer</title>
+    <link>https://www.soccer.ru/</link>
+    <description>RSS feed for Soccer</description>
     <language>ru-RU</language>
-    <lastBuildDate>Tue, 24 Mar 2026 09:52:57 +0000</lastBuildDate>
-    <generator>Multi Source Site to RSS Converter</generator>
-    <docs>https://www.rssboard.org/rss-specification</docs>
-    <ttl>60</ttl>
+    <lastBuildDate>Fri, 20 Nov 2026 22:17:03 +0000</lastBuildDate>
+    <generator>Football RSS Mirror</generator>
     <item>
-      <title>Дивеев не примет участия в сборах национальной команды</title>
-      <link>https://www.soccer.ru/news/1424380/diveev-igor-rossiya</link>
-      <guid isPermaLink="false">https://www.soccer.ru/news/1424380/diveev-igor-rossiya</guid>
-      <pubDate>Tue, 24 Mar 2026 12:44:50 +0300</pubDate>
+      <title>Кристенсен вновь испытывает дискомфорт после мышечной травмы</title>
+      <link>https://www.soccer.ru/news/1442455/kristensen-andreas</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442455/kristensen-andreas</guid>
+      <description>Защитник «Барселоны» Андреас Кристенсен рискует пропустить матч 13-го тура Ла Лиги против «Вильярреала» 22 ноября из-за дискомфорта в левой икроножной мышце. За последние два месяца датчанин провёл лишь одну встречу, выйдя на замену против «Атлетико» 8 ноября. Ранее футболист отказался от вызова в сборную Дании, поскольку после предыдущей мышечной травмы не чувствовал себя готовым к международным матчам...</description>
+      <pubDate>Fri, 20 Nov 2026 21:59:01 +0000</pubDate>
     </item>
     <item>
-      <title>Абаскаль покинул пост главного тренера мексиканского клуба</title>
-      <link>https://www.soccer.ru/news/1424379/abaskal-gilermo-san-luis</link>
-      <guid isPermaLink="false">https://www.soccer.ru/news/1424379/abaskal-gilermo-san-luis</guid>
-      <description>"Сан-Луис" объявил об уходе Гильермо Абаскаля с должности главного тренера. Решение принято по взаимной договоренности. Исполнять обязанности главного тренера до окончания сезона будет Рауль Чабранд. Экс-рулевой московского "Спартака" возглавил мексиканскую команду летом 2025-го. По итогам Апертуры (первой части чем...</description>
-      <pubDate>Tue, 24 Mar 2026 12:35:53 +0300</pubDate>
+      <title>Почеттино высказался о незаконной съёмке тренировки МЮ с дрона</title>
+      <link>https://www.soccer.ru/news/1442454/pochettino-maurisio</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442454/pochettino-maurisio</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 21:53:28 +0000</pubDate>
     </item>
     <item>
-      <title>Сборная Франции представила форму для чемпионата мира 2026 года</title>
-      <link>https://www.soccer.ru/news/1424378/franciya</link>
-      <guid isPermaLink="false">https://www.soccer.ru/news/1424378/franciya</guid>
-      <pubDate>Tue, 24 Mar 2026 11:59:01 +0300</pubDate>
+      <title>Хюрцелер подтвердил приверженность «Брайтону»</title>
+      <link>https://www.soccer.ru/news/1442453/hyurceler-fabian-brayton-end-houv-albion</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442453/hyurceler-fabian-brayton-end-houv-albion</guid>
+      <description>Главный тренер «Брайтона» Фабиан Хюрцелер отказался от возможности возглавить «Манчестер Юнайтед» и не собирался покидать нынешний клуб, несмотря на интерес со стороны манкунианцев. Работать здесь — привилегия. В последнее время было много слухов о других клубах, но это только слухи. Я полностью предан «Брайтону» и чувствую, что ещё не завершил свою работу здесь...</description>
+      <pubDate>Fri, 20 Nov 2026 21:43:24 +0000</pubDate>
     </item>
     <item>
-      <title>Батраков пропустит мартовские матчи сборной из-за небольшого повреждения</title>
-      <link>https://www.soccer.ru/news/1424377/batrakov-aleksey-rossiya</link>
-      <guid isPermaLink="false">https://www.soccer.ru/news/1424377/batrakov-aleksey-rossiya</guid>
-      <description>Полузащитник "Локомотива" Алексей Батраков не примет участия в товарищеских матчах сборной России с Никарагуа и Мали. В расположении национальной команды игрок прошел медицинское обследование, которое выявило у него небольшое повреждение после поединка с "Акроном". Вместе с медицинским штабом сборной принято решение...</description>
-      <pubDate>Tue, 24 Mar 2026 11:46:59 +0300</pubDate>
+      <title>«Бавария» не смогла обыграть «Кёльн» в матче Бундеслиги</title>
+      <link>https://www.soccer.ru/news/1442452/bavariya-kyoln</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442452/bavariya-kyoln</guid>
+      <description>«Бавария» сыграла вничью с «Кёльном» в матче 10-го тура Бундеслиги (1:1). На 12-й минуте Мики Мур вывел гостей вперёд, однако на 37-й Натаниэль Браун восстановил равенство. По ходу встречи мюнхенцы также потеряли из-за травм Харри Кейна и Майкла Олисе. «Бавария» набрала 22 очка и занимает 1-е место в турнирной таблице. «Кёльн» с десятью баллами располагается на 15-й строчке...</description>
+      <pubDate>Fri, 20 Nov 2026 21:27:45 +0000</pubDate>
     </item>
     <item>
-      <title>Лакруа впервые вызвали в сборную Франции. Салиба получил травму</title>
-      <link>https://www.soccer.ru/news/1424376/lakrua-maksens-franciya</link>
-      <guid isPermaLink="false">https://www.soccer.ru/news/1424376/lakrua-maksens-franciya</guid>
-      <description>Защитник "Кристал Пэлас" Максенс Лакруа впервые вызван в первую сборную Франции. Ранее 25-летний игрок выступал только за юношеские команды. Он заменит представителя лондонского "Арсенала" Вильяма Салиба, получившего травму левого голеностопа. Франции в марте предстоят товарищеские матчи с Бразилией и Колумбией...</description>
-      <pubDate>Tue, 24 Mar 2026 11:39:03 +0300</pubDate>
+      <title>Тер Штеген может покинуть «Аякс» ради возвращения в Ла Лигу</title>
+      <link>https://www.soccer.ru/news/1442451/ter-shtegen-mark-andre-ayaks</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442451/ter-shtegen-mark-andre-ayaks</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 21:16:32 +0000</pubDate>
     </item>
     <item>
-      <title>Вагнер Лав, побеждавший с ЦСКА в Кубке УЕФА, завершил карьеру в 41 год</title>
-      <link>https://www.soccer.ru/news/1424375/vagner-lav</link>
-      <guid isPermaLink="false">https://www.soccer.ru/news/1424375/vagner-lav</guid>
-      <description>41-летний бразильский нападающий Вагнер Лав в соцсетях сообщил о завершении карьеры. Последним его клубом был "Ретро". Форвард известен в России по выступлениям за ЦСКА, за который играл с 2004 до 2012 год, а также в 2013-м. В составе москвичей он стал трехкратным чемпионом России, шесть раз побеждал в Кубке страны,...</description>
-      <pubDate>Tue, 24 Mar 2026 10:59:30 +0300</pubDate>
+      <title>Олисе вслед за Кейном не смог продолжить матч с «Кёльном» из-за травмы</title>
+      <link>https://www.soccer.ru/news/1442450/olise-maykl-binder-tim</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442450/olise-maykl-binder-tim</guid>
+      <description>Вингер «Баварии» Майкл Олисе получил травму в матче 10-го тура Бундеслиги против «Кёльна». На 46-й минуте вместо 24-летнего француза на поле вышел Тим Биндер. Ранее встречу из-за повреждения досрочно завершил нападающий Харри Кейн, которого заменили на 20-й минуте...</description>
+      <pubDate>Fri, 20 Nov 2026 21:09:44 +0000</pubDate>
     </item>
     <item>
-      <title>ФИФА отменила бронирование около 2 тысяч номеров в отелях Филадельфии</title>
-      <link>https://www.soccer.ru/news/1424374</link>
-      <guid isPermaLink="false">https://www.soccer.ru/news/1424374</guid>
-      <pubDate>Tue, 24 Mar 2026 10:39:25 +0300</pubDate>
+      <title>Сулейманов пошутил о звании лучшего нападающего оборонительного плана</title>
+      <link>https://www.soccer.ru/news/1442449/suleymanov-timur</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442449/suleymanov-timur</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 21:01:44 +0000</pubDate>
     </item>
     <item>
-      <title>Ланг и Осимхен успешно прооперированы после травм в матче Лиги чемпионов</title>
-      <link>https://www.soccer.ru/news/1424373/lang-noa-galatasaray</link>
-      <guid isPermaLink="false">https://www.soccer.ru/news/1424373/lang-noa-galatasaray</guid>
-      <pubDate>Tue, 24 Mar 2026 10:20:27 +0300</pubDate>
+      <title>Гаттузо нецензурно высказался об увлечении футболистов GTA VI</title>
+      <link>https://www.soccer.ru/news/1442448/gattuzo-dzhennaro-dele-bashiru-fisayo</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442448/gattuzo-dzhennaro-dele-bashiru-fisayo</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 21:00:47 +0000</pubDate>
     </item>
     <item>
-      <title>Гонка без «Спартака» и ЦСКА. Три команды сохранили шансы на чемпионство в РПЛ</title>
-      <link>https://www.soccer.ru/blogs/record/1424372/krasnodar-zenit</link>
-      <guid isPermaLink="false">https://www.soccer.ru/blogs/record/1424372/krasnodar-zenit</guid>
-      <description>Два фаворита и дерзкий андердог.</description>
-      <pubDate>Tue, 24 Mar 2026 10:00:31 +0300</pubDate>
+      <title>«Челси» оштрафовали на 150 тысяч фунтов за кричалки болельщиков</title>
+      <link>https://www.soccer.ru/news/1442447/charlton-chelsi</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442447/charlton-chelsi</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 20:49:11 +0000</pubDate>
     </item>
     <item>
-      <title>Защитник "Ньюкасла" Ботман успешно перенес операцию</title>
-      <link>https://www.soccer.ru/news/1424371/botman-sven-nyukasl-yunayted</link>
-      <guid isPermaLink="false">https://www.soccer.ru/news/1424371/botman-sven-nyukasl-yunayted</guid>
-      <description>Защитник «Ньюкасла» Свен Ботман успешно перенес операцию в связи с переломом лицевой кости. В соответствии с протоколом о сотрясении мозга голландец был заменен после получения травмы во втором тайме матча с «Сандерлендом» 22 марта. Ожидается, что Свен не выбудет из строя на длительный срок, он надеется вернуться в...</description>
-      <pubDate>Tue, 24 Mar 2026 09:43:02 +0300</pubDate>
+      <title>Осимхен готов перейти в МЮ, если клуб повторит его текущую зарплату</title>
+      <link>https://www.soccer.ru/news/1442446/osimhen-viktor-manchester-yunayted</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442446/osimhen-viktor-manchester-yunayted</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 20:29:17 +0000</pubDate>
     </item>
     <item>
-      <title>В ЦСКА сообщили, что фамилия Коутиньо упоминалась в клубе</title>
-      <link>https://www.soccer.ru/news/1424370/breydo-kirill-cska</link>
-      <guid isPermaLink="false">https://www.soccer.ru/news/1424370/breydo-kirill-cska</guid>
-      <pubDate>Tue, 24 Mar 2026 09:33:29 +0300</pubDate>
+      <title>«Интер» сделал защитника «Арсенала» главной трансферной целью на лето</title>
+      <link>https://www.soccer.ru/news/1442445/moskera-kristian-inter</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442445/moskera-kristian-inter</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 20:15:36 +0000</pubDate>
     </item>
     <item>
-      <title>"Боруссия" Дортмунд назвала имя нового спортивного директора</title>
-      <link>https://www.soccer.ru/news/1424369/borussiya</link>
-      <guid isPermaLink="false">https://www.soccer.ru/news/1424369/borussiya</guid>
-      <pubDate>Tue, 24 Mar 2026 08:59:25 +0300</pubDate>
+      <title>Кейна заменили из-за травмы на 20-й минуте матча с «Кёльном»</title>
+      <link>https://www.soccer.ru/news/1442444/keyn-harri-bishof-tom</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442444/keyn-harri-bishof-tom</guid>
+      <description>Нападающий «Баварии» Харри Кейн получил повреждение голеностопа в матче 10-го тура Бундеслиги против «Кёльна». 33-летний обладатель «Золотого мяча» был вынужден покинуть поле на 20-й минуте, уступив место Тому Бишофу. На момент замены мюнхенцы уступали со счётом 0:1...</description>
+      <pubDate>Fri, 20 Nov 2026 20:06:04 +0000</pubDate>
     </item>
     <item>
-      <title>Томас Мюллер назвал фаворита чемпионата мира 2026 года</title>
-      <link>https://www.soccer.ru/news/1424368/myuller-tomas-ispaniya</link>
-      <guid isPermaLink="false">https://www.soccer.ru/news/1424368/myuller-tomas-ispaniya</guid>
-      <pubDate>Tue, 24 Mar 2026 08:53:20 +0300</pubDate>
+      <title>«Тоттенхэм» отпустит Ришарлисона за 10–15 млн фунтов, но не в клуб АПЛ</title>
+      <link>https://www.soccer.ru/news/1442443/risharlison-galatasaray</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442443/risharlison-galatasaray</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 20:01:19 +0000</pubDate>
     </item>
     <item>
-      <title>"Ланс" выразил недовольство возможным переносом матча с ПСЖ</title>
-      <link>https://www.soccer.ru/news/1424367/lans-pari-sen-zhermen</link>
-      <guid isPermaLink="false">https://www.soccer.ru/news/1424367/lans-pari-sen-zhermen</guid>
-      <pubDate>Tue, 24 Mar 2026 08:27:58 +0300</pubDate>
+      <title>Конте заявил, что хотел бы возглавить клуб с уже налаженной системой</title>
+      <link>https://www.soccer.ru/news/1442442/konte-antonio</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442442/konte-antonio</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 19:58:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Реал» объявит о продлении контракта с Браимом Диасом на следующей неделе</title>
+      <link>https://www.soccer.ru/news/1442441/dias-braim-real</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442441/dias-braim-real</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 19:46:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Гол Роналду не помог «Аль-Насру» избежать поражения от «Аль-Ахли»</title>
+      <link>https://www.soccer.ru/news/1442440/al-ahli-al-nasr</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442440/al-ahli-al-nasr</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 19:43:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кириченко раскритиковал состояние газона на «Ростов Арене»</title>
+      <link>https://www.soccer.ru/news/1442439/kirichenko-dmitriy</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442439/kirichenko-dmitriy</guid>
+      <description>Главный тренер «Ростова» Дмитрий Кириченко раскритиковал состояние газона на домашнем стадионе после победы над «Крыльями Советов» (3:0) в матче 15-го тура РПЛ. У нас тяжёлое поле. Долго шли дожди. Мы здесь накануне тренировались. К сожалению, много общаемся с агрономами. Поле у нас оставляет желать лучшего. Полем нужно заниматься или менять его. Это причина высокого травматизма...</description>
+      <pubDate>Fri, 20 Nov 2026 19:38:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Кириченко оценил результаты «Ростова» после победы над «Крыльями Советов»</title>
+      <link>https://www.soccer.ru/news/1442438/kirichenko-dmitriy</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442438/kirichenko-dmitriy</guid>
+      <description>Главный тренер «Ростова» Дмитрий Кириченко подвёл итоги отрезка работы с командой после победы над «Крыльями Советов» (3:0) в матче 15-го тура РПЛ. Специалист заявил, что доволен результатами и отметил надёжную игру команды в обороне. Наверное, грех жаловаться. В шести играх — 14 очков. Очень достойно прошли этот отрезок, в том числе сегодняшнюю игру. Очень рад, что мы из шести игр пять на ноль сыграли в чемпионате. Есть удовлетворение от работы...</description>
+      <pubDate>Fri, 20 Nov 2026 19:17:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Сарр: «Глава с «Ливерпулем» позади, я сосредоточен на «Кристал Пэлас»»</title>
+      <link>https://www.soccer.ru/news/1442437/sarr-ismaila-liverpul</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442437/sarr-ismaila-liverpul</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 19:03:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Булатов — о разгроме от «Ростова»: «Это поучительный матч»</title>
+      <link>https://www.soccer.ru/news/1442436/bulatov-sergey-saltykov-nikita</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442436/bulatov-sergey-saltykov-nikita</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 19:01:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Арсенал» промахнулся с форвардом. Хаверц – снова первый выбор для Артеты</title>
+      <link>https://www.soccer.ru/blogs/record/1442435/haverc-kay-arsenal</link>
+      <guid isPermaLink="false">https://www.soccer.ru/blogs/record/1442435/haverc-kay-arsenal</guid>
+      <description>Есть вопросы.</description>
+      <pubDate>Fri, 20 Nov 2026 19:01:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>«РБ Лейпциг» может запросить у «Баварии» 100 млн евро за Груду</title>
+      <link>https://www.soccer.ru/news/1442434/gruda-brayan-bavariya</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442434/gruda-brayan-bavariya</guid>
+      <description>«Бавария» проявляет интерес к полузащитнику Брайану Груде, выступающему за «РБ Лейпциг» на правах аренды из «Брайтона». За футболистом также следит «Байер». Немецкий клуб будет обязан выкупить 22-летнего игрока за 25 млн евро, если тот проведёт не менее трёх матчей в Бундеслиге в 2027 году. После этого хавбек подпишет контракт до 2031 года, а руководство «быков» будет готово рассмотреть предложения о его продаже за 100 млн евро...</description>
+      <pubDate>Fri, 20 Nov 2026 18:32:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Ростов» одержал крупную победу над «Крыльями Советов» в матче РПЛ</title>
+      <link>https://www.soccer.ru/news/1442433/rostov-krylya-sovetov</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442433/rostov-krylya-sovetov</guid>
+      <description>«Ростов» разгромил «Крылья Советов» в матче 15-го тура Российской Премьер-Лиги (3:0). На 14-й минуте Олакунле Олусегун открыл счёт, а на 60-й Тимур Сулейманов удвоил преимущество хозяев. На 90+4-й Даниил Шанталий довёл счёт до крупного. «Ростов» набрал 22 очка и занимает 6-е место в турнирной таблице. «Крылья Советов» остались с 18 баллами и располагаются на 7-й строчке...</description>
+      <pubDate>Fri, 20 Nov 2026 18:24:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Дембеле возвращается: Луис Энрике подтвердил готовность нападающего</title>
+      <link>https://www.soccer.ru/news/1442432/enrike-luis-dembele-usman</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442432/enrike-luis-dembele-usman</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 18:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Тоттенхэм» нацелился на Лиама Делапа: «Форест» хочет 75 млн фунтов</title>
+      <link>https://www.soccer.ru/news/1442431/delap-liam-nottingem-forest</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442431/delap-liam-nottingem-forest</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 18:07:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Джек Грилиш вернулся к тренировкам и готов сыграть с «Брентфордом»</title>
+      <link>https://www.soccer.ru/news/1442430/grilish-dzhek-moyes-devid</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442430/grilish-dzhek-moyes-devid</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 17:49:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>35-летний Гросс подписал новое соглашение с «Брайтоном»</title>
+      <link>https://www.soccer.ru/news/1442429/gross-paskal-brayton-end-houv-albion</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442429/gross-paskal-brayton-end-houv-albion</guid>
+      <description>Полузащитник Паскаль Гросс подписал новый контракт с «Брайтоном» до июня 2028 года, сообщает пресс-служба английского клуба. 35-летний немец вернулся в команду в январе после полутора лет выступлений за дортмундскую «Боруссию», а по итогам сентября впервые был признан лучшим футболистом месяца в АПЛ. Предстоящий матч с «Халл Сити» может стать для хавбека 300-м в составе «чаек». За карьеру в чемпионате Англии Гросс забил 35 голов и отдал 52 результативные передачи...</description>
+      <pubDate>Fri, 20 Nov 2026 17:48:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Зенит» — «Рубину»: "Теперь у вас средь бела дня легко уводят игрока"</title>
+      <link>https://www.soccer.ru/news/1442428/semak-sergey-ansaldi-kristian</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442428/semak-sergey-ansaldi-kristian</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 17:41:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Яйссле с уважением высказался об Артете</title>
+      <link>https://www.soccer.ru/news/1442427/yayssle-mattias-arteta-mikel</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442427/yayssle-mattias-arteta-mikel</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 17:34:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Фаната «Ливерпуля» на инвалидной коляске оправдали по делу о расизме</title>
+      <link>https://www.soccer.ru/news/1442426/semeno-antuan-manchester-siti</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442426/semeno-antuan-manchester-siti</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 17:25:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Антонио Конте: «В «Челси» десять раз спрашивали, уверен ли я в Канте»</title>
+      <link>https://www.soccer.ru/news/1442425/konte-antonio-kante-ngolo</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442425/konte-antonio-kante-ngolo</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 17:16:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Гендиректор «Манчестер Юнайтед» рассказал о причинах увольнения Каррика</title>
+      <link>https://www.soccer.ru/news/1442424/karrik-maykl-manchester-yunayted</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442424/karrik-maykl-manchester-yunayted</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 17:13:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Алонсо потребовал от игроков «Челси» прибавить на фоне травмы Жоао Педро</title>
+      <link>https://www.soccer.ru/news/1442423/zhoao-pedro-chelsi</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442423/zhoao-pedro-chelsi</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 16:57:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Глушаков объяснил, чего не хватает «Спартаку» для стабильной игры</title>
+      <link>https://www.soccer.ru/news/1442422/glushakov-denis-spartak</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442422/glushakov-denis-spartak</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 16:46:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Лион" и "Монако" заинтересованы в трансфере Кисляка</title>
+      <link>https://www.soccer.ru/news/1442421/kislyak-matvey-lion</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442421/kislyak-matvey-lion</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 16:39:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Амад Диалло готов уйти из «Ман Юнайтед» при отсутствии игровой практики</title>
+      <link>https://www.soccer.ru/news/1442420/amad-diallo-aston-villa</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442420/amad-diallo-aston-villa</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 16:30:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Интер» может усилить вратарскую линию Алиссоном или Доннаруммой</title>
+      <link>https://www.soccer.ru/news/1442419/donnarumma-dzhanluidzhi-inter</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442419/donnarumma-dzhanluidzhi-inter</guid>
+      <description>«Интер» ищет варианты усиления вратарской линии перед сезоном-2027/28 на фоне ошибок Хосепа Мартинеса в первой части текущего сезона. Миланский клуб рассматривает кандидатуру голкипера «Ливерпуля» Алиссона, контракт которого истекает через семь месяцев. При этом бразилец ранее заявлял о желании продлить соглашение с английским клубом. Другим вариантом может стать голкипер «Манчестер Сити» Джанлуиджи Доннарумма в случае понижения английского клуба в классе за финансовые нарушения...</description>
+      <pubDate>Fri, 20 Nov 2026 16:30:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Мареска поддержал Доннарумму и Энцо Фернандеса перед матчем с «Фулхэмом»</title>
+      <link>https://www.soccer.ru/news/1442418/donnarumma-dzhanluidzhi-fernandes-enco</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442418/donnarumma-dzhanluidzhi-fernandes-enco</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 16:12:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Генич получил премию «Голос спорта» как лучший комментатор ЧМ-2026</title>
+      <link>https://www.soccer.ru/news/1442417/genich-konstantin</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442417/genich-konstantin</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 16:04:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Видео первой тренировки Почеттино в «Манчестер Юнайтед» слили в сеть</title>
+      <link>https://www.soccer.ru/news/1442416/iraola-andoni-pochettino-maurisio</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442416/iraola-andoni-pochettino-maurisio</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 15:54:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>The Guardian признала Яшина и Акинфеева символами игровых номеров</title>
+      <link>https://www.soccer.ru/news/1442415/yashin-lev-cska</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442415/yashin-lev-cska</guid>
+      <description>Британское издание The Guardian составило рейтинг футболистов, с которыми наиболее тесно ассоциируются игровые номера от 1 до 50. Символом первого номера был выбран легендарный вратарь московского «Динамо» и сборной СССР Лев Яшин, обладатель «Золотого мяча» 1963 года. Главным представителем 35-го номера был признан голкипер и капитан ЦСКА Игорь Акинфеев. Россиянин выступает под этим номером с 2003 года, а в июне продлил контракт с "армейцами" до конца сезона-2026/27...</description>
+      <pubDate>Fri, 20 Nov 2026 15:52:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Данилов заявил, что хотел бы проверить свои силы в противостоянии с Мбаппе</title>
+      <link>https://www.soccer.ru/news/1442414/danilov-kirill-rossiya</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442414/danilov-kirill-rossiya</guid>
+      <description>Защитник ЦСКА и сборной России Кирилл Данилов хотел бы проверить свои возможности в противостоянии с нападающим французской национальной команды и "Реала" Килианом Мбаппе. Мечтаю сыграть за сборную России против Франции. Будет интересно посмотреть, смогу ли закрыть Мбаппе. В 2026 году национальная команда одержала семь побед, дважды сыграла вничью и потерпела одно поражение, завершив год победой над Венесуэлой (2:0)...</description>
+      <pubDate>Fri, 20 Nov 2026 15:41:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Горшков: «Летом ко мне проявляли интерес два европейских клуба»</title>
+      <link>https://www.soccer.ru/news/1442413/gorshkov-yuriy-krylya-sovetov</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442413/gorshkov-yuriy-krylya-sovetov</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 15:33:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Анри впечатлён восходящей звездой, за которой следит «Ливерпуль»</title>
+      <link>https://www.soccer.ru/news/1442412/anri-terri-liverpul</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442412/anri-terri-liverpul</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 15:32:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Холанд может перейти в «Ливерпуль» за 150 млн евро</title>
+      <link>https://www.soccer.ru/news/1442411/holand-erling-liverpul</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442411/holand-erling-liverpul</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 15:10:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Челси» хуже, чем кажется. Хаби спасают лидеры</title>
+      <link>https://www.soccer.ru/blogs/record/1442410/alonso-habi-chelsi</link>
+      <guid isPermaLink="false">https://www.soccer.ru/blogs/record/1442410/alonso-habi-chelsi</guid>
+      <description>К тренерам в клубе нетерпеливы.</description>
+      <pubDate>Fri, 20 Nov 2026 15:05:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Моуриньо резко отреагировал на возможный переход Джей-Джея Габриэла</title>
+      <link>https://www.soccer.ru/news/1442409/gabriel-dzhey-dzhey-real</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442409/gabriel-dzhey-dzhey-real</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 14:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ФИФА запустила платформу для анонимных обращений о договорных матчах</title>
+      <link>https://www.soccer.ru/news/1442408</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442408</guid>
+      <description>ФИФА объявила о запуске специального сервиса, позволяющего футболистам и арбитрам анонимно сообщать о подозрениях в организации договорных матчей и других нарушениях. Участники соревнований под эгидой организации могут отправлять обращения по электронной почте, через СМС или онлайн-форму. Система также позволяет сообщать об оскорблениях и травле в социальных сетях, с которыми, в частности, столкнулись игроки сборной Нидерландов во время ЧМ-2026 после вылета с турнира...</description>
+      <pubDate>Fri, 20 Nov 2026 14:54:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Арсенал» готов пойти за Майклом Олисе</title>
+      <link>https://www.soccer.ru/news/1442407/olise-maykl-arsenal</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442407/olise-maykl-arsenal</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 14:46:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Полузащитник «Ростова» рассказал о желании уехать в Европу</title>
+      <link>https://www.soccer.ru/news/1442406/komarov-ivan-rostov</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442406/komarov-ivan-rostov</guid>
+      <description>Полузащитник «Ростова» Иван Комаров заявил, что хотел бы продолжить карьеру в одном из европейских чемпионатов. Футболист не скрывает, что выступления за рубежом входят в его карьерные планы. Это мой родной клуб, он мне дал дорогу в большой футбол. Я бы очень хотел что‑то выиграть с «Ростовом». Все детство, да и сейчас, хочется попробовать себя в Европе...</description>
+      <pubDate>Fri, 20 Nov 2026 14:36:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>В «Баварии» заявили, что Бундеслиге стоило бы доплачивать клубу за Кейна</title>
+      <link>https://www.soccer.ru/news/1442405/keyn-harri-bavariya</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442405/keyn-harri-bavariya</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 14:36:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Томас Франк пообещал рассказать правду об уходе из «Тоттенхэма»</title>
+      <link>https://www.soccer.ru/news/1442404/frank-tomas-tottenhem</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442404/frank-tomas-tottenhem</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 14:20:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>«Бавария» разрешила Нойеру проходить реабилитацию в Бразилии</title>
+      <link>https://www.soccer.ru/news/1442403/noyer-manuel-bavariya</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442403/noyer-manuel-bavariya</guid>
+      <description>Вратарь «Баварии» Мануэль Нойер проходит реабилитацию в Бразилии с разрешения клуба. 40-летний голкипер получил частичный разрыв сухожилия правой стопы в матче чемпионата Германии с «Майнцем» (2:1) и выбыл на два-три месяца. Немец рассчитывает вернуться на поле в январе...</description>
+      <pubDate>Fri, 20 Nov 2026 14:17:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Моуриньо высказался о сборной Португалии без Криштиану Роналду</title>
+      <link>https://www.soccer.ru/news/1442402/mourino-zhoze-portugaliya</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442402/mourino-zhoze-portugaliya</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 14:09:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Зидан не считает реваншем встречу с Испанией в плей-офф Лиги наций</title>
+      <link>https://www.soccer.ru/news/1442401/zidan-zinedin-franciya</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442401/zidan-zinedin-franciya</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 13:59:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Хави Эспарт продлил контракт с "Барселоной"</title>
+      <link>https://www.soccer.ru/news/1442400/espart-havi-barselona</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442400/espart-havi-barselona</guid>
+      <description>"Барселона" объявила о подписании нового соглашения с защитником Хави Эспартом. Оно рассчитано до 2030 года. Воспитанник Ла Масии проводит первый год в основной команде. В текущем сезоне на его счету 9 матчей во всех турнирах и два забитых мяча...</description>
+      <pubDate>Fri, 20 Nov 2026 13:48:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Реформаторы считают, что при расширении РПЛ снизятся зарплаты</title>
+      <link>https://www.soccer.ru/news/1442399</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442399</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 13:30:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Привыкаем к новым требованиям". Комличенко — о смене тренерского штаба</title>
+      <link>https://www.soccer.ru/news/1442398/komlichenko-nikolay-ovchinnikov-sergey</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442398/komlichenko-nikolay-ovchinnikov-sergey</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 12:55:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Испания сыграет с Францией в плей-офф Лиги наций</title>
+      <link>https://www.soccer.ru/news/1442397/niderlandy-portugaliya</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442397/niderlandy-portugaliya</guid>
+      <description />
+      <pubDate>Fri, 20 Nov 2026 11:58:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Реал" объявил о продлении контракта с Куртуа</title>
+      <link>https://www.soccer.ru/news/1442396/kurtua-tibo-real</link>
+      <guid isPermaLink="false">https://www.soccer.ru/news/1442396/kurtua-tibo-real</guid>
+      <description>"Реал" и вратарь Тибо Куртуа продлили соглашение. Оно рассчитано до 30 июня 2028 года. Игрок сборной Бельгии выступает за мадридский клуб с 2018-го. За это время он провёл в его составе 348 матчей и выиграл 14 титулов. Ранее "сливочные" подписали новый договор с одним из основных полузащитников...</description>
+      <pubDate>Fri, 20 Nov 2026 11:25:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

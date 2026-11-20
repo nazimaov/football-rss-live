@@ -1,172 +1,125 @@
 #!/usr/bin/env python3
-"""
-Single-run RSS updater for cloud schedulers (GitHub Actions, cron, etc.).
+"""Refresh the six RSS mirrors used by the football Telegram bot."""
 
-Behavior:
-- loads sources from sources_state.json
-- refreshes each source
-- writes XML only when items changed
-- saves state back to sources_state.json
-"""
-
+import html
+import json
 import logging
 import sys
-import traceback
 from datetime import datetime, timezone
 from email.utils import format_datetime
+from pathlib import Path
 from xml.etree import ElementTree as ET
 
-from main import RSSBuilder, SiteAnalyzer, SourceRecord, StateStorage
-
+import feedparser
+import requests
 
 LOG_FORMAT = "%(asctime)s | %(levelname)-8s | %(message)s"
 logging.basicConfig(level=logging.INFO, format=LOG_FORMAT, datefmt="%Y-%m-%d %H:%M:%S")
-logger = logging.getLogger("cloud-update")
+logger = logging.getLogger("rss-update")
+
+ROOT = Path(__file__).resolve().parent
+STATE_FILE = ROOT / "sources_state.json"
+USER_AGENT = "football-news-rss-updater/1.0 (+https://github.com/nazimaov3-blip/rss)"
+TIMEOUT = 30
+MAX_ITEMS = 60
 
 
-def items_signature(xml_text: str):
-    """
-    Stable signature based on item guid/link/title.
-    Returns tuple or None if XML cannot be parsed.
-    """
+def clean_text(value: str) -> str:
+    return " ".join(html.unescape(value or "").split())
+
+
+def parse_date(entry):
+    for field in ("published_parsed", "updated_parsed", "created_parsed"):
+        parsed = entry.get(field)
+        if parsed:
+            try:
+                return datetime(*parsed[:6], tzinfo=timezone.utc)
+            except Exception:
+                pass
+    return None
+
+
+def build_xml(source, entries):
+    rss = ET.Element("rss", {"version": "2.0"})
+    channel = ET.SubElement(rss, "channel")
+    ET.SubElement(channel, "title").text = source["name"]
+    ET.SubElement(channel, "link").text = source["site"]
+    ET.SubElement(channel, "description").text = f"RSS feed for {source['name']}"
+    ET.SubElement(channel, "language").text = "ru-RU"
+    ET.SubElement(channel, "lastBuildDate").text = format_datetime(datetime.now(timezone.utc))
+    ET.SubElement(channel, "generator").text = "Football RSS Mirror"
+
+    for entry in entries[:MAX_ITEMS]:
+        title = clean_text(entry.get("title", ""))
+        link = clean_text(entry.get("link", ""))
+        if not title or not link:
+            continue
+        item = ET.SubElement(channel, "item")
+        ET.SubElement(item, "title").text = title
+        ET.SubElement(item, "link").text = link
+        ET.SubElement(item, "guid", {"isPermaLink": "false"}).text = clean_text(
+            entry.get("id") or entry.get("guid") or link
+        )
+        summary = entry.get("summary") or entry.get("description") or ""
+        ET.SubElement(item, "description").text = clean_text(summary)
+        published = parse_date(entry)
+        if published:
+            ET.SubElement(item, "pubDate").text = format_datetime(published)
+        source_tag = entry.get("source", {})
+        if isinstance(source_tag, dict) and source_tag.get("title"):
+            ET.SubElement(item, "category").text = clean_text(source_tag["title"])
+
+    ET.indent(rss, space="  ")
+    return ET.tostring(rss, encoding="unicode", xml_declaration=True) + "\n"
+
+
+def item_signature(xml_text: str):
     try:
-        root = ET.fromstring(xml_text or "")
-        channel = root.find("channel")
-        if channel is None:
-            return None
-        signature = []
-        for item in channel.findall("item"):
-            guid = (item.findtext("guid") or "").strip()
-            link = (item.findtext("link") or "").strip()
-            title = (item.findtext("title") or "").strip()
-            signature.append((guid, link, title))
-        return tuple(signature)
+        root = ET.fromstring(xml_text)
+        return tuple(
+            (item.findtext("guid", ""), item.findtext("link", ""), item.findtext("title", ""))
+            for item in root.findall("./channel/item")
+        )
     except Exception:
         return None
 
 
-class CloudUpdater:
-    def __init__(self, state_path: str = "sources_state.json"):
-        self.analyzer = SiteAnalyzer()
-        self.builder = RSSBuilder()
-        self.storage = StateStorage(state_path)
+def refresh_source(source):
+    logger.info("Обновляю %s", source["name"])
+    response = requests.get(
+        source["url"],
+        headers={"User-Agent": USER_AGENT, "Accept": "application/rss+xml, application/xml, text/xml"},
+        timeout=TIMEOUT,
+    )
+    response.raise_for_status()
+    feed = feedparser.parse(response.content)
+    if not feed.entries:
+        raise RuntimeError("RSS не содержит записей")
 
-    def _build_xml(self, source: SourceRecord, page_url: str, articles):
-        channel = {
-            "title": source.name,
-            "link": page_url,
-            "description": f"RSS feed for {source.name}",
-            "language": "ru-RU",
-            "lastBuildDate": format_datetime(datetime.now(timezone.utc)),
-            "generator": "SiteToRSS Cloud Updater",
-        }
-        return self.builder.build(channel, articles)
+    new_xml = build_xml(source, feed.entries)
+    target = ROOT / source["file"]
+    old_xml = target.read_text(encoding="utf-8") if target.exists() else ""
+    if item_signature(old_xml) == item_signature(new_xml):
+        logger.info("  без изменений (%d записей)", len(feed.entries))
+        return False
 
-    def update_source(self, source: SourceRecord):
-        logger.info("Updating: %s", source.name)
-        try:
-            page_url, soup = self.analyzer.load_html(source.url)
-            if soup is None:
-                return False, 0, "page load failed", False
-
-            feed_info = self.analyzer.discover_feed_info(page_url, soup)
-            feed_url = feed_info.get("best_url")
-
-            articles = None
-            if feed_url:
-                try:
-                    parsed = self.analyzer.parse_feed(feed_url)
-                    articles = parsed["articles"]
-                    source.source_type = "feed"
-                    logger.info("  using feed: %s", feed_url[:80])
-                except Exception as exc:
-                    logger.warning("  feed parse failed: %s", str(exc)[:120])
-
-            if not articles:
-                parsed = self.analyzer.extract_articles_from_html(page_url, soup)
-                articles = parsed["articles"]
-                source.source_type = "html"
-                logger.info("  using html parsing fallback")
-
-            if not articles:
-                return False, 0, "no articles", False
-
-            new_xml = self._build_xml(source, page_url, articles)
-            old_sig = items_signature(source.generated_xml)
-            new_sig = items_signature(new_xml)
-            changed = (old_sig != new_sig) or not source.generated_xml
-
-            if not changed:
-                source.status = "No changes"
-                logger.info("  no changes detected")
-                return True, len(articles), "", False
-
-            source.generated_xml = new_xml
-            source.status = "Updated"
-            source.last_updated = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-            if source.update_history is None:
-                source.update_history = []
-            source.update_history.append(
-                {
-                    "timestamp": source.last_updated,
-                    "articles_count": len(articles),
-                    "feed_type": source.source_type,
-                }
-            )
-
-            with open(source.file_name, "w", encoding="utf-8") as f:
-                f.write(source.generated_xml)
-            logger.info("  updated (%d items)", len(articles))
-            return True, len(articles), "", True
-        except Exception as exc:
-            source.status = f"Error: {str(exc)[:80]}"
-            logger.error("  update failed: %s", exc)
-            logger.debug(traceback.format_exc())
-            return False, 0, str(exc)[:120], False
-
-    def run_once(self):
-        state = self.storage.load()
-        github_settings = state.get("github", {})
-        raw_sources = state.get("sources", [])
-        sources = []
-        for raw in raw_sources:
-            try:
-                sources.append(SourceRecord(**raw))
-            except Exception as exc:
-                logger.warning("Skipping broken source entry: %s", exc)
-
-        if not sources:
-            logger.warning("No sources found in sources_state.json")
-            return 0, 0, 0, 0
-
-        ok = 0
-        errors = 0
-        total_articles = 0
-        changed_sources = 0
-
-        for source in sources:
-            success, count, err, changed = self.update_source(source)
-            if success:
-                ok += 1
-                total_articles += count
-                if changed:
-                    changed_sources += 1
-            else:
-                errors += 1
-                if err:
-                    logger.error("  %s", err)
-
-        self.storage.save(github_settings, sources)
-        return ok, errors, total_articles, changed_sources
+    target.write_text(new_xml, encoding="utf-8")
+    logger.info("  обновлено: %s (%d записей)", target.name, len(feed.entries))
+    return True
 
 
 def main():
-    updater = CloudUpdater()
-    ok, errors, total_articles, changed_sources = updater.run_once()
-    logger.info("Summary: ok=%d errors=%d articles=%d changed=%d", ok, errors, total_articles, changed_sources)
-    if ok == 0 and errors > 0:
-        return 1
-    return 0
+    sources = json.loads(STATE_FILE.read_text(encoding="utf-8"))["sources"]
+    changed = 0
+    errors = 0
+    for source in sources:
+        try:
+            changed += int(refresh_source(source))
+        except Exception as exc:
+            errors += 1
+            logger.error("  ошибка %s: %s", source["name"], exc)
+    logger.info("Итог: изменено=%d ошибок=%d", changed, errors)
+    return 1 if errors == len(sources) else 0
 
 
 if __name__ == "__main__":

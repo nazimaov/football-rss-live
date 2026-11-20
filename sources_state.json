@@ -1,0 +1,10 @@
+{
+  "sources": [
+    {"name": "Sports.ru", "url": "https://www.sports.ru/rss/topnews.xml", "site": "https://www.sports.ru/", "file": "Sports.xml"},
+    {"name": "Чемпионат", "url": "https://www.championat.com/rss/news/football/", "site": "https://www.championat.com/", "file": "Championat.xml"},
+    {"name": "Матч ТВ", "url": "https://news.google.com/rss/search?q=site%3Amatchtv.ru%20%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB&hl=ru&gl=RU&ceid=RU:ru", "site": "https://matchtv.ru/football", "file": "MatchTV.xml"},
+    {"name": "Azerisport", "url": "https://news.google.com/rss/search?q=site%3Aazerisport.com%20%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB&hl=ru&gl=AZ&ceid=AZ:ru", "site": "https://azerisport.com/football/", "file": "Azerisport.xml"},
+    {"name": "Euro-Football", "url": "https://www.euro-football.ru/feed", "site": "https://www.euro-football.ru/", "file": "Euro-Football.xml"},
+    {"name": "Soccer", "url": "https://www.soccer.ru/rss.xml", "site": "https://www.soccer.ru/", "file": "Soccer.ru.xml"}
+  ]
+}

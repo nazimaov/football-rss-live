@@ -1,413 +1,361 @@
-<?xml version="1.0" ?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
   <channel>
-    <title>Евро-футбол.ру / Последние новости</title>
-    <link>https://www.euro-football.ru</link>
-    <description>Футбол России на Евро-футбол.Ру - новости чемпионата России и Европы + Лига Чемпионов</description>
+    <title>Euro-Football</title>
+    <link>https://www.euro-football.ru/</link>
+    <description>RSS feed for Euro-Football</description>
     <language>ru-RU</language>
-    <lastBuildDate>Wed, 25 Mar 2026 08:59:12 +0000</lastBuildDate>
-    <generator>Multi Source Site to RSS Converter</generator>
-    <docs>https://www.rssboard.org/rss-specification</docs>
-    <ttl>60</ttl>
+    <lastBuildDate>Fri, 20 Nov 2026 22:17:02 +0000</lastBuildDate>
+    <generator>Football RSS Mirror</generator>
     <item>
-      <title>Семшов: «Игроки «Сочи» смирились с вылетом из РПЛ»</title>
-      <link>https://www.euro-football.ru/article/29/1006162666_semshov_igroki_sochi_smirilis_s_vyiletom_iz_rpl</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162666_semshov_igroki_sochi_smirilis_s_vyiletom_iz_rpl</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162666_semshov_igroki_sochi_smirilis_s_vyiletom_iz_rpl"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/9bacaf2c055dd5cfe0b8900064e24bbc6901497a.jpg"/&gt;&lt;/a&gt;Бывший полузащитник &amp;laquo;Динамо&amp;raquo; Игорь Семшов выс...</description>
-      <pubDate>Wed, 25 Mar 2026 11:51:54 +0300</pubDate>
-      <author>Дмитрий Миляев</author>
+      <title>Леони вернулся к тренировкам «Ливерпуля»</title>
+      <link>https://www.euro-football.ru/article/31/1006423485_leoni_vernulsya_k_trenirovkam_liverpulya</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006423485_leoni_vernulsya_k_trenirovkam_liverpulya</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/31/1006423485_leoni_vernulsya_k_trenirovkam_liverpulya"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/3d2bf859b6376b450e8d8c45eccd9c75fae5b3ef.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Главный тренер «Ливерпуля» Андони Ираола выступил с комментарием на тему здоровья защитника Джованни Леони&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/31/1006423485_leoni_vernulsya_k_trenirovkam_liverpulya"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 22:12:48 +0000</pubDate>
     </item>
     <item>
-      <title>Семшов: «Локомотив» не вывозит два турнира»</title>
-      <link>https://www.euro-football.ru/article/29/1006162665_semshov_lokomotiv_ne_vyivozit_dva_turnira</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162665_semshov_lokomotiv_ne_vyivozit_dva_turnira</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162665_semshov_lokomotiv_ne_vyivozit_dva_turnira"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/367b80401cacc2ca97e0c5694fa5e53fa7cf94a9.jpg"/&gt;&lt;/a&gt;Бывший полузащитник сборной России Игорь Семшов поделился мнени...</description>
-      <pubDate>Wed, 25 Mar 2026 11:50:11 +0300</pubDate>
-      <author>Вячеслав Захаров</author>
+      <title>Румменигге – о возможной продаже Мусиалы: «Это не исключено, ему будет трудно вернуться на прежний уровень»</title>
+      <link>https://www.euro-football.ru/article/32/1006423484_rummenigge__o_vozmojnoy_prodaje_musialyi_eto_ne_isklyucheno_emu_budet_trudno_vernutsya_na_prejniy_uroven</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/32/1006423484_rummenigge__o_vozmojnoy_prodaje_musialyi_eto_ne_isklyucheno_emu_budet_trudno_vernutsya_na_prejniy_uroven</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/32/1006423484_rummenigge__o_vozmojnoy_prodaje_musialyi_eto_ne_isklyucheno_emu_budet_trudno_vernutsya_na_prejniy_uroven"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/d796d3bd2408023dcd4597e965758819586928a7.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Член наблюдательного совета «Баварии» Карл-Хайнц Румменигге прокомментировал возвращение на поле полузащитника Джамала Мусиалы и его перспективы в клубе&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/32/1006423484_rummenigge__o_vozmojnoy_prodaje_musialyi_eto_ne_isklyucheno_emu_budet_trudno_vernutsya_na_prejniy_uroven"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 22:06:32 +0000</pubDate>
     </item>
     <item>
-      <title>Гурцкая дал инсайд о конфликте Мойзеса с Челестини</title>
-      <link>https://www.euro-football.ru/article/29/1006162664_gurckaya_dal_insayd_o_konflikte_moyzesa_s_chelestini</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162664_gurckaya_dal_insayd_o_konflikte_moyzesa_s_chelestini</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162664_gurckaya_dal_insayd_o_konflikte_moyzesa_s_chelestini"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/f8095549a3a89964e1c7e5771e99a7cee8996a67.jpg"/&gt;&lt;/a&gt;Известный футбольный агент Тимур Гурцкая поделился и...</description>
-      <pubDate>Wed, 25 Mar 2026 11:46:27 +0300</pubDate>
-      <author>Дмитрий Миляев</author>
+      <title>«Эспаньол» на выезде добился победы над «Атлетиком»</title>
+      <link>https://www.euro-football.ru/article/35/1006423483_espanol_na_vyiezde_dobilsya_pobedyi_nad_atletikom</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/35/1006423483_espanol_na_vyiezde_dobilsya_pobedyi_nad_atletikom</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/35/1006423483_espanol_na_vyiezde_dobilsya_pobedyi_nad_atletikom"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/3a097e28cfb1577fa4b5108f87fbe1c86912f810.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;«Эспаньол» добился минимальной победы над «Атлетиком» в матче 13-го тура чемпионата Испании&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/35/1006423483_espanol_na_vyiezde_dobilsya_pobedyi_nad_atletikom"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 21:55:14 +0000</pubDate>
     </item>
     <item>
-      <title>Канчельскис: «С VAR безобразие началось - футболисты как балерины»</title>
-      <link>https://www.euro-football.ru/article/29/1006162663_kanchelskis_s_var_bezobrazie_nachalos_-_futbolistyi_kak_balerinyi</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162663_kanchelskis_s_var_bezobrazie_nachalos_-_futbolistyi_kak_balerinyi</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162663_kanchelskis_s_var_bezobrazie_nachalos_-_futbolistyi_kak_balerinyi"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/516c880e23ffedd1ec35b55b6cc84bef02004607.jpg"/&gt;&lt;/a&gt;Экс-игрок &amp;laquo;Манчестер Юнайтед&amp;raqu...</description>
-      <pubDate>Wed, 25 Mar 2026 11:43:56 +0300</pubDate>
-      <author>Вячеслав Захаров</author>
+      <title>КОНМЕБОЛ единогласно поддержала переизбрание Инфантино на пост президента ФИФА</title>
+      <link>https://www.euro-football.ru/article/42/1006423482_konmebol_edinoglasno_podderjala_pereizbranie_infantino_na_post_prezidenta_fifa</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/42/1006423482_konmebol_edinoglasno_podderjala_pereizbranie_infantino_na_post_prezidenta_fifa</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/42/1006423482_konmebol_edinoglasno_podderjala_pereizbranie_infantino_na_post_prezidenta_fifa"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/" style="margin-right: 5px;" /&gt;&lt;/a&gt;Южноамериканская конфедерация футбола (КОНМЕБОЛ) единогласно поддержала Джанни Инфантино на предстоящих выборах президента ФИФА&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/42/1006423482_konmebol_edinoglasno_podderjala_pereizbranie_infantino_na_post_prezidenta_fifa"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 21:47:02 +0000</pubDate>
     </item>
     <item>
-      <title>Баранник: «Соболев - не тот форвард, с которым «Зенит» должен связывать будущее»</title>
-      <link>https://www.euro-football.ru/article/29/1006162662_barannik_sobolev_-_ne_tot_forvard_s_kotoryim_zenit_doljen_svyazyivat_buduschee</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162662_barannik_sobolev_-_ne_tot_forvard_s_kotoryim_zenit_doljen_svyazyivat_buduschee</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162662_barannik_sobolev_-_ne_tot_forvard_s_kotoryim_zenit_doljen_svyazyivat_buduschee"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/59ac06f35f3a73cf6f694a3ac4402a81ca4fd25a.jpg"/&gt;&lt;/a&gt;Экс-тренер петербургского...</description>
-      <pubDate>Wed, 25 Mar 2026 11:37:45 +0300</pubDate>
-      <author>Вячеслав Захаров</author>
+      <title>Винисиус назвал трёх игроков «Реала», которых хотел бы привезти в Бразилию</title>
+      <link>https://www.euro-football.ru/article/35/1006423481_vinisius_nazval_treh_igrokov_reala_kotoryih_hotel_byi_privezti_v_braziliyu</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/35/1006423481_vinisius_nazval_treh_igrokov_reala_kotoryih_hotel_byi_privezti_v_braziliyu</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/35/1006423481_vinisius_nazval_treh_igrokov_reala_kotoryih_hotel_byi_privezti_v_braziliyu"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/b8a802858f9ec47f480d901278d883fc3f2d2ce8.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Вингер мадридского «Реала» Винисиус Жуниор рассказал, кого из одноклубников пригласил бы к себе на родину&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/35/1006423481_vinisius_nazval_treh_igrokov_reala_kotoryih_hotel_byi_privezti_v_braziliyu"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 21:45:31 +0000</pubDate>
     </item>
     <item>
-      <title>Семшова удивило, как рассыпался «Акрон» в игре с «Локомотивом»</title>
-      <link>https://www.euro-football.ru/article/29/1006162661_semshova_udivilo_kak_rassyipalsya_akron_v_igre_s_lokomotivom</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162661_semshova_udivilo_kak_rassyipalsya_akron_v_igre_s_lokomotivom</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162661_semshova_udivilo_kak_rassyipalsya_akron_v_igre_s_lokomotivom"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/b95e32297d8b6106ad04724bb661bcea84096b3c.jpg"/&gt;&lt;/a&gt;Бывший полузащитник &amp;laquo;Динамо&amp;raquo; Иго...</description>
-      <pubDate>Wed, 25 Mar 2026 11:36:25 +0300</pubDate>
-      <author>Дмитрий Миляев</author>
+      <title>«Труа» обыграл «Гавр» благодаря дублю Миля</title>
+      <link>https://www.euro-football.ru/article/36/1006423480_trua_obyigral_gavr_blagodarya_dublyu_milya</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/36/1006423480_trua_obyigral_gavr_blagodarya_dublyu_milya</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/36/1006423480_trua_obyigral_gavr_blagodarya_dublyu_milya"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/9cb10cab1451f489e3ecd7a00e39bd52852a8349.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;«Труа» одержал волевую победу над «Гавром» в матче 11-го тура чемпионата Франции&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/36/1006423480_trua_obyigral_gavr_blagodarya_dublyu_milya"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 21:45:30 +0000</pubDate>
     </item>
     <item>
-      <title>«Барселона» до сих пор не предложила новый контракт Торресу</title>
-      <link>https://www.euro-football.ru/article/35/1006162660_barselona_do_sih_por_ne_predlojila_novyiy_kontrakt_torresu</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/35/1006162660_barselona_do_sih_por_ne_predlojila_novyiy_kontrakt_torresu</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/35/1006162660_barselona_do_sih_por_ne_predlojila_novyiy_kontrakt_torresu"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/b95ce23e213ab1eb90c16e187db94e900e6562b6.jpg"/&gt;&lt;/a&gt;Руководство &amp;laquo;Барселоны&amp;raquo; пока не пр...</description>
-      <pubDate>Wed, 25 Mar 2026 11:26:51 +0300</pubDate>
-      <author>Дмитрий Миляев</author>
+      <title>«Манчестер Сити» – «Фулхэм»: прогноз экспертов на матч</title>
+      <link>https://www.euro-football.ru/article/31/1006423479_manchester_siti__fulhem_prognoz_ekspertov_na_match</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006423479_manchester_siti__fulhem_prognoz_ekspertov_na_match</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/31/1006423479_manchester_siti__fulhem_prognoz_ekspertov_na_match"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/" style="margin-right: 5px;" /&gt;&lt;/a&gt;В субботу, 21 ноября, в стартовом матче 11-го тура Английской премьер-лиги «Манчестер Сити» на родном «Этихад Стэдиум» примет в гости лондонский «Фулхэм»&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/31/1006423479_manchester_siti__fulhem_prognoz_ekspertov_na_match"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 21:37:45 +0000</pubDate>
     </item>
     <item>
-      <title>Никитин высказался о возможной отставке Челестини</title>
-      <link>https://www.euro-football.ru/article/29/1006162659_nikitin_vyiskazalsya_o_vozmojnoy_otstavke_chelestini</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162659_nikitin_vyiskazalsya_o_vozmojnoy_otstavke_chelestini</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162659_nikitin_vyiskazalsya_o_vozmojnoy_otstavke_chelestini"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/ab35f1e7c3d25378fd8832fcdbef353673195072.jpg"/&gt;&lt;/a&gt;Руководство ЦСКА не уволит Фабио Челестини с поста г...</description>
-      <pubDate>Wed, 25 Mar 2026 11:19:26 +0300</pubDate>
-      <author>Всеволод Денисов</author>
+      <title>Ван Дейк ответил на вопрос о будущем в «Ливерпуле»</title>
+      <link>https://www.euro-football.ru/article/31/1006423478_van_deyk_otvetil_na_vopros_o_buduschem_v_liverpule</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006423478_van_deyk_otvetil_na_vopros_o_buduschem_v_liverpule</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/31/1006423478_van_deyk_otvetil_na_vopros_o_buduschem_v_liverpule"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/dcfe07a73a8af12c247d1b39fe7cb581b151207b.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Капитан «Ливерпуля» Виргил ван Дейк поделился мыслями о своём будущем&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/31/1006423478_van_deyk_otvetil_na_vopros_o_buduschem_v_liverpule"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 21:33:32 +0000</pubDate>
     </item>
     <item>
-      <title>Точилин: «Спартак» Карседо - это команда-загадка»</title>
-      <link>https://www.euro-football.ru/article/29/1006162658_tochilin_spartak_karsedo_-_eto_komanda-zagadka</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162658_tochilin_spartak_karsedo_-_eto_komanda-zagadka</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162658_tochilin_spartak_karsedo_-_eto_komanda-zagadka"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/dde163ce3ba08322c3b86a3e88763cc3ae053671.jpg"/&gt;&lt;/a&gt;Футбольный специалист Александр Точилин поделился мнением...</description>
-      <pubDate>Wed, 25 Mar 2026 11:17:53 +0300</pubDate>
-      <author>Вячеслав Захаров</author>
+      <title>«Челси» оштрафовали за кричалки болельщиков</title>
+      <link>https://www.euro-football.ru/article/31/1006423477_chelsi_oshtrafovali_za_krichalki_bolelschikov</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006423477_chelsi_oshtrafovali_za_krichalki_bolelschikov</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/31/1006423477_chelsi_oshtrafovali_za_krichalki_bolelschikov"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/da46c4bcb305eb2a66a65df90c8c3ab65a372d04.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Футбольная ассоциация Англии оштрафовала «Челси» на 150 тысяч фунтов стерлингов&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/31/1006423477_chelsi_oshtrafovali_za_krichalki_bolelschikov"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 21:33:12 +0000</pubDate>
     </item>
     <item>
-      <title>Батраков — лидер чемпионата России по голам головой</title>
-      <link>https://www.euro-football.ru/article/29/1006162657_batrakov__lider_chempionata_rossii_po_golam_golovoy</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162657_batrakov__lider_chempionata_rossii_po_golam_golovoy</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162657_batrakov__lider_chempionata_rossii_po_golam_golovoy"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/98ed1634827b9a9cf783e1b08ce87776f9fc3167.jpg"/&gt;&lt;/a&gt;Атакующий полузащитник &amp;laquo;Локомотива&amp;raquo; Алекс...</description>
-      <pubDate>Wed, 25 Mar 2026 11:17:01 +0300</pubDate>
-      <author>Дмитрий Миляев</author>
+      <title>«Бавария» на своём поле сенсационно разошлась миром с «Кёльном»</title>
+      <link>https://www.euro-football.ru/article/32/1006423474_bavariya_na_svoem_pole_sensacionno_razoshlas_mirom_s_kelnom</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/32/1006423474_bavariya_na_svoem_pole_sensacionno_razoshlas_mirom_s_kelnom</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/32/1006423474_bavariya_na_svoem_pole_sensacionno_razoshlas_mirom_s_kelnom"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/754c088abb7aa7e5399c8eea3e6d0a2628721e86.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;«Бавария» и «Кёльн» сыграли вничью в матче десятого тура Бундеслиги — 1:1&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/32/1006423474_bavariya_na_svoem_pole_sensacionno_razoshlas_mirom_s_kelnom"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 21:25:25 +0000</pubDate>
     </item>
     <item>
-      <title>«Барселона» связалась с агентом форварда из АПЛ</title>
-      <link>https://www.euro-football.ru/article/31/1006162654_barselona_svyazalas_s_agentom_forvarda_iz_apl</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006162654_barselona_svyazalas_s_agentom_forvarda_iz_apl</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/31/1006162654_barselona_svyazalas_s_agentom_forvarda_iz_apl"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/659cf8ab3c08591ce218d8afde34adee6e715282.jpg"/&gt;&lt;/a&gt;Центральный нападающий лондонского &amp;laquo;Челси&amp;raquo; Жоао...</description>
-      <pubDate>Wed, 25 Mar 2026 11:07:31 +0300</pubDate>
-      <author>Дмитрий Миляев</author>
+      <title>«Бавария» потеряла из-за травм всю звёздную атакующую тройку</title>
+      <link>https://www.euro-football.ru/article/32/1006423473_bavariya_poteryala_iz-za_travm_vsyu_zvezdnuyu_atakuyuschuyu_troyku</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/32/1006423473_bavariya_poteryala_iz-za_travm_vsyu_zvezdnuyu_atakuyuschuyu_troyku</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/32/1006423473_bavariya_poteryala_iz-za_travm_vsyu_zvezdnuyu_atakuyuschuyu_troyku"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/c62439511fbca352397274cab2871037094082bc.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;В «Баварии» разразился кадровый кризис из-за травм&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/32/1006423473_bavariya_poteryala_iz-za_travm_vsyu_zvezdnuyu_atakuyuschuyu_troyku"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 21:21:26 +0000</pubDate>
     </item>
     <item>
-      <title>Овчинников высказался о матчах России с Никарагуа и Мали</title>
-      <link>https://www.euro-football.ru/article/1003652458/1006162653_ovchinnikov_vyiskazalsya_o_matchah_rossii_s_nikaragua_i_mali</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/1003652458/1006162653_ovchinnikov_vyiskazalsya_o_matchah_rossii_s_nikaragua_i_mali</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/1003652458/1006162653_ovchinnikov_vyiskazalsya_o_matchah_rossii_s_nikaragua_i_mali"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/7a9680563282baea7bb5554fdecab1104fa78e10.jpg"/&gt;&lt;/a&gt;Футбольный эксперт Валерий Овчиннико...</description>
-      <pubDate>Wed, 25 Mar 2026 11:07:25 +0300</pubDate>
-      <author>Вячеслав Захаров</author>
+      <title>«Ювентус» хочет сохранить Вольтемаде</title>
+      <link>https://www.euro-football.ru/article/34/1006423472_yuventus_hochet_sohranit_voltemade</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/34/1006423472_yuventus_hochet_sohranit_voltemade</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/34/1006423472_yuventus_hochet_sohranit_voltemade"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/2d82b573cb8cc7ebb89fd724b5e6a8140477063e.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;«Ювентус» заинтересован в сохранении нападающего Ника Вольтемаде, который выступает за туринскую команду на правах аренды из «Ньюкасла»&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/34/1006423472_yuventus_hochet_sohranit_voltemade"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 21:15:24 +0000</pubDate>
     </item>
     <item>
-      <title>«Арсенал» сыграет с испанским клубом</title>
-      <link>https://www.euro-football.ru/article/31/1006162650_arsenal_syigraet_s_ispanskim_klubom</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006162650_arsenal_syigraet_s_ispanskim_klubom</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/31/1006162650_arsenal_syigraet_s_ispanskim_klubom"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/97da7502ba1299f4019d09d2b4bfb40192fa5f49.jpg"/&gt;&lt;/a&gt;Лондонский &amp;laquo;Арсенал&amp;raquo; запланировал товарищеский поединок п...</description>
-      <pubDate>Wed, 25 Mar 2026 10:59:39 +0300</pubDate>
-      <author>Вячеслав Захаров</author>
+      <title>Олисе получил травму и покинул стадион на костылях</title>
+      <link>https://www.euro-football.ru/article/32/1006423471_olise_poluchil_travmu_i_pokinul_stadion_na_kostyilyah</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/32/1006423471_olise_poluchil_travmu_i_pokinul_stadion_na_kostyilyah</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/32/1006423471_olise_poluchil_travmu_i_pokinul_stadion_na_kostyilyah"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/6f3d6ed5d9bd12f343e3e79eef63ffa47868b086.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Вингер «Баварии» Майкл Олисе был вынужденно заменён в перерыве матча Бундеслиги против «Кёльна»&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/32/1006423471_olise_poluchil_travmu_i_pokinul_stadion_na_kostyilyah"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 21:08:28 +0000</pubDate>
     </item>
     <item>
-      <title>Пальцев: «У меня не было личных бесед с Карпиным»</title>
-      <link>https://www.euro-football.ru/article/1003652458/1006162648_palcev_u_menya_ne_byilo_lichnyih_besed_s_karpinyim</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/1003652458/1006162648_palcev_u_menya_ne_byilo_lichnyih_besed_s_karpinyim</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/1003652458/1006162648_palcev_u_menya_ne_byilo_lichnyih_besed_s_karpinyim"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/7ed644c6d0e26f37481791d0dd7d6bb91991fdb2.jpg"/&gt;&lt;/a&gt;Вызванный в сборную России защитник &amp;laquo;Кра...</description>
-      <pubDate>Wed, 25 Mar 2026 10:57:19 +0300</pubDate>
-      <author>Всеволод Денисов</author>
+      <title>Форвард «Ростова» Сулейманов – о голе «Крыльям Советов»: «Отлегло»</title>
+      <link>https://www.euro-football.ru/article/29/1006423427_forvard_rostova_suleymanov__o_gole_kryilyam_sovetov_otleglo</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006423427_forvard_rostova_suleymanov__o_gole_kryilyam_sovetov_otleglo</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/29/1006423427_forvard_rostova_suleymanov__o_gole_kryilyam_sovetov_otleglo"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/a9517a96cef65b54e9a931087b8a95db81080248.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Тимур Сулейманов, выступающий на позиции форварда за «Ростов», дал комментарий после завершения встречи с «Крыльями Советов»&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/29/1006423427_forvard_rostova_suleymanov__o_gole_kryilyam_sovetov_otleglo"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 20:40:30 +0000</pubDate>
     </item>
     <item>
-      <title>Бубнов: «Кордоба однозначно лучше Вагнера Лава»</title>
-      <link>https://www.euro-football.ru/article/29/1006162647_bubnov_kordoba_odnoznachno_luchshe_vagnera_lava</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162647_bubnov_kordoba_odnoznachno_luchshe_vagnera_lava</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162647_bubnov_kordoba_odnoznachno_luchshe_vagnera_lava"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/eddd0cc286112c793764afb65ffc8bf2ccd771a9.jpg"/&gt;&lt;/a&gt;Экс-защитник столичных &amp;laquo;Динамо&amp;raquo; и &amp;laquo;Спар...</description>
-      <pubDate>Wed, 25 Mar 2026 10:52:11 +0300</pubDate>
-      <author>Вячеслав Захаров</author>
+      <title>«Бавария» не может обыграть «Кёльн» после 45 минут игры</title>
+      <link>https://www.euro-football.ru/article/32/1006423426_bavariya_ne_mojet_obyigrat_keln_posle_45_minut_igryi</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/32/1006423426_bavariya_ne_mojet_obyigrat_keln_posle_45_minut_igryi</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/32/1006423426_bavariya_ne_mojet_obyigrat_keln_posle_45_minut_igryi"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/8dc754ff60e1fbbfe69cd125c21c8b6ae0b4769f.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Подошёл к концу первый тайм матча между мюнхенской «Баварией» и «Кёльном»&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/32/1006423426_bavariya_ne_mojet_obyigrat_keln_posle_45_minut_igryi"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 20:23:19 +0000</pubDate>
     </item>
     <item>
-      <title>Эксперт: «Против Кордобы защитник зависим»</title>
-      <link>https://www.euro-football.ru/article/29/1006162645_ekspert_protiv_kordobyi_zaschitnik_zavisim</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162645_ekspert_protiv_kordobyi_zaschitnik_zavisim</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162645_ekspert_protiv_kordobyi_zaschitnik_zavisim"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/27610a497ce8215e434bdb0c69c51e2879d49dc2.jpg"/&gt;&lt;/a&gt;Экс-футболист &amp;laquo;Уфы&amp;raquo;, а сейчас эксперт Алексей Ники...</description>
-      <pubDate>Wed, 25 Mar 2026 10:46:30 +0300</pubDate>
-      <author>Вячеслав Захаров</author>
+      <title>Габриэль Жезус рассказал об адаптации в «Барселоне»</title>
+      <link>https://www.euro-football.ru/article/35/1006423425_gabriel_jezus_rasskazal_ob_adaptacii_v_barselone</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/35/1006423425_gabriel_jezus_rasskazal_ob_adaptacii_v_barselone</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/35/1006423425_gabriel_jezus_rasskazal_ob_adaptacii_v_barselone"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/7acc53a59b0d1a9e48822fbee338f80fc5fa8198.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Нападающий «Барселоны» Габриэль Жезус рассказал о своей адаптации в каталонском клубе&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/35/1006423425_gabriel_jezus_rasskazal_ob_adaptacii_v_barselone"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 20:13:51 +0000</pubDate>
     </item>
     <item>
-      <title>Хёйлунн: «В «Манчестер Юнайтед» мне казалось, что всё кончено»</title>
-      <link>https://www.euro-football.ru/article/31/1006162643_heylunn_v_manchester_yunayted_mne_kazalos_chto_vse_koncheno</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006162643_heylunn_v_manchester_yunayted_mne_kazalos_chto_vse_koncheno</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/31/1006162643_heylunn_v_manchester_yunayted_mne_kazalos_chto_vse_koncheno"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/ab59273de4dd52baeba052714deabcc43c2ff504.jpg"/&gt;&lt;/a&gt;Форвард &amp;laquo;Наполи&amp;raquo; Расмус Хёйлунн в...</description>
-      <pubDate>Wed, 25 Mar 2026 10:42:20 +0300</pubDate>
-      <author>Дмитрий Миляев</author>
+      <title>«Бавария» из-за травмы потеряла Кейна</title>
+      <link>https://www.euro-football.ru/article/32/1006423424_bavariya_iz-za_travmyi_poteryala_keyna</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/32/1006423424_bavariya_iz-za_travmyi_poteryala_keyna</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/32/1006423424_bavariya_iz-za_travmyi_poteryala_keyna"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/dc6f02e5d581f4cbf4f6f4e53fd3b7cd84d44e34.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Нападающий «Баварии» Гарри Кейн был вынужден покинуть поле из-за повреждения в матче 10-го тура чемпионата Германии против «Кёльна»&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/32/1006423424_bavariya_iz-za_travmyi_poteryala_keyna"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 20:08:13 +0000</pubDate>
     </item>
     <item>
-      <title>Бубнов - об Адиеве: «Всё, до свидания»</title>
-      <link>https://www.euro-football.ru/article/29/1006162642_bubnov_-_ob_adieve_vse_do_svidaniya</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162642_bubnov_-_ob_adieve_vse_do_svidaniya</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162642_bubnov_-_ob_adieve_vse_do_svidaniya"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/649bb1613f2c1f14b8976804351154c2ab9a63cb.jpg"/&gt;&lt;/a&gt;Бывший защитник московского &amp;laquo;Спартака&amp;raquo;, а ныне футбольный...</description>
-      <pubDate>Wed, 25 Mar 2026 10:40:48 +0300</pubDate>
-      <author>Вячеслав Захаров</author>
+      <title>Керкез – о матче с «Манчестер Юнайтед»: «Главная игра в Англии»</title>
+      <link>https://www.euro-football.ru/article/31/1006423423_kerkez__o_matche_s_manchester_yunayted_glavnaya_igra_v_anglii</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006423423_kerkez__o_matche_s_manchester_yunayted_glavnaya_igra_v_anglii</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/31/1006423423_kerkez__o_matche_s_manchester_yunayted_glavnaya_igra_v_anglii"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/dc0ed2dc514442c910b1360453d4ef0dc064228b.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Левый защитник «Ливерпуля» Милош Керкез высказался о предстоящем матче Премьер-лиги против «Манчестер Юнайтед»&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/31/1006423423_kerkez__o_matche_s_manchester_yunayted_glavnaya_igra_v_anglii"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 20:01:33 +0000</pubDate>
     </item>
     <item>
-      <title>Пальцев: «Вызов в сборную стал реальным, благодаря «Краснодару»</title>
-      <link>https://www.euro-football.ru/article/1003652458/1006162640_palcev_vyizov_v_sbornuyu_stal_realnyim_blagodarya_krasnodaru</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/1003652458/1006162640_palcev_vyizov_v_sbornuyu_stal_realnyim_blagodarya_krasnodaru</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/1003652458/1006162640_palcev_vyizov_v_sbornuyu_stal_realnyim_blagodarya_krasnodaru"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/287528765bf927b72d0e602eab965a648d368f92.jpg"/&gt;&lt;/a&gt;Защитник &amp;laquo;Краснодара&amp;raquo; от...</description>
-      <pubDate>Wed, 25 Mar 2026 10:39:09 +0300</pubDate>
-      <author>Всеволод Денисов</author>
+      <title>Яйссле – об Артете: «Встреча с ним - настоящая мечта»</title>
+      <link>https://www.euro-football.ru/article/31/1006423422_yayssle__ob_artete_vstrecha_s_nim_-_nastoyaschaya_mechta</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006423422_yayssle__ob_artete_vstrecha_s_nim_-_nastoyaschaya_mechta</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/31/1006423422_yayssle__ob_artete_vstrecha_s_nim_-_nastoyaschaya_mechta"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/ad3c8446e615ef5f3c23201704ee9a42409a28d9.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Главный тренер «Ньюкасла» Маттиас Яйссле выступил на пресс-конференции перед игрой с лондонским «Арсеналом»&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/31/1006423422_yayssle__ob_artete_vstrecha_s_nim_-_nastoyaschaya_mechta"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 19:57:33 +0000</pubDate>
     </item>
     <item>
-      <title>Абаскаль вернётся в Россию</title>
-      <link>https://www.euro-football.ru/article/29/1006162639_abaskal_vernetsya_v_rossiyu</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162639_abaskal_vernetsya_v_rossiyu</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162639_abaskal_vernetsya_v_rossiyu"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/70235b91a35cf5b814e9e6db3fe179599f7c2267.JPG"/&gt;&lt;/a&gt;Бывший наставник &amp;laquo;Спартака&amp;raquo; Гильермо Абаскаль заявил, что в ближа...</description>
-      <pubDate>Wed, 25 Mar 2026 10:35:40 +0300</pubDate>
-      <author>Дмитрий Миляев</author>
+      <title>«Реал» ведёт переговоры о продаже Эндрика</title>
+      <link>https://www.euro-football.ru/article/34/1006423420_real_vedet_peregovoryi_o_prodaje_endrika</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/34/1006423420_real_vedet_peregovoryi_o_prodaje_endrika</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/34/1006423420_real_vedet_peregovoryi_o_prodaje_endrika"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/0e92ceffd43d35f1e4b8e6ae7d0f3585fe61d72d.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;«Милан» работает над подписанием нападающего мадридского «Реала» Эндрика&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/34/1006423420_real_vedet_peregovoryi_o_prodaje_endrika"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 19:50:10 +0000</pubDate>
     </item>
     <item>
-      <title>Лукаку покинул сборную Бельгии</title>
-      <link>https://www.euro-football.ru/article/34/1006162638_lukaku_pokinul_sbornuyu_belgii</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/34/1006162638_lukaku_pokinul_sbornuyu_belgii</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/34/1006162638_lukaku_pokinul_sbornuyu_belgii"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/c965a6269cee45efdd34733cf54bf8bb9ce23ef9.jpg"/&gt;&lt;/a&gt;Звездный центрфорвард Ромелу Лукаку покинул расположение национальной сбор...</description>
-      <pubDate>Wed, 25 Mar 2026 10:34:35 +0300</pubDate>
-      <author>Вячеслав Захаров</author>
+      <title>Почеттино - о назначении в «МЮ» по ходу сезона: «Это всегда непросто»</title>
+      <link>https://www.euro-football.ru/article/31/1006423419_pochettino_-_o_naznachenii_v_myu_po_hodu_sezona_eto_vsegda_neprosto</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006423419_pochettino_-_o_naznachenii_v_myu_po_hodu_sezona_eto_vsegda_neprosto</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/31/1006423419_pochettino_-_o_naznachenii_v_myu_po_hodu_sezona_eto_vsegda_neprosto"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/2f9901eb3cbbd5bbc4aefdd10bf944752eb7738c.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Главный тренер «Манчестер Юнайтед» Маурисио Почеттино рассказал о сложностях работы после назначения по ходу сезона и оценил отношение футболистов к клубу&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/31/1006423419_pochettino_-_o_naznachenii_v_myu_po_hodu_sezona_eto_vsegda_neprosto"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 19:48:43 +0000</pubDate>
     </item>
     <item>
-      <title>Никитин: «У «Спартака» появилось лицо»</title>
-      <link>https://www.euro-football.ru/article/29/1006162637_nikitin_u_spartaka_poyavilos_lico</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162637_nikitin_u_spartaka_poyavilos_lico</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162637_nikitin_u_spartaka_poyavilos_lico"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/ef3e3d9c926363d2be0b49a9e5854f5cc2621b72.jpg"/&gt;&lt;/a&gt;Экс-футболист ЦСКА&amp;nbsp;Алексей Никитин&amp;nbsp;поделился комментарием о п...</description>
-      <pubDate>Wed, 25 Mar 2026 10:29:41 +0300</pubDate>
-      <author>Дмитрий Миляев</author>
+      <title>Молодой игрок «ПСЖ»: «Даже не думал об уходе»</title>
+      <link>https://www.euro-football.ru/article/36/1006423418_molodoy_igrok_psj_daje_ne_dumal_ob_uhode</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/36/1006423418_molodoy_igrok_psj_daje_ne_dumal_ob_uhode</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/36/1006423418_molodoy_igrok_psj_daje_ne_dumal_ob_uhode"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/d649857a85624fe02cdc47236f5378bcc5607817.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Полузащитник «Пари Сен-Жермен» Сенни Маюлу объяснил решение остаться в клубе&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/36/1006423418_molodoy_igrok_psj_daje_ne_dumal_ob_uhode"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 19:39:52 +0000</pubDate>
     </item>
     <item>
-      <title>«Манчестер Юнайтед» может подписать двух одноклубников Головина</title>
-      <link>https://www.euro-football.ru/article/31/1006162636_manchester_yunayted_mojet_podpisat_dvuh_odnoklubnikov_golovina</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006162636_manchester_yunayted_mojet_podpisat_dvuh_odnoklubnikov_golovina</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/31/1006162636_manchester_yunayted_mojet_podpisat_dvuh_odnoklubnikov_golovina"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/29a5bef3a344c3595d59dcf85c67509c1fad26e1.jpg"/&gt;&lt;/a&gt;Два футболиста &amp;laquo;Монако&amp;raquo; находя...</description>
-      <pubDate>Wed, 25 Mar 2026 10:28:23 +0300</pubDate>
-      <author>Вячеслав Захаров</author>
+      <title>Алонсо сообщил о возвращении Мартинеса в состав «Челси»</title>
+      <link>https://www.euro-football.ru/article/31/1006423417_alonso_soobschil_o_vozvraschenii_martinesa_v_sostav_chelsi</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006423417_alonso_soobschil_o_vozvraschenii_martinesa_v_sostav_chelsi</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/31/1006423417_alonso_soobschil_o_vozvraschenii_martinesa_v_sostav_chelsi"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/7758925655b335024bb7a7022f815482b16573a7.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Главный тренер «Челси» Хаби Алонсо сообщил, что аргентинский голкипер Эмилиано Мартинес восстановился после травмы и готов принять участие в ближайшем матче команды&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/31/1006423417_alonso_soobschil_o_vozvraschenii_martinesa_v_sostav_chelsi"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 19:39:01 +0000</pubDate>
     </item>
     <item>
-      <title>АПЛ прокомментировала уход Салаха из «Ливерпуля»</title>
-      <link>https://www.euro-football.ru/article/31/1006162635_apl_prokommentrovala_uhod_salaha_iz_liverpulya</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006162635_apl_prokommentrovala_uhod_salaha_iz_liverpulya</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/31/1006162635_apl_prokommentrovala_uhod_salaha_iz_liverpulya"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/642d623abcea82834a62c7ac37e5d0730e8e5a84.jpg"/&gt;&lt;/a&gt;Пресс-служба Английской премьер-лиги прокомментировала нов...</description>
-      <pubDate>Wed, 25 Mar 2026 10:20:48 +0300</pubDate>
-      <author>Вячеслав Захаров</author>
+      <title>Карранка: «Хотим сохранить тот уровень, который показали на чемпионате мира»</title>
+      <link>https://www.euro-football.ru/article/1003876948/1006423416_karranka_hotim_sohranit_tot_uroven_kotoryiy_pokazali_na_chempionate_mira</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/1003876948/1006423416_karranka_hotim_sohranit_tot_uroven_kotoryiy_pokazali_na_chempionate_mira</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/1003876948/1006423416_karranka_hotim_sohranit_tot_uroven_kotoryiy_pokazali_na_chempionate_mira"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/4f749b72c8c68718c46bc61156aaa47c60307a33.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Технический директор сборной Испании Айтор Карранка прокомментировал результаты жеребьёвки четвертьфинала Лиги наций&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/1003876948/1006423416_karranka_hotim_sohranit_tot_uroven_kotoryiy_pokazali_na_chempionate_mira"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 19:35:34 +0000</pubDate>
     </item>
     <item>
-      <title>Рюдигер: «Я снова нахожусь в своей лучшей форме»</title>
-      <link>https://www.euro-football.ru/article/35/1006162634_ryudiger_ya_snova_nahojus_v_svoey_luchshey_forme</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/35/1006162634_ryudiger_ya_snova_nahojus_v_svoey_luchshey_forme</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/35/1006162634_ryudiger_ya_snova_nahojus_v_svoey_luchshey_forme"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/ec1bf62d0a28de45068a7ea3c484f787abee5714.jpg"/&gt;&lt;/a&gt;Защитник &amp;laquo;Реала&amp;raquo; Антонио Рюдигер поделился к...</description>
-      <pubDate>Wed, 25 Mar 2026 10:20:43 +0300</pubDate>
-      <author>Дмитрий Миляев</author>
+      <title>Штанга Роналду не подруга: Криштиану загубил пенальти, и «Аль-Наср» пал жертвой «Аль-Ахли» Сперцяна</title>
+      <link>https://www.euro-football.ru/article/1004974409/1006423414_shtanga_ronaldu_ne_podruga_krishtianu_zagubil_penalti_i_al-nasr_pal_jertvoy_al-ahli_spercyana</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/1004974409/1006423414_shtanga_ronaldu_ne_podruga_krishtianu_zagubil_penalti_i_al-nasr_pal_jertvoy_al-ahli_spercyana</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/1004974409/1006423414_shtanga_ronaldu_ne_podruga_krishtianu_zagubil_penalti_i_al-nasr_pal_jertvoy_al-ahli_spercyana"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/c91667d1db493dcfb843f47cf0558f4cfbcb73c4.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;«Аль-Наср» в первом матче после ноябрьской паузы на сборные играл в гостях с «Аль-Ахли» из Джидды&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/1004974409/1006423414_shtanga_ronaldu_ne_podruga_krishtianu_zagubil_penalti_i_al-nasr_pal_jertvoy_al-ahli_spercyana"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 19:30:54 +0000</pubDate>
     </item>
     <item>
-      <title>Жоан Гарсия: «Я нахожусь в хорошей форме»</title>
-      <link>https://www.euro-football.ru/article/35/1006162633_joan_garsiya_ya_nahojus_v_horoshey_forme</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/35/1006162633_joan_garsiya_ya_nahojus_v_horoshey_forme</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/35/1006162633_joan_garsiya_ya_nahojus_v_horoshey_forme"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/2913b582fe6e653a49d0dd5b8721d35a49880868.jpg"/&gt;&lt;/a&gt;Вратарь &amp;laquo;Барселоны&amp;raquo; Жоан Гарсия поделился комментари...</description>
-      <pubDate>Wed, 25 Mar 2026 10:13:42 +0300</pubDate>
-      <author>Дмитрий Миляев</author>
+      <title>Мане пропустил матч с «Аль-Ахли» из-за рождения второго ребёнка</title>
+      <link>https://www.euro-football.ru/article/1004974409/1006423413_mane_propustil_match_s_al-ahli_iz-za_rojdeniya_vtorogo_rebenka</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/1004974409/1006423413_mane_propustil_match_s_al-ahli_iz-za_rojdeniya_vtorogo_rebenka</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/1004974409/1006423413_mane_propustil_match_s_al-ahli_iz-za_rojdeniya_vtorogo_rebenka"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/1652de2d1ced60cad31c3dbcb85495b67d7aba52.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Нападающий «Аль-Насра» Садио Мане не попал в заявку на матч с «Аль-Ахли» в чемпионате Саудовской Аравии по семейным обстоятельствам&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/1004974409/1006423413_mane_propustil_match_s_al-ahli_iz-za_rojdeniya_vtorogo_rebenka"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 19:25:26 +0000</pubDate>
     </item>
     <item>
-      <title>У Хусанова произошло радостное событие</title>
-      <link>https://www.euro-football.ru/article/31/1006162632_u_husanova_proizoshlo_radostnoe_sobyitie</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006162632_u_husanova_proizoshlo_radostnoe_sobyitie</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/31/1006162632_u_husanova_proizoshlo_radostnoe_sobyitie"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/57f4ae8dcf89fc99290333dacf285599ba80dfc8.jpg"/&gt;&lt;/a&gt;Защитник &amp;laquo;Манчестер Сити&amp;raquo; и национальной команды Узб...</description>
-      <pubDate>Wed, 25 Mar 2026 10:13:03 +0300</pubDate>
-      <author>Вячеслав Захаров</author>
+      <title>Наставник «Крыльев Советов» - после разгрома от «Ростова»: «Это поучительный матч»</title>
+      <link>https://www.euro-football.ru/article/29/1006423412_nastavnik_kryilev_sovetov_-_posle_razgroma_ot_rostova_eto_pouchitelnyiy_match</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006423412_nastavnik_kryilev_sovetov_-_posle_razgroma_ot_rostova_eto_pouchitelnyiy_match</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/29/1006423412_nastavnik_kryilev_sovetov_-_posle_razgroma_ot_rostova_eto_pouchitelnyiy_match"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/ffa87bffec39411a20149f9113298e7a72083a95.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Рулевой «Крыльев Советов» Сергей Булатов высказался по окончании гостевого поединка с «Ростовом» в 15-м туре российского чемпионата&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/29/1006423412_nastavnik_kryilev_sovetov_-_posle_razgroma_ot_rostova_eto_pouchitelnyiy_match"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 19:20:54 +0000</pubDate>
     </item>
     <item>
-      <title>Линекер отреагировал на новость о Салахе</title>
-      <link>https://www.euro-football.ru/article/31/1006162630_lineker_otreagiroval_na_novost_o_salahe</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006162630_lineker_otreagiroval_na_novost_o_salahe</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/31/1006162630_lineker_otreagiroval_na_novost_o_salahe"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/34d51128007dba5ef973adbd20853f634cdbf01a.jpg"/&gt;&lt;/a&gt;Экс-футболист сборной Англии Гари Линекер отреагировал на новость...</description>
-      <pubDate>Wed, 25 Mar 2026 10:06:26 +0300</pubDate>
-      <author>Вячеслав Захаров</author>
+      <title>Кириченко – после победы над «Крыльями»: «Есть удовлетворение от работы»</title>
+      <link>https://www.euro-football.ru/article/29/1006423411_kirichenko__posle_pobedyi_nad_kryilyami_est_udovletvorenie_ot_rabotyi</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006423411_kirichenko__posle_pobedyi_nad_kryilyami_est_udovletvorenie_ot_rabotyi</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/29/1006423411_kirichenko__posle_pobedyi_nad_kryilyami_est_udovletvorenie_ot_rabotyi"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/5adec16b19deed0dd51cfd1b32e1829091bc1d84.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Наставник «Ростова» Дмитрий Кириченко выступил с комментарием после победы его подопечных над «Крыльями Советов»&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/29/1006423411_kirichenko__posle_pobedyi_nad_kryilyami_est_udovletvorenie_ot_rabotyi"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 19:19:07 +0000</pubDate>
     </item>
     <item>
-      <title>«Интер» хочет заполучить игрока «Барселоны»</title>
-      <link>https://www.euro-football.ru/article/34/1006162629_inter_hochet_zapoluchit_igroka_barselonyi</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/34/1006162629_inter_hochet_zapoluchit_igroka_barselonyi</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/34/1006162629_inter_hochet_zapoluchit_igroka_barselonyi"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/6a21a1cd4b7ee6ba9aa93363c9e7a41ec7005bff.jpg"/&gt;&lt;/a&gt;Миланский &amp;laquo;Интер&amp;raquo; заинтересован в подписании крайне...</description>
-      <pubDate>Wed, 25 Mar 2026 10:03:55 +0300</pubDate>
-      <author>Дмитрий Миляев</author>
+      <title>В «МЮ» высказались об уходе талантливого воспитанника в «Реал»</title>
+      <link>https://www.euro-football.ru/article/31/1006423410_v_myu_vyiskazalis_ob_uhode_talantlivogo_vospitannika_v_real</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006423410_v_myu_vyiskazalis_ob_uhode_talantlivogo_vospitannika_v_real</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/31/1006423410_v_myu_vyiskazalis_ob_uhode_talantlivogo_vospitannika_v_real"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/698f52a6529e9701d5a7cf852aa0f4f29b34ede8.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Омар Беррада, занимающий должность генерального директора «Манчестер Юнайтед», прокомментировал уход из клуба 16-летнего Джей-Джея Габриэля&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/31/1006423410_v_myu_vyiskazalis_ob_uhode_talantlivogo_vospitannika_v_real"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 19:09:58 +0000</pubDate>
     </item>
     <item>
-      <title>Никитин заявил о поддержке Мойзеса одноклубниками</title>
-      <link>https://www.euro-football.ru/article/29/1006162628_nikitin_zayavil_o_podderjke_moyzesa_odnoklubnikami</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162628_nikitin_zayavil_o_podderjke_moyzesa_odnoklubnikami</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162628_nikitin_zayavil_o_podderjke_moyzesa_odnoklubnikami"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/f8095549a3a89964e1c7e5771e99a7cee8996a67.jpg"/&gt;&lt;/a&gt;Футболисты ЦСКА наверняка поддерживают защитника коман...</description>
-      <pubDate>Wed, 25 Mar 2026 09:58:44 +0300</pubDate>
-      <author>Всеволод Денисов</author>
+      <title>Гросс продлил контракт с «Брайтоном» до 2028 года</title>
+      <link>https://www.euro-football.ru/article/31/1006423409_gross_prodlil_kontrakt_s_braytonom_do_2028_goda</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006423409_gross_prodlil_kontrakt_s_braytonom_do_2028_goda</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/31/1006423409_gross_prodlil_kontrakt_s_braytonom_do_2028_goda"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/8966b20ca2c7dcc0ad7404c0251fe8f59a62a004.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Полузащитник Паскаль Гросс подписал новый контракт с «Брайтоном», рассчитанный до июня 2028 года&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/31/1006423409_gross_prodlil_kontrakt_s_braytonom_do_2028_goda"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 19:09:03 +0000</pubDate>
     </item>
     <item>
-      <title>Джулиано Симеоне: «Я не считаю себя игроком основного состава сборной Аргентины»</title>
-      <link>https://www.euro-football.ru/article/35/1006162627_djuliano_simeone_ya_ne_schitayu_sebya_igrokom_osnovnogo_sostava_sbornoy_argentinyi</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/35/1006162627_djuliano_simeone_ya_ne_schitayu_sebya_igrokom_osnovnogo_sostava_sbornoy_argentinyi</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/35/1006162627_djuliano_simeone_ya_ne_schitayu_sebya_igrokom_osnovnogo_sostava_sbornoy_argentinyi"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/83be4d25b8b094f3b09552222529c495d2255e0d.jpg"/&gt;&lt;/a&gt;Вингер &amp;laquo;Атлетико...</description>
-      <pubDate>Wed, 25 Mar 2026 09:55:52 +0300</pubDate>
-      <author>Дмитрий Миляев</author>
+      <title>Алонсо ответил, сказывается ли травма Жоао Педро на игре «Челси»</title>
+      <link>https://www.euro-football.ru/article/31/1006423408_alonso_otvetil_skazyivaetsya_li_travma_joao_pedro_na_igre_chelsi</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006423408_alonso_otvetil_skazyivaetsya_li_travma_joao_pedro_na_igre_chelsi</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/31/1006423408_alonso_otvetil_skazyivaetsya_li_travma_joao_pedro_na_igre_chelsi"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/5dd2e374c911fd7db57f27287c2841bc9f812eb5.JPG" style="margin-right: 5px;" /&gt;&lt;/a&gt;Рулевой лондонского «Челси» Хаби Алонсо высказался об игре своей команды в отсутствие центрального нападающего Жоао Педро&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/31/1006423408_alonso_otvetil_skazyivaetsya_li_travma_joao_pedro_na_igre_chelsi"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 19:01:06 +0000</pubDate>
     </item>
     <item>
-      <title>Эксперт высказался о матче России с Никарагуа</title>
-      <link>https://www.euro-football.ru/article/29/1006162626_ekspert_vyiskazalsya_o_matche_rossii_s_nikaragua</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162626_ekspert_vyiskazalsya_o_matche_rossii_s_nikaragua</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162626_ekspert_vyiskazalsya_o_matche_rossii_s_nikaragua"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/c7324050ea9c312508a6d0f8240bc049226d859d.jpg"/&gt;&lt;/a&gt;Бывший футболист московского ЦСКА Валерий Масалитин выск...</description>
-      <pubDate>Wed, 25 Mar 2026 09:54:26 +0300</pubDate>
-      <author>Вячеслав Захаров</author>
+      <title>Гендиректор «МЮ» Беррада – о деле «Манчестер Сити»: «Совершенно не беспокоюсь»</title>
+      <link>https://www.euro-football.ru/article/31/1006423405_gendirektor_myu_berrada__o_dele_manchester_siti_sovershenno_ne_bespokoyus</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006423405_gendirektor_myu_berrada__o_dele_manchester_siti_sovershenno_ne_bespokoyus</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/31/1006423405_gendirektor_myu_berrada__o_dele_manchester_siti_sovershenno_ne_bespokoyus"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/698f52a6529e9701d5a7cf852aa0f4f29b34ede8.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Генеральный директор «Манчестер Юнайтед» Омар Беррада заявил, что не причастен к делу «Манчестер Сити»&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/31/1006423405_gendirektor_myu_berrada__o_dele_manchester_siti_sovershenno_ne_bespokoyus"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 18:58:55 +0000</pubDate>
     </item>
     <item>
-      <title>Орлов: «От Баринова и Лусиано в ЦСКА никакой пользы»</title>
-      <link>https://www.euro-football.ru/article/29/1006162625_orlov_ot_barinova_i_lusiano_v_cska_nikakoy_polzyi</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162625_orlov_ot_barinova_i_lusiano_v_cska_nikakoy_polzyi</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162625_orlov_ot_barinova_i_lusiano_v_cska_nikakoy_polzyi"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/99bcffcbb71a3a9b375ca9c6623e448e186e449e.jpg"/&gt;&lt;/a&gt;Спортивный комментатор Геннадий Орлов высказался об игр...</description>
-      <pubDate>Wed, 25 Mar 2026 09:47:44 +0300</pubDate>
-      <author>Вячеслав Захаров</author>
+      <title>Несколько клубов следят за «Месси из Марокко»</title>
+      <link>https://www.euro-football.ru/article/31/1006423403_neskolko_klubov_sledyat_za_messi_iz_marokko</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006423403_neskolko_klubov_sledyat_za_messi_iz_marokko</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/31/1006423403_neskolko_klubov_sledyat_za_messi_iz_marokko"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/003b3b77c4ac6eb6bc2421a79cd4f7b34d491996.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;17-летний вингер «Челси» Ибрагим Раббадж привлёк внимание четырёх европейских клубов благодаря выступлениям за сборную Марокко на чемпионате мира U17&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/31/1006423403_neskolko_klubov_sledyat_za_messi_iz_marokko"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 18:51:33 +0000</pubDate>
     </item>
     <item>
-      <title>Грэй покинет «Тоттенхэм» в случае вылета из АПЛ</title>
-      <link>https://www.euro-football.ru/article/31/1006162624_grey_pokinet_tottenhem_v_sluchae_vyileta_iz_apl</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006162624_grey_pokinet_tottenhem_v_sluchae_vyileta_iz_apl</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/31/1006162624_grey_pokinet_tottenhem_v_sluchae_vyileta_iz_apl"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/6623ca562a65a26268249f8af4ec0e0000853d1b.jpg"/&gt;&lt;/a&gt;20-летний полузащитник лондонского &amp;laquo;Тоттенхэма&amp;raqu...</description>
-      <pubDate>Wed, 25 Mar 2026 09:44:27 +0300</pubDate>
-      <author>Дмитрий Миляев</author>
+      <title>Гендиректор «МЮ» Беррада: «Мы усердно трудимся ради главной цели»</title>
+      <link>https://www.euro-football.ru/article/31/1006423401_gendirektor_myu_berrada_myi_userdno_trudimsya_radi_glavnoy_celi</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006423401_gendirektor_myu_berrada_myi_userdno_trudimsya_radi_glavnoy_celi</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/31/1006423401_gendirektor_myu_berrada_myi_userdno_trudimsya_radi_glavnoy_celi"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/d13d38154549a48178ae010f85b6bce75d8d9c61.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Генеральный директор «Манчестер Юнайтед» Омар Беррада высказался о целях клуба&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/31/1006423401_gendirektor_myu_berrada_myi_userdno_trudimsya_radi_glavnoy_celi"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 18:48:50 +0000</pubDate>
     </item>
     <item>
-      <title>Литвинов: «Мне непринципиально обойти в таблице ЦСКА»</title>
-      <link>https://www.euro-football.ru/article/29/1006162623_litvinov_mne_neprincipialno_oboyti_v_tablice_cska</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162623_litvinov_mne_neprincipialno_oboyti_v_tablice_cska</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162623_litvinov_mne_neprincipialno_oboyti_v_tablice_cska"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/22ad729715e6224d2068c535531136ab3318d369.jpg"/&gt;&lt;/a&gt;Защитнику московского &amp;laquo;Спартака&amp;raquo; Руслану Ли...</description>
-      <pubDate>Wed, 25 Mar 2026 09:43:50 +0300</pubDate>
-      <author>Всеволод Денисов</author>
+      <title>Алонсо ожидает напряжённую игру в матче с «Лидсом»</title>
+      <link>https://www.euro-football.ru/article/31/1006423400_alonso_ojidaet_napryajennuyu_igru_v_matche_s_lidsom</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006423400_alonso_ojidaet_napryajennuyu_igru_v_matche_s_lidsom</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/31/1006423400_alonso_ojidaet_napryajennuyu_igru_v_matche_s_lidsom"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/88ff57b2fc1b868f88cc003e7ef69a7a6cb3b76e.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Наставник лондонского «Челси» Хаби Алонсо поделился ожиданиями от предстоящего матча 11-го тура Английской премьер-лиги против «Лидса»&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/31/1006423400_alonso_ojidaet_napryajennuyu_igru_v_matche_s_lidsom"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 18:46:21 +0000</pubDate>
     </item>
     <item>
-      <title>Радимов - о голах Соболева: «Это всё начинает меня напрягать»</title>
-      <link>https://www.euro-football.ru/article/29/1006162622_radimov_-_o_golah_soboleva_eto_vse_nachinaet_menya_napryagat</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162622_radimov_-_o_golah_soboleva_eto_vse_nachinaet_menya_napryagat</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162622_radimov_-_o_golah_soboleva_eto_vse_nachinaet_menya_napryagat"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/cfa255a9361f10d4e750f6c4f413a38afbb89a2f.jpg"/&gt;&lt;/a&gt;Экс-полузащитник петербургского &amp;laquo;Зенит...</description>
-      <pubDate>Wed, 25 Mar 2026 09:40:04 +0300</pubDate>
-      <author>Вячеслав Захаров</author>
+      <title>Мойес подтвердил возвращение Грилиша в состав «Эвертона»</title>
+      <link>https://www.euro-football.ru/article/31/1006423399_moyes_podtverdil_vozvraschenie_grilisha_v_sostav_evertona</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006423399_moyes_podtverdil_vozvraschenie_grilisha_v_sostav_evertona</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/31/1006423399_moyes_podtverdil_vozvraschenie_grilisha_v_sostav_evertona"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/a723b0f0e9c2b1a213233a4af32fd9d3242ed8c7.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Полузащитник Джек Грилиш вернулся к тренировкам с основной командой «Эвертона» после месяца вне её состава из-за серьёзного нарушения дисциплины&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/31/1006423399_moyes_podtverdil_vozvraschenie_grilisha_v_sostav_evertona"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 18:42:03 +0000</pubDate>
     </item>
     <item>
-      <title>Литвинов озвучил единственный результат «Спартака», который его устроит</title>
-      <link>https://www.euro-football.ru/article/29/1006162621_litvinov_ozvuchil_edinstvennyiy_rezultat_spartaka_kotoryiy_ego_ustroit</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162621_litvinov_ozvuchil_edinstvennyiy_rezultat_spartaka_kotoryiy_ego_ustroit</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162621_litvinov_ozvuchil_edinstvennyiy_rezultat_spartaka_kotoryiy_ego_ustroit"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/24ec52454a78d580bbbd0bc190e4cb943848461c.jpg"/&gt;&lt;/a&gt;Защитник московского &amp;laquo;Спарта...</description>
-      <pubDate>Wed, 25 Mar 2026 09:39:30 +0300</pubDate>
-      <author>Всеволод Денисов</author>
+      <title>В «Тоттенхэме» отреагировали на слова Мудрика об «Арсенале»</title>
+      <link>https://www.euro-football.ru/article/31/1006423391_v_tottenheme_otreagirovali_na_slova_mudrika_ob_arsenale</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006423391_v_tottenheme_otreagirovali_na_slova_mudrika_ob_arsenale</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/31/1006423391_v_tottenheme_otreagirovali_na_slova_mudrika_ob_arsenale"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/45497cee3bad16bdb8f368897c46fd5c59b34bfc.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Недавно форвард «Тоттенхэма» Михаил Мудрик заявил, что мечтал стать игроком принципиального соперника «шпор» – «Арсенала», однако трансфер не случился из-за корыстного агента&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/31/1006423391_v_tottenheme_otreagirovali_na_slova_mudrika_ob_arsenale"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 18:31:45 +0000</pubDate>
     </item>
     <item>
-      <title>Аршавин объяснил, в чём Лоськов сильнее Титова</title>
-      <link>https://www.euro-football.ru/article/29/1006162620_arshavin_obyyasnil_v_chem_loskov_silnee_titova</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162620_arshavin_obyyasnil_v_chem_loskov_silnee_titova</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162620_arshavin_obyyasnil_v_chem_loskov_silnee_titova"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/d522c69846e52084307d05e0d1127dce72da0183.jpg"/&gt;&lt;/a&gt;Экс-полузащитник &amp;laquo;Зенита&amp;raquo; Андрей Аршавин ответ...</description>
-      <pubDate>Wed, 25 Mar 2026 09:35:19 +0300</pubDate>
-      <author>Дмитрий Миляев</author>
+      <title>Олусегун отдавал и забивал, а Петров спасал: «Ростов» Кириченко обыграл «Крылья Советов»</title>
+      <link>https://www.euro-football.ru/article/29/1006423389_olusegun_otdaval_i_zabival_a_petrov_spasal_rostov_kirichenko_obyigral_kryilya_sovetov</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006423389_olusegun_otdaval_i_zabival_a_petrov_spasal_rostov_kirichenko_obyigral_kryilya_sovetov</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/29/1006423389_olusegun_otdaval_i_zabival_a_petrov_spasal_rostov_kirichenko_obyigral_kryilya_sovetov"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/2aeedae6c0aa4d0ced22955bfd922c01e0990021.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;20 ноября состоялся матч чемпионата России «Ростов» – «Крылья Советов»&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/29/1006423389_olusegun_otdaval_i_zabival_a_petrov_spasal_rostov_kirichenko_obyigral_kryilya_sovetov"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 18:27:37 +0000</pubDate>
     </item>
     <item>
-      <title>Радимов: «Зенит» и «Краснодар» сейчас всех опережают по игре»</title>
-      <link>https://www.euro-football.ru/article/29/1006162619_radimov_zenit_i_krasnodar_seychas_vseh_operejayut_po_igre</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162619_radimov_zenit_i_krasnodar_seychas_vseh_operejayut_po_igre</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162619_radimov_zenit_i_krasnodar_seychas_vseh_operejayut_po_igre"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/36a6be7d1753a21754c3bac7d613aa1dd213abf0.jpg"/&gt;&lt;/a&gt;Экс-игрок национальной сборной России Владислав...</description>
-      <pubDate>Wed, 25 Mar 2026 09:34:15 +0300</pubDate>
-      <author>Вячеслав Захаров</author>
+      <title>Хиральдес – перед матчем с «Реалом»: «Мы способны бороться с любым соперником»</title>
+      <link>https://www.euro-football.ru/article/35/1006423388_hiraldes__pered_matchem_s_realom_myi_sposobnyi_borotsya_s_lyubyim_sopernikom</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/35/1006423388_hiraldes__pered_matchem_s_realom_myi_sposobnyi_borotsya_s_lyubyim_sopernikom</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/35/1006423388_hiraldes__pered_matchem_s_realom_myi_sposobnyi_borotsya_s_lyubyim_sopernikom"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/db0bf842e6a31f3569ea2aba43fc425d29cd9d67.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Главный тренер «Сельты» Клаудио Хиральдес выступил с комментарием перед матчем с мадридским «Реалом»&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/35/1006423388_hiraldes__pered_matchem_s_realom_myi_sposobnyi_borotsya_s_lyubyim_sopernikom"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 18:26:01 +0000</pubDate>
     </item>
     <item>
-      <title>Орлов оценил роль Черчесова в успехах «Ахмата»</title>
-      <link>https://www.euro-football.ru/article/29/1006162618_orlov_ocenil_rol_cherchesova_v_uspehah_ahmata</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162618_orlov_ocenil_rol_cherchesova_v_uspehah_ahmata</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162618_orlov_ocenil_rol_cherchesova_v_uspehah_ahmata"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/58e514a6e3e30c0f250048df0b4927440d1b9d99.jpg"/&gt;&lt;/a&gt;Главный тренер &amp;laquo;Ахмата&amp;raquo; Станислав Черчесов явля...</description>
-      <pubDate>Wed, 25 Mar 2026 09:33:46 +0300</pubDate>
-      <author>Всеволод Денисов</author>
+      <title>Ямаль: «Я бы многое обменял на свободу»</title>
+      <link>https://www.euro-football.ru/article/35/1006423370_yamal_ya_byi_mnogoe_obmenyal_na_svobodu</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/35/1006423370_yamal_ya_byi_mnogoe_obmenyal_na_svobodu</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/35/1006423370_yamal_ya_byi_mnogoe_obmenyal_na_svobodu"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/db01dc01a4f3e1b1ab049e6d61af3d663b4e6da9.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Вингер «Барселоны» Ламин Ямаль высказался о нехватке свободы в повседневной жизни из-за популярности&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/35/1006423370_yamal_ya_byi_mnogoe_obmenyal_na_svobodu"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 18:12:47 +0000</pubDate>
     </item>
     <item>
-      <title>Киммих исключил Германию из числа фаворитов чемпионата мира</title>
-      <link>https://www.euro-football.ru/article/1003652458/1006162617_kimmih_isklyuchil_germaniyu_iz_chisla_favoritov_chempionata_mira</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/1003652458/1006162617_kimmih_isklyuchil_germaniyu_iz_chisla_favoritov_chempionata_mira</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/1003652458/1006162617_kimmih_isklyuchil_germaniyu_iz_chisla_favoritov_chempionata_mira"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/da90af78090298dd609900ae9c7d3f584e55ca1b.jpg"/&gt;&lt;/a&gt;Германия не входит в число фавор...</description>
-      <pubDate>Wed, 25 Mar 2026 09:29:20 +0300</pubDate>
-      <author>Всеволод Денисов</author>
+      <title>Роналду отметился 986-м голом в карьере и не забил с пенальти</title>
+      <link>https://www.euro-football.ru/article/1004974409/1006423369_ronaldu_otmetilsya_986-m_golom_v_karere_i_ne_zabil_s_penalti</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/1004974409/1006423369_ronaldu_otmetilsya_986-m_golom_v_karere_i_ne_zabil_s_penalti</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/1004974409/1006423369_ronaldu_otmetilsya_986-m_golom_v_karere_i_ne_zabil_s_penalti"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/3ac872d80b178197655af37a427e20e327b0836c.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Нападающий «Аль-Насра» Криштиану Роналду открыл счёт в гостевом матче против «Аль-Ахли» в рамках чемпионата Саудовской Аравии&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/1004974409/1006423369_ronaldu_otmetilsya_986-m_golom_v_karere_i_ne_zabil_s_penalti"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 18:12:06 +0000</pubDate>
     </item>
     <item>
-      <title>Гурцкая уверен, что Сперцян побьёт рекорд по голевым передачам</title>
-      <link>https://www.euro-football.ru/article/29/1006162616_gurckaya_uveren_chto_spercyan_pobet_rekord_po_golevyim_peredacham</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162616_gurckaya_uveren_chto_spercyan_pobet_rekord_po_golevyim_peredacham</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162616_gurckaya_uveren_chto_spercyan_pobet_rekord_po_golevyim_peredacham"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/2326d060303915f16f8c58cb6dff66fc5857f887.jpg"/&gt;&lt;/a&gt;Тимур Гурцкая, футбольный агент, подели...</description>
-      <pubDate>Wed, 25 Mar 2026 09:27:36 +0300</pubDate>
-      <author>Дмитрий Миляев</author>
+      <title>Алонсо рассказал о состоянии Жоао Педро</title>
+      <link>https://www.euro-football.ru/article/31/1006423368_alonso_rasskazal_o_sostoyanii_joao_pedro</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006423368_alonso_rasskazal_o_sostoyanii_joao_pedro</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/31/1006423368_alonso_rasskazal_o_sostoyanii_joao_pedro"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/41476f01916708eea5a57e89d3520e92308d1178.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Главный тренер «Челси» Хаби Алонсо высказался о состоянии форварда своей команды Жоао Педро&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/31/1006423368_alonso_rasskazal_o_sostoyanii_joao_pedro"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 18:09:03 +0000</pubDate>
     </item>
     <item>
-      <title>Радимов - о матче «Рубина»: «Это был не футбол, а бестолковая беготня без ворот»</title>
-      <link>https://www.euro-football.ru/article/29/1006162615_radimov_-_o_matche_rubina_eto_byil_ne_futbol_a_bestolkovaya_begotnya_bez_vorot</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162615_radimov_-_o_matche_rubina_eto_byil_ne_futbol_a_bestolkovaya_begotnya_bez_vorot</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162615_radimov_-_o_matche_rubina_eto_byil_ne_futbol_a_bestolkovaya_begotnya_bez_vorot"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/2b9e5eed1b57ae987c7b294b888fed009fe3d996.jpg"/&gt;&lt;/a&gt;Экс-футболист петербургско...</description>
-      <pubDate>Wed, 25 Mar 2026 09:26:47 +0300</pubDate>
-      <author>Вячеслав Захаров</author>
+      <title>«Комо» ищет замену травмированному Кину</title>
+      <link>https://www.euro-football.ru/article/34/1006423367_komo_ischet_zamenu_travmirovannomu_kinu</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/34/1006423367_komo_ischet_zamenu_travmirovannomu_kinu</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/34/1006423367_komo_ischet_zamenu_travmirovannomu_kinu"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/40be001651810f80bb188a1c270e09ba02a9a0f2.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;«Комо» рассматривает четырёх нападающих на замену Мойзе Кину, который из-за травмы пропустит несколько месяцев&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/34/1006423367_komo_ischet_zamenu_travmirovannomu_kinu"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 18:03:09 +0000</pubDate>
     </item>
     <item>
-      <title>Дивеев: «Джон Джон однозначно усилил «Зенит»</title>
-      <link>https://www.euro-football.ru/article/29/1006162614_diveev_djon_djon_odnoznachno_usilil_zenit</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162614_diveev_djon_djon_odnoznachno_usilil_zenit</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162614_diveev_djon_djon_odnoznachno_usilil_zenit"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/d0e27ffd075ccbc650cf3ff5007dea841f9791c2.jpg"/&gt;&lt;/a&gt;Центральный защитник сборной России и петербургского &amp;laquo;Зен...</description>
-      <pubDate>Wed, 25 Mar 2026 09:21:17 +0300</pubDate>
-      <author>Вячеслав Захаров</author>
+      <title>Деку хочет видеть в «Барселоне» звёздного защитника и попробует убедить Флика</title>
+      <link>https://www.euro-football.ru/article/34/1006423345_deku_hochet_videt_v_barselone_zvezdnogo_zaschitnika_i_poprobuet_ubedit_flika</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/34/1006423345_deku_hochet_videt_v_barselone_zvezdnogo_zaschitnika_i_poprobuet_ubedit_flika</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/34/1006423345_deku_hochet_videt_v_barselone_zvezdnogo_zaschitnika_i_poprobuet_ubedit_flika"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/526dcf58945f2eec3c9a74e855dc6dc7f214e368.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;В «Барселоне» продолжают раздумывать над трансфером центрального защитника миланского «Интера» Алессандро Бастони&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/34/1006423345_deku_hochet_videt_v_barselone_zvezdnogo_zaschitnika_i_poprobuet_ubedit_flika"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 17:57:34 +0000</pubDate>
     </item>
     <item>
-      <title>Аршавин назвал лучшего форварда в истории РПЛ</title>
-      <link>https://www.euro-football.ru/article/29/1006162613_arshavin_nazval_luchshego_forvarda_v_istorii_rpl</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162613_arshavin_nazval_luchshego_forvarda_v_istorii_rpl</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162613_arshavin_nazval_luchshego_forvarda_v_istorii_rpl"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/9bffec53bcda8b886621d07ab9fe015b2547d330.JPG"/&gt;&lt;/a&gt;Андрей Аршавин, который выступал за санкт-петербургский...</description>
-      <pubDate>Wed, 25 Mar 2026 09:17:35 +0300</pubDate>
-      <author>Дмитрий Миляев</author>
+      <title>Де Дзерби пригрозил игрокам «Тоттенхэма»: «Я приду в их комнату и уничтожу GTA»</title>
+      <link>https://www.euro-football.ru/article/31/1006423343_de_dzerbi_prigrozil_igrokam_tottenhema_ya_pridu_v_ih_komnatu_i_unichtoju_gta</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006423343_de_dzerbi_prigrozil_igrokam_tottenhema_ya_pridu_v_ih_komnatu_i_unichtoju_gta</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/31/1006423343_de_dzerbi_prigrozil_igrokam_tottenhema_ya_pridu_v_ih_komnatu_i_unichtoju_gta"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/dbad3513ea6cb59b4ec9ede850186bf2e2b75b8d.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Главный тренер «Тоттенхэма» Роберто де Дзерби ответил на вопрос о том, собирается ли он контролировать режим своих подопечных на фоне выхода популярной видеоигры GTA VI, который состоялся 19 ноября&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/31/1006423343_de_dzerbi_prigrozil_igrokam_tottenhema_ya_pridu_v_ih_komnatu_i_unichtoju_gta"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 17:46:22 +0000</pubDate>
     </item>
     <item>
-      <title>Радимов: «На следующий сезон «Спартаку» надо делать ставку на золото»</title>
-      <link>https://www.euro-football.ru/article/29/1006162612_radimov_na_sleduyuschiy_sezon_spartaku_nado_delat_stavku_na_zoloto</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162612_radimov_na_sleduyuschiy_sezon_spartaku_nado_delat_stavku_na_zoloto</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162612_radimov_na_sleduyuschiy_sezon_spartaku_nado_delat_stavku_na_zoloto"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/2b9e5eed1b57ae987c7b294b888fed009fe3d996.jpg"/&gt;&lt;/a&gt;Экс-футболист петербургского &amp;laquo;Зе...</description>
-      <pubDate>Wed, 25 Mar 2026 09:15:39 +0300</pubDate>
-      <author>Вячеслав Захаров</author>
+      <title>Мареска поддержал Доннарумму после недавних ошибок</title>
+      <link>https://www.euro-football.ru/article/31/1006423341_mareska_podderjal_donnarummu_posle_nedavnih_oshibok</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006423341_mareska_podderjal_donnarummu_posle_nedavnih_oshibok</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/31/1006423341_mareska_podderjal_donnarummu_posle_nedavnih_oshibok"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/cc17af7220ac8366c02f75bd8f90bf8300201f54.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Главный тренер «Манчестер Сити» Энцо Мареска выразил поддержку Джанлуиджи Доннарумме, несмотря на ошибки голкипера в последних матчах&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/31/1006423341_mareska_podderjal_donnarummu_posle_nedavnih_oshibok"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 17:45:06 +0000</pubDate>
     </item>
     <item>
-      <title>Камерунский защитник «Спартака» поделился успехами в изучении русского</title>
-      <link>https://www.euro-football.ru/article/29/1006162611_kamerunskiy_zaschitnik_spartaka_podelilsya_uspehami_v_izuchenii_russkogo</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162611_kamerunskiy_zaschitnik_spartaka_podelilsya_uspehami_v_izuchenii_russkogo</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162611_kamerunskiy_zaschitnik_spartaka_podelilsya_uspehami_v_izuchenii_russkogo"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/eed085e388373b30f85ea3b7b83f20f10f110e9e.jpg"/&gt;&lt;/a&gt;Камерунский защитник московского...</description>
-      <pubDate>Wed, 25 Mar 2026 09:15:27 +0300</pubDate>
-      <author>Всеволод Денисов</author>
+      <title>Ещё один игрок «Реала» подписал долгосрочный контракт</title>
+      <link>https://www.euro-football.ru/article/35/1006423340_esche_odin_igrok_reala_podpisal_dolgosrochnyiy_kontrakt</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/35/1006423340_esche_odin_igrok_reala_podpisal_dolgosrochnyiy_kontrakt</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/35/1006423340_esche_odin_igrok_reala_podpisal_dolgosrochnyiy_kontrakt"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/9f460001a8613b809a4de18455d5db4f395de46f.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Атакующий полузащитник мадридского «Реала» Браим Диас продлил контракт&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/35/1006423340_esche_odin_igrok_reala_podpisal_dolgosrochnyiy_kontrakt"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 17:44:19 +0000</pubDate>
     </item>
     <item>
-      <title>Ярошик: «Вагнер был маленьким Дрогба»</title>
-      <link>https://www.euro-football.ru/article/29/1006162610_yaroshik_vagenr_byil_malenkim_drogba</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162610_yaroshik_vagenr_byil_malenkim_drogba</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162610_yaroshik_vagenr_byil_malenkim_drogba"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/d823458e88f0be144252492a1cd2447891563baf.jpg"/&gt;&lt;/a&gt;Бывший полузащитник ЦСКА Иржи Ярошик теплыми словами вспомнил своего...</description>
-      <pubDate>Wed, 25 Mar 2026 09:07:12 +0300</pubDate>
-      <author>Всеволод Денисов</author>
+      <title>Во Франции рассказали, при каком условии Сафонов может потерять место в старте «ПСЖ»</title>
+      <link>https://www.euro-football.ru/article/36/1006423339_vo_francii_rasskazali_pri_kakom_uslovii_safonov_mojet_poteryat_mesto_v_starte_psj</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/36/1006423339_vo_francii_rasskazali_pri_kakom_uslovii_safonov_mojet_poteryat_mesto_v_starte_psj</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/36/1006423339_vo_francii_rasskazali_pri_kakom_uslovii_safonov_mojet_poteryat_mesto_v_starte_psj"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/2e1cdb78dd7c38db38d560d36d5e2188b95811ca.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Журналист из Франции Жоффруа Гаретье высказался об информации, что «ПСЖ» планирует продлить контракт с российским голкипером Матвеем Сафоновым&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/36/1006423339_vo_francii_rasskazali_pri_kakom_uslovii_safonov_mojet_poteryat_mesto_v_starte_psj"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 17:39:00 +0000</pubDate>
     </item>
     <item>
-      <title>«Крылья Советов» выбирают из трёх тренеров - Юран в списке</title>
-      <link>https://www.euro-football.ru/article/29/1006162609_kryilya_sovetov_vyibirayut_iz_treh_trenerov_-_yuran_v_spiske</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006162609_kryilya_sovetov_vyibirayut_iz_treh_trenerov_-_yuran_v_spiske</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/29/1006162609_kryilya_sovetov_vyibirayut_iz_treh_trenerov_-_yuran_v_spiske"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/32c7dd643afc913e1a5e4436f34eedc5c095205a.jpg"/&gt;&lt;/a&gt;Самарские &amp;laquo;Крылья Советов&amp;raquo; подыс...</description>
-      <pubDate>Wed, 25 Mar 2026 09:07:06 +0300</pubDate>
-      <author>Вячеслав Захаров</author>
+      <title>Выяснилось, сколько предлагает «Монако» за Кисляка</title>
+      <link>https://www.euro-football.ru/article/29/1006423336_vyiyasnilos_skolko_predlagaet_monako_za_kislyaka</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/29/1006423336_vyiyasnilos_skolko_predlagaet_monako_za_kislyaka</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/29/1006423336_vyiyasnilos_skolko_predlagaet_monako_za_kislyaka"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/9dfd2666dbbc12e983dc330fff19f536a8714c19.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Полузащитник Матвей Кисляк вряд ли переберётся по стопам Александра Головина во французский чемпионат, несмотря на интерес к нему со стороны некоторых клубов&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/29/1006423336_vyiyasnilos_skolko_predlagaet_monako_za_kislyaka"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 17:38:15 +0000</pubDate>
     </item>
     <item>
-      <title>«Комо» не хочет отпускать Паса в «Реал»</title>
-      <link>https://www.euro-football.ru/article/34/1006162608_komo_ne_hochet_otpuskat_pasa_v_real</link>
-      <guid isPermaLink="false">https://www.euro-football.ru/article/34/1006162608_komo_ne_hochet_otpuskat_pasa_v_real</guid>
-      <description>&lt;a href="https://www.euro-football.ru/article/34/1006162608_komo_ne_hochet_otpuskat_pasa_v_real"&gt;&lt;img style="margin-right:5px" align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/5849869bd75a7622896980b02cc31b56f4a133e1.jpg"/&gt;&lt;/a&gt;Итальянский &amp;laquo;Комо&amp;raquo; надеется, что полузащитник Николас Пас...</description>
-      <pubDate>Wed, 25 Mar 2026 09:05:33 +0300</pubDate>
-      <author>Дмитрий Миляев</author>
+      <title>Осимхен готов перейти в «Манчестер Юнайтед» при одном условии</title>
+      <link>https://www.euro-football.ru/article/31/1006423335_osimhen_gotov_pereyti_v_manchester_yunayted_pri_odnom_uslovii</link>
+      <guid isPermaLink="false">https://www.euro-football.ru/article/31/1006423335_osimhen_gotov_pereyti_v_manchester_yunayted_pri_odnom_uslovii</guid>
+      <description>&lt;a href="https://www.euro-football.ru/article/31/1006423335_osimhen_gotov_pereyti_v_manchester_yunayted_pri_odnom_uslovii"&gt;&lt;img align="left" src="https://www.euro-football.ru/images/gallery/thumb/b/08bf62c6441e66cf82b15587055c04fbeb8a7eb1.jpg" style="margin-right: 5px;" /&gt;&lt;/a&gt;Центральный нападающий «Галатасарая» Виктор Осимхен, как сообщалось ранее, заинтересовал главного тренера «Манчестер Юнайтед» Маурисио Почеттино&lt;br /&gt;&lt;a href="https://www.euro-football.ru/article/31/1006423335_osimhen_gotov_pereyti_v_manchester_yunayted_pri_odnom_uslovii"&gt;Читать дальше →&lt;/a&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 17:33:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

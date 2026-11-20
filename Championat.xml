@@ -1,482 +1,228 @@
-<?xml version="1.0" ?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
   <channel>
-    <title>Футбол России и мира: онлайн трансляции футбольных матчей, результаты, трансферы, турнирные таблицы, фото, видео - Чемпионат</title>
-    <link>https://www.championat.com/football/</link>
-    <description>Все новости футбола России и мира: видео, фото, трансферы, турнирные таблицы и онлайн трансляции футбольных матчей. Актуальные новости мирового футбола на сегодняшний день.</description>
+    <title>Чемпионат</title>
+    <link>https://www.championat.com/</link>
+    <description>RSS feed for Чемпионат</description>
     <language>ru-RU</language>
-    <lastBuildDate>Wed, 25 Mar 2026 08:25:31 +0000</lastBuildDate>
-    <generator>Multi Source Site to RSS Converter</generator>
-    <docs>https://www.rssboard.org/rss-specification</docs>
-    <ttl>60</ttl>
+    <lastBuildDate>Fri, 20 Nov 2026 22:16:59 +0000</lastBuildDate>
+    <generator>Football RSS Mirror</generator>
     <item>
-      <title>Футбол</title>
-      <link>https://www.championat.com/football/</link>
-      <guid isPermaLink="false">https://www.championat.com/football/</guid>
-      <description>Футбол РПЛ Круглосуточный канал Okko Кубок России Сборная России Первая лига Вторая лига Лига чемпионов Лига Европы Лига конференций Англия Испания Италия Франция Германия Лига наций УЕФА ЧМ по футболу 2026 Евро-2024 Кубок Америки Молодёжные сборные Южная Америка Саудовская Аравия MLS / МЛС Клубный ЧМ 2025 Прочие Лю...</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>Винисиус Жуниор поддержал День чёрного самосознания в Бразилии</title>
+      <link>https://www.championat.com/football/news-6707600-vinisius-zhunior-podderzhal-den-chyornogo-samosoznaniya-v-brazilii.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707600-vinisius-zhunior-podderzhal-den-chyornogo-samosoznaniya-v-brazilii.html</guid>
+      <description>Нападающий мадридского «Реала» и сборной Бразилии Винисиус Жуниор поддержал празднование Дня чёрного самосознания, опубликовав запись в своих социальных сетях.</description>
+      <pubDate>Fri, 20 Nov 2026 22:13:16 +0000</pubDate>
     </item>
     <item>
-      <title>Хоккей</title>
-      <link>https://www.championat.com/hockey/</link>
-      <guid isPermaLink="false">https://www.championat.com/hockey/</guid>
-      <description>Хоккей КХЛ НХЛ Олимпиада 2026 Евротур ЧМ по хоккею 2025 МЧМ по хоккею 2026 Сид и Ови: 20 лет ВХЛ МХЛ Чемпионат КХЛ 3х3 Лига чемпионов Прочие турниры</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>«Эспаньол» победил «Атлетик» в матче 13-го тура Ла Лиги</title>
+      <link>https://www.championat.com/football/news-6707596-atletik-espanol-rezultat-matcha-20-noyabrya-2026-schet-0-1-13-j-tur-la-ligi-2026-2027.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707596-atletik-espanol-rezultat-matcha-20-noyabrya-2026-schet-0-1-13-j-tur-la-ligi-2026-2027.html</guid>
+      <description>Завершился матч 13-го тура испанской Ла Лиги, в котором встречались «Атлетик» из Бильбао и «Эспаньол».</description>
+      <pubDate>Fri, 20 Nov 2026 21:54:27 +0000</pubDate>
     </item>
     <item>
-      <title>Теннис</title>
-      <link>https://www.championat.com/tennis/</link>
-      <guid isPermaLink="false">https://www.championat.com/tennis/</guid>
-      <description>Теннис ATP WTA Большой шлем Олимпиада Кубок Дэвиса Кубок Билли Джин Кинг Рейтинг «Чемпионата» Рейтинг 52 недель ATP Чемпионская гонка ATP Рейтинг 52 недель WTA Чемпионская гонка WTA Легенды Кубка Кремля</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>Карседо ответил на вопрос о несостоявшемся переходе Дзюбы в «Спартак»</title>
+      <link>https://www.championat.com/football/news-6707558-karsedo-otvetil-na-vopros-o-nesostoyavshemsya-perehode-dzyuby-v-spartak.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707558-karsedo-otvetil-na-vopros-o-nesostoyavshemsya-perehode-dzyuby-v-spartak.html</guid>
+      <description>Главный тренер московского «Спартака» Хуан Карлос Карседо высказался об экс-форварде красно-белых Артёме Дзюбе, возвращение которого в клуб обсуждалось минувшим летом.</description>
+      <pubDate>Fri, 20 Nov 2026 21:48:34 +0000</pubDate>
     </item>
     <item>
-      <title>Бокс/ММА</title>
-      <link>https://www.championat.com/boxing/</link>
-      <guid isPermaLink="false">https://www.championat.com/boxing/</guid>
-      <description>Бокс/ММА UFC Профессиональный бокс PFL/Brave/Прочие бои Любительский бокс Российские ММА Bellator Поп-ММА Реслинг Самбо</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>«Речь не о реванше за полуфинал ЧМ». Зидан — о матчах с Испанией в 1/4 финала Лиги наций</title>
+      <link>https://www.championat.com/football/news-6707564-rech-ne-o-revanshe-za-polufinal-chm-zidan-o-matchah-s-ispaniej-v-1-4-finala-ligi-nacij.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707564-rech-ne-o-revanshe-za-polufinal-chm-zidan-o-matchah-s-ispaniej-v-1-4-finala-ligi-nacij.html</guid>
+      <description>Главный тренер сборной Франции Зинедин Зидан высказался о результатах жеребьёвки 1/4 финала Лиги наций, где «трёхцветные» встретятся с Испанией.</description>
+      <pubDate>Fri, 20 Nov 2026 21:40:04 +0000</pubDate>
     </item>
     <item>
-      <title>Баскетбол</title>
-      <link>https://www.championat.com/basketball/</link>
-      <guid isPermaLink="false">https://www.championat.com/basketball/</guid>
-      <description>Баскетбол Единая лига НБА Евролига Еврокубок Чемпионат мира Евробаскет Прочие турниры</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>Названа сумма, которую «Манчестер Юнайтед» заплатил за приглашение Почеттино — Джейкобс</title>
+      <link>https://www.championat.com/football/news-6707590-nazvana-summa-kotoruyu-manchester-yunajted-zaplatil-za-priglashenie-pochettino-dzhejkobs.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707590-nazvana-summa-kotoruyu-manchester-yunajted-zaplatil-za-priglashenie-pochettino-dzhejkobs.html</guid>
+      <description>«Манчестер Юнайтед» заплатил £ 7,584 млн (около € 9 млн) за приглашение Маурисио Почеттино на должность главного тренера, сообщает журналист Бен Джейкобс на своей странице в социальной сети Х.</description>
+      <pubDate>Fri, 20 Nov 2026 21:37:07 +0000</pubDate>
     </item>
     <item>
-      <title>Авто</title>
-      <link>https://www.championat.com/auto/</link>
-      <guid isPermaLink="false">https://www.championat.com/auto/</guid>
-      <description>Авто Формула-1 Формула-2 / Младшие серии Мотогонки Ралли Формула-Е/Америка/Прочее RDS/Дрифт Дакар/Ралли-рейды Суперкары</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>Кейн и Олисе получили травмы и не смогли доиграть матч «Баварии» с «Кёльном»</title>
+      <link>https://www.championat.com/football/news-6707580-kejn-i-olise-poluchili-travmy-i-ne-smogli-doigrat-match-bavarii-s-kyolnom.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707580-kejn-i-olise-poluchili-travmy-i-ne-smogli-doigrat-match-bavarii-s-kyolnom.html</guid>
+      <description>Лидеры атаки «Баварии» получили травмы в матче 10-го тура Бундеслиги сезона-2026/2027 с «Кёльном» (1:1).</description>
+      <pubDate>Fri, 20 Nov 2026 21:33:32 +0000</pubDate>
     </item>
     <item>
-      <title>Биатлон</title>
-      <link>https://www.championat.com/biathlon/</link>
-      <guid isPermaLink="false">https://www.championat.com/biathlon/</guid>
-      <description>Биатлон Кубок мира Кубок России Кубок Содружества Чемпионат России Чемпионат мира Прочие турниры</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>«Бавария» сыграла вничью с «Кёльном» в первом матче после возвращения Компани</title>
+      <link>https://www.championat.com/football/news-6707568-bavariya-kyoln-rezultat-matcha-21-noyabrya-2026-schet-1-1-10-j-tur-bundesligi-sezona-2026-2027.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707568-bavariya-kyoln-rezultat-matcha-21-noyabrya-2026-schet-1-1-10-j-tur-bundesligi-sezona-2026-2027.html</guid>
+      <description>Завершился матч 10-го тура немецкой Бундеслиги сезона-2026/2027, в котором встречались «Бавария» и «Кёльн».</description>
+      <pubDate>Fri, 20 Nov 2026 21:24:12 +0000</pubDate>
     </item>
     <item>
-      <title>Лыжи</title>
-      <link>https://www.championat.com/skiing/</link>
-      <guid isPermaLink="false">https://www.championat.com/skiing/</guid>
-      <description>Лыжи Кубок мира Кубок России Чемпионат России Чемпионат мира Ски-альпинизм Горнолыжный спорт Сноуборд и фристайл Прыжки с трамплина Прочие турниры</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>Артета высказался о предстоящем матче «Арсенала» с «Ньюкаслом» в АПЛ</title>
+      <link>https://www.championat.com/football/news-6707574-arteta-vyskazalsya-o-predstoyaschem-matche-arsenala-s-nyukaslom-v-apl.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707574-arteta-vyskazalsya-o-predstoyaschem-matche-arsenala-s-nyukaslom-v-apl.html</guid>
+      <description>Главный тренер «Арсенала» Микель Артета высказался о предстоящем матче 11-го тура АПЛ, в котором его команда встретится с «Ньюкаслом».</description>
+      <pubDate>Fri, 20 Nov 2026 21:23:54 +0000</pubDate>
     </item>
     <item>
-      <title>Фигурное катание</title>
-      <link>https://www.championat.com/figureskating/</link>
-      <guid isPermaLink="false">https://www.championat.com/figureskating/</guid>
-      <description>Фигурное катание Олимпийский турнир Чемпионат России Гран-при России Гран-при ISU Чемпионат мира Чемпионат Европы Ледовые шоу</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>Тухель высказался о матчах Англии с Норвегией в 1/4 финала Лиги наций</title>
+      <link>https://www.championat.com/football/news-6707538-tuhel-vyskazalsya-o-matchah-anglii-s-norvegiej-v-1-4-finala-ligi-nacij.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707538-tuhel-vyskazalsya-o-matchah-anglii-s-norvegiej-v-1-4-finala-ligi-nacij.html</guid>
+      <description>Главный тренер сборной Англии Томас Тухель поделился мнением о жеребьёвке 1/4 финала Лиги наций, где его команда сыграет с Норвегией.</description>
+      <pubDate>Fri, 20 Nov 2026 21:20:05 +0000</pubDate>
     </item>
     <item>
-      <title>Волейбол</title>
-      <link>https://www.championat.com/volleyball/</link>
-      <guid isPermaLink="false">https://www.championat.com/volleyball/</guid>
-      <description>Волейбол Суперлига, мужчины Суперлига, женщины Чемпионат мира — 2025 Лига чемпионов Сборная России Пляжный волейбол</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>«Зализали раны». Тренер «Крыльев Советов» обратился к игрокам после поражения от «Ростова»</title>
+      <link>https://www.championat.com/football/news-6707544-zalizali-rany-trener-krylev-sovetov-obratilsya-k-igrokam-posle-porazheniya-ot-rostova.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707544-zalizali-rany-trener-krylev-sovetov-obratilsya-k-igrokam-posle-porazheniya-ot-rostova.html</guid>
+      <description>Главный тренер «Крыльев Советов» Сергей Булатов обратился к игрокам своей команды после разгромного поражения от «Ростова» в матче 15-го тура Альфа-Банк Российской Премьер-Лиги (0:3).</description>
+      <pubDate>Fri, 20 Nov 2026 21:03:05 +0000</pubDate>
     </item>
     <item>
-      <title>Lifestyle</title>
-      <link>https://www.championat.com/lifestyle/</link>
-      <guid isPermaLink="false">https://www.championat.com/lifestyle/</guid>
-      <description>Lifestyle Полезные знания Бег Любительский спорт Тренировки Здоровье Питание Тренды Мотивация Активный отдых Гайды - всё о спортивном образе жизни</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>Гаттузо ответил, может ли стать проблемой игра футболистов в GTA 6 допоздна</title>
+      <link>https://www.championat.com/football/news-6707518-gattuzo-otvetil-mozhet-li-stat-problemoj-igra-futbolistov-v-gta-6-dopozdna.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707518-gattuzo-otvetil-mozhet-li-stat-problemoj-igra-futbolistov-v-gta-6-dopozdna.html</guid>
+      <description>Главный тренер «Лацио» Дженнаро Гаттузо ответил, может ли стать проблемой, если кто-то из его футболистов будет допоздна играть в GTA 6.</description>
+      <pubDate>Fri, 20 Nov 2026 21:00:06 +0000</pubDate>
     </item>
     <item>
-      <title>Чемп.Play</title>
-      <link>https://www.championat.com/cybersport/</link>
-      <guid isPermaLink="false">https://www.championat.com/cybersport/</guid>
-      <description>Чемп.Play Кино и сериалы Игры Лучшие киберклубы России Киберспорт Железо и гаджеты Dota 2 Counter-Strike 2</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>Гендиректор «Манчестер Юнайтед» высказался о ситуации с контрактом Бруну Фернандеша</title>
+      <link>https://www.championat.com/football/news-6707526-gendirektor-manchester-yunajted-vyskazalsya-o-situacii-s-kontraktom-brunu-fernandesha.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707526-gendirektor-manchester-yunajted-vyskazalsya-o-situacii-s-kontraktom-brunu-fernandesha.html</guid>
+      <description>Генеральный директор «Манчестер Юнайтед» Омар Беррада высказался о ситуации с контрактом полузащитника команды Бруну Фернандеша.</description>
+      <pubDate>Fri, 20 Nov 2026 20:58:23 +0000</pubDate>
     </item>
     <item>
-      <title>Ставки</title>
-      <link>https://www.championat.com/bets/</link>
-      <guid isPermaLink="false">https://www.championat.com/bets/</guid>
-      <description>Ставки Прогнозы Рейтинг букмекеров База знаний</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>В сборной Португалии отреагировали на 986-й гол Криштиану Роналду в карьере</title>
+      <link>https://www.championat.com/football/news-6707522-v-sbornoj-portugalii-otreagirovali-na-986-j-gol-krishtianu-ronaldu-v-karere.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707522-v-sbornoj-portugalii-otreagirovali-na-986-j-gol-krishtianu-ronaldu-v-karere.html</guid>
+      <description>В сборной Португалии отреагировали на 986-й гол форварда Криштиану Роналду в карьере.</description>
+      <pubDate>Fri, 20 Nov 2026 20:47:21 +0000</pubDate>
     </item>
     <item>
-      <title>Другие</title>
-      <link>https://www.championat.com/other/</link>
-      <guid isPermaLink="false">https://www.championat.com/other/</guid>
-      <description>Другие Футзал Шахматы Лёгкая атлетика Водные виды Борьба Гимнастика Регби Велоспорт Пляжный футбол Снукер Падел Гандбол Хоккей с мячом Прочие виды спорта</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>Карседо назвал двух игроков, которые могут стать капитанами и легендами «Спартака»</title>
+      <link>https://www.championat.com/football/news-6707514-karsedo-nazval-dvuh-igrokov-kotorye-mogut-stat-kapitanami-i-legendami-spartaka.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707514-karsedo-nazval-dvuh-igrokov-kotorye-mogut-stat-kapitanami-i-legendami-spartaka.html</guid>
+      <description>Главный тренер московского «Спартака» Хуан Карлос Карседо высказался о прогрессе полузащитников Наиля Умярова и Руслана Литвинова, а также заявил, что они могут стать легендами клуба в будущем.</description>
+      <pubDate>Fri, 20 Nov 2026 20:46:48 +0000</pubDate>
     </item>
     <item>
-      <title>Олимпиада 2026</title>
-      <link>https://www.championat.com/olympicwinter/</link>
-      <guid isPermaLink="false">https://www.championat.com/olympicwinter/</guid>
-      <description>Олимпиада 2026 Календарь ОИ-2026 Медальный зачёт Новости Россия на ОИ-2026 Биатлон Бобслей Горнолыжный спорт Кёрлинг Конькобежный спорт Лыжные гонки Лыжное двоеборье Прыжки на лыжах с трамплина Санный спорт Ски-альпинизм Скелетон Сноуборд Фигурное катание Фристайл Хоккей с шайбой Шорт-трек Олимпизм</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>«Челси» оштрафовали на £ 150 тыс. за неподобающее поведение болельщиков</title>
+      <link>https://www.championat.com/football/news-6707502-chelsi-oshtrafovali-na-gbp-150-tys-za-nepodobayuschee-povedenie-bolelschikov.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707502-chelsi-oshtrafovali-na-gbp-150-tys-za-nepodobayuschee-povedenie-bolelschikov.html</guid>
+      <description>«Челси» оштрафовали на £ 150 тыс.</description>
+      <pubDate>Fri, 20 Nov 2026 20:37:47 +0000</pubDate>
     </item>
     <item>
-      <title>Паралимпиада 2026</title>
-      <link>https://www.championat.com/paralympic/</link>
-      <guid isPermaLink="false">https://www.championat.com/paralympic/</guid>
-      <description>Паралимпиада 2026 Медальный зачёт Новости Наши в Милане Биатлон и лыжные гонки Горнолыжный спорт Следж-хоккей Керлинг на колясках Пара-сноуборд Паралимпизм</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>Журналист рассказал о желании Хэмилтона познакомиться с Месси</title>
+      <link>https://www.championat.com/auto/news-6707496-zhurnalist-rasskazal-o-zhelanii-hemiltona-poznakomitsya-s-messi.html</link>
+      <guid isPermaLink="false">https://www.championat.com/auto/news-6707496-zhurnalist-rasskazal-o-zhelanii-hemiltona-poznakomitsya-s-messi.html</guid>
+      <description>Аргентинский журналист Гастон Эдул поделился подробностями своего визита в гараж команды «Феррари», где он пообщался с семикратным чемпионом мира, британским пилотом Льюисом Хэмилтоном.</description>
+      <pubDate>Fri, 20 Nov 2026 20:36:28 +0000</pubDate>
     </item>
     <item>
-      <title>Мобильное приложение «Чемпионата». Для тех, кто любит спорт</title>
-      <link>https://www.championat.com/page/app/</link>
-      <guid isPermaLink="false">https://www.championat.com/page/app/</guid>
-      <description>Мобильное приложение «Чемпионата». Для тех, кто любит спорт Матч-центр Новости Эфир Топ-матчи Видео Рейтинг букмекеров Теперь вы знаете Полная версия сайта</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>«Вообще не понимаю». Радимов возмутился отсутствием Вендела в сборной Бразилии</title>
+      <link>https://www.championat.com/football/news-6707504-voobsche-ne-ponimayu-radimov-vozmutilsya-otsutstviem-vendela-v-sbornoj-brazilii.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707504-voobsche-ne-ponimayu-radimov-vozmutilsya-otsutstviem-vendela-v-sbornoj-brazilii.html</guid>
+      <description>Бывший футболист «Зенита» Владислав Радимов возмутился регулярным невызовом полузащитника сине-бело-голубых Вендела в сборную Бразилии.</description>
+      <pubDate>Fri, 20 Nov 2026 20:35:17 +0000</pubDate>
     </item>
     <item>
-      <title>Матч-центр</title>
-      <link>https://www.championat.com/stat/?utm_source=button&amp;utm_medium=match</link>
-      <guid isPermaLink="false">https://www.championat.com/stat/?utm_source=button&amp;utm_medium=match</guid>
-      <description>Матч-центр</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>Onda Cero раскрыло, где может продолжить карьеру тер Штеген</title>
+      <link>https://www.championat.com/football/news-6707470-onda-cero-raskrylo-gde-mozhet-prodolzhit-kareru-ter-shtegen.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707470-onda-cero-raskrylo-gde-mozhet-prodolzhit-kareru-ter-shtegen.html</guid>
+      <description>Спортивный директор «Валенсии» запросил сведения относительно ситуации вратаря «Барселоны» Марка-Андре тер Штегена, арендованного «Аяксом».</description>
+      <pubDate>Fri, 20 Nov 2026 20:19:14 +0000</pubDate>
     </item>
     <item>
-      <title>Новости</title>
-      <link>https://www.championat.com/news/1.html?utm_source=button&amp;utm_medium=news</link>
-      <guid isPermaLink="false">https://www.championat.com/news/1.html?utm_source=button&amp;utm_medium=news</guid>
-      <description>Новости</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>Компани впервые после выписки из больницы появился на матче «Баварии»</title>
+      <link>https://www.championat.com/football/news-6707476-kompani-vpervye-posle-vypiski-iz-bolnicy-poyavilsya-na-matche-bavarii.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707476-kompani-vpervye-posle-vypiski-iz-bolnicy-poyavilsya-na-matche-bavarii.html</guid>
+      <description>Главный тренер «Баварии» Венсан Компани впервые появился на тренерской скамье мюнхенцев после обморока и резкого ухудшения состояния здоровья.</description>
+      <pubDate>Fri, 20 Nov 2026 20:19:02 +0000</pubDate>
     </item>
     <item>
-      <title>Эфир</title>
-      <link>https://www.championat.com/page/okkosport/</link>
-      <guid isPermaLink="false">https://www.championat.com/page/okkosport/</guid>
-      <description>Эфир</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>Тихонов назвал самого талантливого молодого игрока в РПЛ</title>
+      <link>https://www.championat.com/football/news-6707478-tihonov-nazval-samogo-talantlivogo-molodogo-igroka-v-rpl.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707478-tihonov-nazval-samogo-talantlivogo-molodogo-igroka-v-rpl.html</guid>
+      <description>Бывший футболист «Спартака» Андрей Тихонов назвал 18-летнего полузащитника московского «Динамо» Тимофея Маринкина самым талантливым молодым игроком в Альфа-Банк РПЛ.</description>
+      <pubDate>Fri, 20 Nov 2026 20:12:02 +0000</pubDate>
     </item>
     <item>
-      <title>Топ-матчи</title>
-      <link>https://www.championat.com/hockey/article-6405870-raspisanie-sportivnyh-matchej-25-marta-2026-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html</link>
-      <guid isPermaLink="false">https://www.championat.com/hockey/article-6405870-raspisanie-sportivnyh-matchej-25-marta-2026-goda-live-translyacii-tekstovye-translyacii-rezultaty-kto-sygraet.html</guid>
-      <description>Топ-матчи</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>В «Манчестер Юнайтед» рассказали, как принималось решение об увольнении Кэррика</title>
+      <link>https://www.championat.com/football/news-6707458-v-manchester-yunajted-rasskazali-kak-prinimalos-reshenie-ob-uvolnenii-kerrika.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707458-v-manchester-yunajted-rasskazali-kak-prinimalos-reshenie-ob-uvolnenii-kerrika.html</guid>
+      <description>Генеральный директор «Манчестер Юнайтед» Омар Беррада рассказал, как принималось решение об увольнении главного тренера Майкла Кэррика.</description>
+      <pubDate>Fri, 20 Nov 2026 20:04:47 +0000</pubDate>
     </item>
     <item>
-      <title>Видео</title>
-      <link>https://www.championat.com/video/?utm_source=button&amp;utm_medium=video</link>
-      <guid isPermaLink="false">https://www.championat.com/video/?utm_source=button&amp;utm_medium=video</guid>
-      <description>Видео</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>Экс-игрок «Реала» Бенито: «сливочным» намного лучше без Винисиуса, чем с ним. Это факт</title>
+      <link>https://www.championat.com/football/news-6707444-eks-igrok-reala-benito-slivochnym-namnogo-luchshe-bez-vinisiusa-chem-s-nim-eto-fakt.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707444-eks-igrok-reala-benito-slivochnym-namnogo-luchshe-bez-vinisiusa-chem-s-nim-eto-fakt.html</guid>
+      <description>Бывший полузащитник мадридского «Реала» Альваро Бенито высказал мнение, что «сливочные» гораздо лучше играют без нападающего Винисиуса Жуниора в составе.</description>
+      <pubDate>Fri, 20 Nov 2026 20:00:04 +0000</pubDate>
     </item>
     <item>
-      <title>Рейтинг букмекеров</title>
-      <link>https://bet.championat.com</link>
-      <guid isPermaLink="false">https://bet.championat.com</guid>
-      <description>Рейтинг букмекеров</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>Карседо ответил на слова Слуцкого, что «Спартак» не будет бороться за победу в РПЛ</title>
+      <link>https://www.championat.com/football/news-6707418-karsedo-otvetil-na-slova-sluckogo-chto-spartak-ne-budet-borotsya-za-pobedu-v-rpl.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707418-karsedo-otvetil-na-slova-sluckogo-chto-spartak-ne-budet-borotsya-za-pobedu-v-rpl.html</guid>
+      <description>Главный тренер московского «Спартака» Хуан Карлос Карседо ответил на слова бывшего тренера сборной России Леонида Слуцкого, который ранее заявил, что красно-белые не будут бороться за победу в Альфа-Банк Российской Премьер-Лиге в текущем сезоне.</description>
+      <pubDate>Fri, 20 Nov 2026 19:43:39 +0000</pubDate>
     </item>
     <item>
-      <title>Теперь вы знаете</title>
-      <link>https://www.championat.com/twz/</link>
-      <guid isPermaLink="false">https://www.championat.com/twz/</guid>
-      <description>Теперь вы знаете</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>Начало прямой видеотрансляции матча Лиги 1 «Труа» — «Гавр»</title>
+      <link>https://www.championat.com/football/news-6701838-trua-gavr-pryamaya-translyaciya-matcha-11-go-tura-ligi-1-po-futbolu-2026-2027-nachnetsya-v-22-45.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6701838-trua-gavr-pryamaya-translyaciya-matcha-11-go-tura-ligi-1-po-futbolu-2026-2027-nachnetsya-v-22-45.html</guid>
+      <description>20 ноября в 22:45 мск на странице Okko на «Чемпионате» начнётся прямая трансляция матча 11-го тура французской Лиги 1 сезона-2026/2027 между клубами «Труа» и «Гавр».</description>
+      <pubDate>Fri, 20 Nov 2026 19:30:04 +0000</pubDate>
     </item>
     <item>
-      <title>Александр Бубнов назвал сильнейшего легионера в истории чемпионатов России</title>
-      <link>https://www.championat.com/football/news-6406552-aleksandr-bubnov-nazval-silnejshego-legionera-v-istorii-chempionatov-rossii.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406552-aleksandr-bubnov-nazval-silnejshego-legionera-v-istorii-chempionatov-rossii.html</guid>
-      <description>11:21 Александр Бубнов назвал сильнейшего легионера в истории чемпионатов России</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>«Аль-Наср» уступил «Аль-Ахли», Роналду забил 986-й гол и не реализовал пенальти</title>
+      <link>https://www.championat.com/football/news-6707422-al-ahli-al-nasr-rezultat-matcha-20-noyabrya-2026-schet-3-1-9-j-tur-pro-ligi-2026-2027.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707422-al-ahli-al-nasr-rezultat-matcha-20-noyabrya-2026-schet-3-1-9-j-tur-pro-ligi-2026-2027.html</guid>
+      <description>Завершился матч 9-го тура саудовской Про-Лиги, в котором встречались «Аль-Ахли» и «Аль-Наср».</description>
+      <pubDate>Fri, 20 Nov 2026 19:29:14 +0000</pubDate>
     </item>
     <item>
-      <title>«Барселона» готова продать Феррана Торреса и купить двух нападающих летом — ESPN</title>
-      <link>https://www.championat.com/football/news-6406534-barselona-gotova-prodat-ferrana-torresa-i-kupit-dvuh-napadayuschih-letom-espn.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406534-barselona-gotova-prodat-ferrana-torresa-i-kupit-dvuh-napadayuschih-letom-espn.html</guid>
-      <description>11:17 «Барселона» готова продать Феррана Торреса и купить двух нападающих летом — ESPN</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>Оператор, снявший с дрона первую тренировку Почеттино в «МЮ», сделал заявление</title>
+      <link>https://www.championat.com/football/news-6707420-operator-snyavshij-s-drona-pervuyu-trenirovku-pochettino-sdelal-zayavlenie.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707420-operator-snyavshij-s-drona-pervuyu-trenirovku-pochettino-sdelal-zayavlenie.html</guid>
+      <description>Оператор с YouTube-канала CC OVERVIEW объяснил, почему снял с дрона и опубликовал около 12 минут первой тренировки «Манчестер Юнайтед» под руководством Маурисио Почеттино.</description>
+      <pubDate>Fri, 20 Nov 2026 19:23:08 +0000</pubDate>
     </item>
     <item>
-      <title>Вагнер Лав показывал Путину, как чеканить, и носил Кубок УЕФА. Фото карьеры в ЦСКА</title>
-      <link>https://www.championat.com/football/news-6406536-vagner-lav-pokazyval-putinu-kak-chekanit-i-nosil-kubok-uefa-foto-karery-v-cska.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406536-vagner-lav-pokazyval-putinu-kak-chekanit-i-nosil-kubok-uefa-foto-karery-v-cska.html</guid>
-      <description>11:15 Вагнер Лав показывал Путину, как чеканить, и носил Кубок УЕФА. Фото карьеры в ЦСКА Фото</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>«Кого-то пугает мой подход». Конте объяснил, почему не возглавил «Манчестер Юнайтед»</title>
+      <link>https://www.championat.com/football/news-6707406-kogo-to-pugaet-moj-podhod-konte-obyasnil-pochemu-ne-vozglavil-manchester-yunajted.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707406-kogo-to-pugaet-moj-podhod-konte-obyasnil-pochemu-ne-vozglavil-manchester-yunajted.html</guid>
+      <description>Бывший главный тренер «Челси» Антонио Конте ответил, почему не возглавил «Манчестер Юнайтед» после ухода из клуба Майкла Кэррика.</description>
+      <pubDate>Fri, 20 Nov 2026 19:15:05 +0000</pubDate>
     </item>
     <item>
-      <title>168-сантиметровый Батраков — лидер текущего сезона РПЛ по голам головой</title>
-      <link>https://www.championat.com/football/news-6406504-168-santimetrovyj-batrakov-lider-tekuschego-sezona-rpl-po-golam-golovoj.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406504-168-santimetrovyj-batrakov-lider-tekuschego-sezona-rpl-po-golam-golovoj.html</guid>
-      <description>11:00 168-сантиметровый Батраков — лидер текущего сезона РПЛ по голам головой</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>«Брайтон» продлил контракт с 35-летним Гросом, у немца 4+6 в 10 турах на старте АПЛ</title>
+      <link>https://www.championat.com/football/news-6707410-brajton-prodlil-kontrakt-s-35-letnim-grosom-u-nemca-4-6-v-10-turah-na-starte-apl.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707410-brajton-prodlil-kontrakt-s-35-letnim-grosom-u-nemca-4-6-v-10-turah-na-starte-apl.html</guid>
+      <description>«Брайтон» объявил о продлении контракта с 35-летним немецким полузащитником Паскалем Гросом.</description>
+      <pubDate>Fri, 20 Nov 2026 19:09:51 +0000</pubDate>
     </item>
     <item>
-      <title>Алексей Никитин высказался о будущем Фабио Челестини в ЦСКА</title>
-      <link>https://www.championat.com/football/news-6406528-aleksej-nikitin-vyskazalsya-o-buduschem-fabio-chelestini-v-cska.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406528-aleksej-nikitin-vyskazalsya-o-buduschem-fabio-chelestini-v-cska.html</guid>
-      <description>10:57 Алексей Никитин высказался о будущем Фабио Челестини в ЦСКА</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>«Надоело». Радимов — о товарищеских матчах сборной России</title>
+      <link>https://www.championat.com/football/news-6707412-nadoelo-radimov-o-tovarischeskih-matchah-sbornoj-rossii.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707412-nadoelo-radimov-o-tovarischeskih-matchah-sbornoj-rossii.html</guid>
+      <description>Бывший футболист «Зенита» Владислав Радимов высказался о товарищеских матчах сборной России.</description>
+      <pubDate>Fri, 20 Nov 2026 19:07:04 +0000</pubDate>
     </item>
     <item>
-      <title>Бубнов: Кордоба однозначно лучше Вагнера Лава</title>
-      <link>https://www.championat.com/football/news-6406486-bubnov-kordoba-odnoznachno-luchshe-vagnera-lava.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406486-bubnov-kordoba-odnoznachno-luchshe-vagnera-lava.html</guid>
-      <description>10:42 Бубнов: Кордоба однозначно лучше Вагнера Лава</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>Ямаль рассказал, что ухудшилось в его жизни с приходом популярности</title>
+      <link>https://www.championat.com/football/news-6707388-yamal-rasskazal-chto-uhudshilos-v-ego-zhizni-s-prihodom-populyarnosti.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707388-yamal-rasskazal-chto-uhudshilos-v-ego-zhizni-s-prihodom-populyarnosti.html</guid>
+      <description>Нападающий сборной Испании и «Барселоны» Ламин Ямаль рассказал, что изменилось в его жизни в худшую сторону с приходом популярности.</description>
+      <pubDate>Fri, 20 Nov 2026 19:00:05 +0000</pubDate>
     </item>
     <item>
-      <title>Никитин: против Кордобы защитник зависим. С ним не знаешь, как быть</title>
-      <link>https://www.championat.com/football/news-6406488-nikitin-protiv-kordoby-zaschitnik-zavisim-s-nim-ne-znaesh-kak-byt.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406488-nikitin-protiv-kordoby-zaschitnik-zavisim-s-nim-ne-znaesh-kak-byt.html</guid>
-      <description>10:35 Никитин: против Кордобы защитник зависим. С ним не знаешь, как быть Эксклюзив</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Всё, до свидания». Бубнов отреагировал на ситуацию с Адиевым в «Крыльях Советов»</title>
-      <link>https://www.championat.com/football/news-6406476-vsyo-do-svidaniya-bubnov-otreagiroval-na-situaciyu-s-adievym-v-krylyah-sovetov.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406476-vsyo-do-svidaniya-bubnov-otreagiroval-na-situaciyu-s-adievym-v-krylyah-sovetov.html</guid>
-      <description>10:32 «Всё, до свидания». Бубнов отреагировал на ситуацию с Адиевым в «Крыльях Советов»</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Я надеюсь, что Доумен не поедет». Тео Уолкотт — о заявке сборной Англии на ЧМ-2026</title>
-      <link>https://www.championat.com/football/news-6406474-ya-nadeyus-chto-doumen-ne-poedet-teo-uolkott-o-zayavke-sbornoj-anglii-na-chm-2026.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406474-ya-nadeyus-chto-doumen-ne-poedet-teo-uolkott-o-zayavke-sbornoj-anglii-na-chm-2026.html</guid>
-      <description>10:31 «Я надеюсь, что Доумен не поедет». Тео Уолкотт — о заявке сборной Англии на ЧМ-2026</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Алексей Никитин рассказал, что позитивного видит в «Спартаке» Карседо</title>
-      <link>https://www.championat.com/football/news-6406462-aleksej-nikitin-rasskazal-chto-pozitivnogo-vidit-v-spartake-karsedo.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406462-aleksej-nikitin-rasskazal-chto-pozitivnogo-vidit-v-spartake-karsedo.html</guid>
-      <description>10:08 Алексей Никитин рассказал, что позитивного видит в «Спартаке» Карседо Эксклюзив</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Никитин ― о конфликте Мойзеса и Челестини: сомневаюсь, что только бразилец так думает</title>
-      <link>https://www.championat.com/football/news-6406436-nikitin-o-konflikte-mojzesa-i-chelestini-somnevayus-chto-tolko-brazilec-tak-dumaet.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406436-nikitin-o-konflikte-mojzesa-i-chelestini-somnevayus-chto-tolko-brazilec-tak-dumaet.html</guid>
-      <description>09:41 Никитин ― о конфликте Мойзеса и Челестини: сомневаюсь, что только бразилец так думает Эксклюзив</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Орлов назвал лучшего игрока матча «Динамо» — «Зенит» в 22-м туре РПЛ</title>
-      <link>https://www.championat.com/football/news-6406418-orlov-nazval-luchshego-igroka-matcha-dinamo-zenit-v-22-m-ture-rpl.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406418-orlov-nazval-luchshego-igroka-matcha-dinamo-zenit-v-22-m-ture-rpl.html</guid>
-      <description>09:37 Орлов назвал лучшего игрока матча «Динамо» — «Зенит» в 22-м туре РПЛ</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Кучеров набрал 120 очков в сезоне НХЛ, Синнер — в 1/4 финала «Мастерса». Главное к утру</title>
-      <link>https://www.championat.com/hockey/news-6406350-25-marta-glavnye-novosti-sporta-futbol-tennis-hokkej-nhl.html</link>
-      <guid isPermaLink="false">https://www.championat.com/hockey/news-6406350-25-marta-glavnye-novosti-sporta-futbol-tennis-hokkej-nhl.html</guid>
-      <description>08:30 Кучеров набрал 120 очков в сезоне НХЛ, Синнер — в 1/4 финала «Мастерса». Главное к утру</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Фабрицио Романо сообщил о возможном трансфере Алессандро Бастони в «Барселону»</title>
-      <link>https://www.championat.com/football/news-6406328-fabricio-romano-soobschil-o-vozmozhnom-transfere-alessandro-bastoni-v-barselonu.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406328-fabricio-romano-soobschil-o-vozmozhnom-transfere-alessandro-bastoni-v-barselonu.html</guid>
-      <description>08:15 Фабрицио Романо сообщил о возможном трансфере Алессандро Бастони в «Барселону»</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Уход Салаха станет ключом к дорогостоящему подписанию Олисе — indykalia</title>
-      <link>https://www.championat.com/football/news-6406264-uhod-salaha-stanet-klyuchom-k-dorogostoyaschemu-podpisaniyu-olise-indykalia.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406264-uhod-salaha-stanet-klyuchom-k-dorogostoyaschemu-podpisaniyu-olise-indykalia.html</guid>
-      <description>03:08 Уход Салаха станет ключом к дорогостоящему подписанию Олисе — indykalia</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Абаскаль заявил о желании вернуться в РПЛ и объяснил уход из мексиканского «Атлетико»</title>
-      <link>https://www.championat.com/football/news-6406254-abaskal-zayavil-o-zhelanii-vernutsya-v-rpl-i-obyasnil-uhod-iz-meksikanskogo-atletiko.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406254-abaskal-zayavil-o-zhelanii-vernutsya-v-rpl-i-obyasnil-uhod-iz-meksikanskogo-atletiko.html</guid>
-      <description>01:52 Абаскаль заявил о желании вернуться в РПЛ и объяснил уход из мексиканского «Атлетико»</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>15:00 Казахстан – Намибия Не начался</title>
-      <link>https://www.championat.com/football/_russia/tournament/6894/match/1307646/</link>
-      <guid isPermaLink="false">https://www.championat.com/football/_russia/tournament/6894/match/1307646/</guid>
-      <description>15:00 Казахстан – Намибия Не начался</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Новости. Футбол</title>
-      <link>https://www.championat.com/news/football/1.html</link>
-      <guid isPermaLink="false">https://www.championat.com/news/football/1.html</guid>
-      <description>Новости. Футбол 25 марта 2026 11:21 Александр Бубнов назвал сильнейшего легионера в истории чемпионатов России 11:17 «Барселона» готова продать Феррана Торреса и купить двух нападающих летом — ESPN 11:15 Вагнер Лав показывал Путину, как чеканить, и носил Кубок УЕФА. Фото карьеры в ЦСКА Фото 11:00 168-сантиметровый Б...</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Нидерландах собрали более 170 тысяч подписей за бойкот ЧМ-2026</title>
-      <link>https://www.championat.com/football/news-6406438-v-niderlandah-sobrali-bolee-170-tysyach-podpisej-za-bojkot-chm-2026.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406438-v-niderlandah-sobrali-bolee-170-tysyach-podpisej-za-bojkot-chm-2026.html</guid>
-      <description>09:58 В Нидерландах собрали более 170 тысяч подписей за бойкот ЧМ-2026</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Ты был гордостью нашего спорта». Линекер высказался о решении Салаха уйти из «Ливерпуля»</title>
-      <link>https://www.championat.com/football/news-6406398-ty-byl-gordostyu-nashego-sporta-lineker-vyskazalsya-o-reshenii-salaha-ujti-iz-liverpulya.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406398-ty-byl-gordostyu-nashego-sporta-lineker-vyskazalsya-o-reshenii-salaha-ujti-iz-liverpulya.html</guid>
-      <description>09:39 «Ты был гордостью нашего спорта». Линекер высказался о решении Салаха уйти из «Ливерпуля»</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Орлов: в «Ахмате» Черчесов доказал, что он тренер</title>
-      <link>https://www.championat.com/football/news-6406404-orlov-v-ahmate-cherchesov-dokazal-chto-on-trener.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406404-orlov-v-ahmate-cherchesov-dokazal-chto-on-trener.html</guid>
-      <description>09:23 Орлов: в «Ахмате» Черчесов доказал, что он тренер</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Мы не входим в число главных фаворитов». Капитан сборной Германии Киммих — о ЧМ-2026</title>
-      <link>https://www.championat.com/football/news-6406382-my-ne-vhodim-v-chislo-glavnyh-favoritov-kapitan-sbornoj-germanii-kimmih-o-chm-2026.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406382-my-ne-vhodim-v-chislo-glavnyh-favoritov-kapitan-sbornoj-germanii-kimmih-o-chm-2026.html</guid>
-      <description>09:15 «Мы не входим в число главных фаворитов». Капитан сборной Германии Киммих — о ЧМ-2026</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Легендарный Роналдо высказался о будущем Неймара в сборной Бразилии</title>
-      <link>https://www.championat.com/football/news-6406314-legendarnyj-ronaldo-vyskazalsya-o-buduschem-nejmara-v-sbornoj-brazilii.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406314-legendarnyj-ronaldo-vyskazalsya-o-buduschem-nejmara-v-sbornoj-brazilii.html</guid>
-      <description>08:50 Легендарный Роналдо высказался о будущем Неймара в сборной Бразилии</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Если нужно — буду стоять в воротах». Шведский вингер «Барселоны» — о матче с Украиной</title>
-      <link>https://www.championat.com/football/news-6406312-esli-nuzhno-budu-stoyat-v-vorotah-shvedskij-vinger-barselony-o-matche-s-ukrainoj.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406312-esli-nuzhno-budu-stoyat-v-vorotah-shvedskij-vinger-barselony-o-matche-s-ukrainoj.html</guid>
-      <description>05:58 «Если нужно — буду стоять в воротах». Шведский вингер «Барселоны» — о матче с Украиной</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>В Швеции застрелен 20-летний футболист</title>
-      <link>https://www.championat.com/football/news-6406306-v-shvecii-zastrelen-20-letnij-futbolist.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406306-v-shvecii-zastrelen-20-letnij-futbolist.html</guid>
-      <description>05:45 В Швеции застрелен 20-летний футболист</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Защитник «Манчестер Сити» Хусанов впервые стал отцом</title>
-      <link>https://www.championat.com/football/news-6406260-zaschitnik-manchester-siti-husanov-vpervye-stal-otcom.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406260-zaschitnik-manchester-siti-husanov-vpervye-stal-otcom.html</guid>
-      <description>02:40 Защитник «Манчестер Сити» Хусанов впервые стал отцом</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Стал известен тренерский штаб Зинедина Зидана в случае назначения в сборную Франции</title>
-      <link>https://www.championat.com/football/news-6406252-stal-izvesten-trenerskij-shtab-zinedina-zidana-v-sluchae-naznacheniya-v-sbornuyu-francii.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406252-stal-izvesten-trenerskij-shtab-zinedina-zidana-v-sluchae-naznacheniya-v-sbornuyu-francii.html</guid>
-      <description>01:46 Стал известен тренерский штаб Зинедина Зидана в случае назначения в сборную Франции</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вратарь «Барселоны» Гарсия дал комментарий на тему важности матча с «Атлетико» в Ла Лиге</title>
-      <link>https://www.championat.com/football/news-6406230-vratar-barselony-garsiya-dal-kommentarij-na-temu-vazhnosti-matcha-s-atletiko-v-la-lige.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406230-vratar-barselony-garsiya-dal-kommentarij-na-temu-vazhnosti-matcha-s-atletiko-v-la-lige.html</guid>
-      <description>00:54 Вратарь «Барселоны» Гарсия дал комментарий на тему важности матча с «Атлетико» в Ла Лиге</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ди Канио — о Леау: в футболе даже одно «но» — это слишком, а у него их пять-шесть</title>
-      <link>https://www.championat.com/football/news-6406208-di-kanio-o-leau-v-futbole-dazhe-odno-no-eto-slishkom-a-u-nego-ih-pyat-shest.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406208-di-kanio-o-leau-v-futbole-dazhe-odno-no-eto-slishkom-a-u-nego-ih-pyat-shest.html</guid>
-      <description>00:48 Ди Канио — о Леау: в футболе даже одно «но» — это слишком, а у него их пять-шесть</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>В «Ливерпуле» считают, что уже частично решили проблему ухода Салаха — Асим</title>
-      <link>https://www.championat.com/football/news-6406226-v-liverpule-schitayut-chto-uzhe-chastichno-reshili-problemu-uhoda-salaha-asim.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406226-v-liverpule-schitayut-chto-uzhe-chastichno-reshili-problemu-uhoda-salaha-asim.html</guid>
-      <description>00:47 В «Ливерпуле» считают, что уже частично решили проблему ухода Салаха — Асим</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Ливерпуль» готов потратить € 140 млн на замену Салаху, названы три кандидата</title>
-      <link>https://www.championat.com/football/news-6406224-liverpul-gotov-potratit-eur-140-mln-na-zamenu-salahu-nazvany-tri-kandidata.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406224-liverpul-gotov-potratit-eur-140-mln-na-zamenu-salahu-nazvany-tri-kandidata.html</guid>
-      <description>00:45 «Ливерпуль» готов потратить € 140 млн на замену Салаху, названы три кандидата</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вратарь «Барселоны» Гарсия высказался о значимости «эль класико» в борьбе за чемпионство</title>
-      <link>https://www.championat.com/football/news-6406216-vratar-barselony-garsiya-vyskazalsya-o-znachimosti-el-klasiko-v-borbe-za-chempionstvo.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406216-vratar-barselony-garsiya-vyskazalsya-o-znachimosti-el-klasiko-v-borbe-za-chempionstvo.html</guid>
-      <description>00:37 Вратарь «Барселоны» Гарсия высказался о значимости «эль класико» в борьбе за чемпионство</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>«Египетский король». АПЛ отреагировала на уход Салаха из «Ливерпуля»</title>
-      <link>https://www.championat.com/football/news-6406212-egipetskij-korol-apl-otreagirovala-na-uhod-salaha-iz-liverpulya.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406212-egipetskij-korol-apl-otreagirovala-na-uhod-salaha-iz-liverpulya.html</guid>
-      <description>00:34 «Египетский король». АПЛ отреагировала на уход Салаха из «Ливерпуля»</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Генич посоветовал Захаряну покинуть «Реал Сосьедад» и перейти в другой испанский клуб</title>
-      <link>https://www.championat.com/football/news-6406206-genich-posovetoval-zaharyanu-pokinut-real-sosedad-i-perejti-v-drugoj-ispanskij-klub.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406206-genich-posovetoval-zaharyanu-pokinut-real-sosedad-i-perejti-v-drugoj-ispanskij-klub.html</guid>
-      <description>00:31 Генич посоветовал Захаряну покинуть «Реал Сосьедад» и перейти в другой испанский клуб</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>TEAMtalk: «Манчестер Юнайтед» интересны два футболиста «Монако»</title>
-      <link>https://www.championat.com/football/news-6406192-teamtalk-manchester-yunajted-interesny-dva-futbolista-monako.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406192-teamtalk-manchester-yunajted-interesny-dva-futbolista-monako.html</guid>
-      <description>00:21 TEAMtalk: «Манчестер Юнайтед» интересны два футболиста «Монако»</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Рюдигер: я отодвинул здоровье на второй план и хотел на 100% посвятить себя «Реалу»</title>
-      <link>https://www.championat.com/football/news-6406182-ryudiger-ya-otodvinul-zdorove-na-vtoroj-plan-i-hotel-na-100-posvyatit-sebya-realu.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406182-ryudiger-ya-otodvinul-zdorove-na-vtoroj-plan-i-hotel-na-100-posvyatit-sebya-realu.html</guid>
-      <description>00:18 Рюдигер: я отодвинул здоровье на второй план и хотел на 100% посвятить себя «Реалу»</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Вратарь сборной Испании Жоан Гарсия поделился воспоминаниями о просмотре финала ЧМ-2010</title>
-      <link>https://www.championat.com/football/news-6406184-vratar-sbornoj-ispanii-zhoan-garsiya-podelilsya-vospominaniyami-o-prosmotre-finala-chm-2010.html</link>
-      <guid isPermaLink="false">https://www.championat.com/football/news-6406184-vratar-sbornoj-ispanii-zhoan-garsiya-podelilsya-vospominaniyami-o-prosmotre-finala-chm-2010.html</guid>
-      <description>00:16 Вратарь сборной Испании Жоан Гарсия поделился воспоминаниями о просмотре финала ЧМ-2010</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Правовая информация</title>
-      <link>https://www.championat.com/page/legal/</link>
-      <guid isPermaLink="false">https://www.championat.com/page/legal/</guid>
-      <description>Правовая информация</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Контакты</title>
-      <link>https://www.championat.com/page/about/</link>
-      <guid isPermaLink="false">https://www.championat.com/page/about/</guid>
-      <description>Контакты</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Реклама</title>
-      <link>https://www.championat.com/page/collab/</link>
-      <guid isPermaLink="false">https://www.championat.com/page/collab/</guid>
-      <description>Реклама</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Политика конфиденциальности</title>
-      <link>https://www.championat.com/page/privacy/</link>
-      <guid isPermaLink="false">https://www.championat.com/page/privacy/</guid>
-      <description>Политика конфиденциальности</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Условия использования</title>
-      <link>https://www.championat.com/page/terms/</link>
-      <guid isPermaLink="false">https://www.championat.com/page/terms/</guid>
-      <description>Условия использования</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пресс-релизы</title>
-      <link>https://www.championat.com/pressrelease/</link>
-      <guid isPermaLink="false">https://www.championat.com/pressrelease/</guid>
-      <description>Пресс-релизы</description>
-      <pubDate>Wed, 25 Mar 2026 08:25:31 +0000</pubDate>
+      <title>Карседо объяснил, почему Максименко — основной вратарь «Спартака»</title>
+      <link>https://www.championat.com/football/news-6707390-karsedo-obyasnil-pochemu-maksimenko-osnovnoj-vratar-spartaka.html</link>
+      <guid isPermaLink="false">https://www.championat.com/football/news-6707390-karsedo-obyasnil-pochemu-maksimenko-osnovnoj-vratar-spartaka.html</guid>
+      <description>Главный тренер московского «Спартака» Хуан Карлос Карседо объяснил, почему голкипер Александр Максименко продолжает оставаться основным в клубе.</description>
+      <pubDate>Fri, 20 Nov 2026 18:45:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

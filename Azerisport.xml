@@ -1,498 +1,491 @@
-<?xml version="1.0" ?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
   <channel>
-    <title>Футбол - Azerisport.com - Все об Азербайджанском спорте</title>
+    <title>Azerisport</title>
     <link>https://azerisport.com/football/</link>
-    <description>Автоконвертация сайта в RSS</description>
+    <description>RSS feed for Azerisport</description>
     <language>ru-RU</language>
-    <lastBuildDate>Wed, 25 Mar 2026 08:58:53 +0000</lastBuildDate>
-    <generator>Multi Source Site to RSS Converter</generator>
-    <docs>https://www.rssboard.org/rss-specification</docs>
-    <ttl>60</ttl>
-    <item>
-      <title>Фоторепортаж</title>
-      <link>https://azerisport.com/ru/photostory/</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/photostory/</guid>
-      <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Париж-2024</title>
-      <link>https://azerisport.com/ru/olimpizm/paris-2024/</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/olimpizm/paris-2024/</guid>
-      <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Токио-2020</title>
-      <link>https://azerisport.com/ru/olimpizm/tokio-2020/</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/olimpizm/tokio-2020/</guid>
-      <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Другие виды</title>
-      <link>https://azerisport.com/ru/other/</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/other/</guid>
-      <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Гимнастика</title>
-      <link>https://azerisport.com/ru/gymnastics/</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/gymnastics/</guid>
-      <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Фехтование</title>
-      <link>https://azerisport.com/ru/fencing/</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/fencing/</guid>
-      <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Паралимпизм</title>
-      <link>https://azerisport.com/ru/paralympics/</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/paralympics/</guid>
-      <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Наши лицензии</title>
-      <link>https://azerisport.com/ru/licences/</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/licences/</guid>
-      <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Тяжелая атлетика</title>
-      <link>https://azerisport.com/ru/weightlifting/</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/weightlifting/</guid>
-      <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Пекин-2008</title>
-      <link>https://azerisport.com/ru/beijing2008/</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/beijing2008/</guid>
-      <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Лондон-2012</title>
-      <link>https://azerisport.com/ru/london2012/</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/london2012/</guid>
-      <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Легкая атлетика</title>
-      <link>https://azerisport.com/ru/athletics/</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/athletics/</guid>
-      <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Фигурное катание</title>
-      <link>https://azerisport.com/ru/figureskating/</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/figureskating/</guid>
-      <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Блог Вугара Зейналова</title>
-      <link>https://azerisport.com/ru/blog/vugar/</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/blog/vugar/</guid>
-      <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Блог Руслана Микайыллы</title>
-      <link>https://azerisport.com/ru/blog/ruslan/</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/blog/ruslan/</guid>
-      <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Блог Имрана Гусейнова</title>
-      <link>https://azerisport.com/ru/blog/imran/</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/blog/imran/</guid>
-      <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Блог Рустама Фаталиева</title>
-      <link>https://azerisport.com/ru/blog/frustam/</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/blog/frustam/</guid>
-      <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Блог Фаната</title>
-      <link>https://azerisport.com/ru/blog/fanblog/</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/blog/fanblog/</guid>
-      <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Блог Айдына Багирова</title>
-      <link>https://azerisport.com/ru/blog/aydin/</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/blog/aydin/</guid>
-      <description>AZ РУ Футбол Фоторепортаж Видео Борьба Дзюдо Баскетбол Волейбол Шахматы Олимпизм Париж-2024 Токио-2020 MEDIA Другие виды Исламиада Бокс Каратэ Гимнастика Таэквондо Фехтование Паралимпизм Хроника Наши лицензии Тяжелая атлетика Автоспорт Велоспорт Пекин-2008 Лондон-2012 Баку-2015 Рио-2016 Водные Триатлон Стрельба Ганд...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Велько СИМИЧ: Поражение Карабаха? Ничего удивительного</title>
-      <link>https://azerisport.com/ru/football/20260325110131329-Velko-SIMICH-Porazhenie-Karabakha-Nichego-udivitelnogo.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260325110131329-Velko-SIMICH-Porazhenie-Karabakha-Nichego-udivitelnogo.html</guid>
-      <description>Сегодня 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного Вингер азербайджанского футбольного клуба «Сабах» Велько Симич ответил на вопросы корреспондента azerisport.com.</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/25/thumb20260325110131329_426.webp?2026-03-25+11%3A04%3A07"/>
-    </item>
-    <item>
-      <title>Сегодня 00:01 Вусал Искендерли – о причине затянувшегося отсутствия в «милли», матчах Серии ФИФА и игре в Албании</title>
-      <link>https://azerisport.com/ru/football/20260325000022324-Vusal-Iskenderli-o-prichine-zatyanuvshegosya-otsutstviya-v-milli-matchakh-Serii-FIFA-i-igre-v-Albanii.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260325000022324-Vusal-Iskenderli-o-prichine-zatyanuvshegosya-otsutstviya-v-milli-matchakh-Serii-FIFA-i-igre-v-Albanii.html</guid>
-      <description>Сегодня 00:01 Вусал Искендерли – о причине затянувшегося отсутствия в «милли», матчах Серии ФИФА и игре в Албании Вчера 11:05 Азербайджанский хавбек российского клуба: Перед нами стоят максимальные задачи Вчера 00:01 «Милли» перед матчами Серии ФИФА: неплохой багаж результативности 23 марта 11:09 Шахрудин МАГОМЕДАЛИ...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/25/thumb20260325000022324_276.webp?2026-03-25+00%3A01%3A30"/>
-    </item>
-    <item>
-      <title>Вчера 11:05 Азербайджанский хавбек российского клуба: Перед нами стоят максимальные задачи</title>
-      <link>https://azerisport.com/ru/football/20260324110247158-Azerbaidzhanskii-khavbek-rossiiskogo-kluba-Pered-nami-stoyat-maksimalnye-zadachi.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324110247158-Azerbaidzhanskii-khavbek-rossiiskogo-kluba-Pered-nami-stoyat-maksimalnye-zadachi.html</guid>
-      <description>Сегодня 00:01 Вусал Искендерли – о причине затянувшегося отсутствия в «милли», матчах Серии ФИФА и игре в Албании Вчера 11:05 Азербайджанский хавбек российского клуба: Перед нами стоят максимальные задачи Вчера 00:01 «Милли» перед матчами Серии ФИФА: неплохой багаж результативности 23 марта 11:09 Шахрудин МАГОМЕДАЛИ...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/25/thumb20260325000022324_276.webp?2026-03-25+00%3A01%3A30"/>
-    </item>
-    <item>
-      <title>Вчера 00:01 «Милли» перед матчами Серии ФИФА: неплохой багаж результативности</title>
-      <link>https://azerisport.com/ru/football/20260324000004544-Milli-pered-matchami-Serii-FIFA-neplokhoi-bagazh-rezultativnosti.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324000004544-Milli-pered-matchami-Serii-FIFA-neplokhoi-bagazh-rezultativnosti.html</guid>
-      <description>Сегодня 00:01 Вусал Искендерли – о причине затянувшегося отсутствия в «милли», матчах Серии ФИФА и игре в Албании Вчера 11:05 Азербайджанский хавбек российского клуба: Перед нами стоят максимальные задачи Вчера 00:01 «Милли» перед матчами Серии ФИФА: неплохой багаж результативности 23 марта 11:09 Шахрудин МАГОМЕДАЛИ...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/25/thumb20260325000022324_276.webp?2026-03-25+00%3A01%3A30"/>
-    </item>
-    <item>
-      <title>23 марта 11:09 Шахрудин МАГОМЕДАЛИЕВ: Никто не может отрицать, что Сабах показывает хороший футбол. Жаль, мы поздно спохватились</title>
-      <link>https://azerisport.com/ru/football/20260323110914981-SHakhrudin-MAGOMEDALIEV-Nikto-ne-mozhet-otritsat-chto-Sabakh-pokazyvaet-khoroshii-futbol-ZHal-my-pozdno-spokhvatilis.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260323110914981-SHakhrudin-MAGOMEDALIEV-Nikto-ne-mozhet-otritsat-chto-Sabakh-pokazyvaet-khoroshii-futbol-ZHal-my-pozdno-spokhvatilis.html</guid>
-      <description>Сегодня 00:01 Вусал Искендерли – о причине затянувшегося отсутствия в «милли», матчах Серии ФИФА и игре в Албании Вчера 11:05 Азербайджанский хавбек российского клуба: Перед нами стоят максимальные задачи Вчера 00:01 «Милли» перед матчами Серии ФИФА: неплохой багаж результативности 23 марта 11:09 Шахрудин МАГОМЕДАЛИ...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/25/thumb20260325000022324_276.webp?2026-03-25+00%3A01%3A30"/>
-    </item>
-    <item>
-      <title>Педру Матеуш: Если сыграем удачно с Кяпазом и Шамахы, то все может поменяться</title>
-      <link>https://azerisport.com/ru/football/20260325123800903-Pedru-Mateush-Esli-sygraem-udachno-s-Kyapazom-i-SHamakhy-to-vse-mozhet-pomenyatsya.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260325123800903-Pedru-Mateush-Esli-sygraem-udachno-s-Kyapazom-i-SHamakhy-to-vse-mozhet-pomenyatsya.html</guid>
-      <description>Сегодня 12:37 Педру Матеуш: Если сыграем удачно с Кяпазом и Шамахы, то все может поменяться Голкипер «Карван-Евлаха» Педру Матеуш рассказал azerisport.com о перспективах команды сохранить прописку в Мисли премьер-лиги Азербайджана по футболу, где команда пока замыкает турнирную таблицу.</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/25/thumb20260325123800903_276.webp?2026-03-25+12%3A38%3A43"/>
-    </item>
-    <item>
-      <title>Эюбов ответит на вопросы журналистов</title>
-      <link>https://azerisport.com/ru/football/20260325120355327-Eyubov-otvetit-na-voprosy-zhurnalistov.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260325120355327-Eyubov-otvetit-na-voprosy-zhurnalistov.html</guid>
-      <description>Сегодня 12:05 Эюбов ответит на вопросы журналистов Завтра в 13:45 на стадионе «Палмс Спортс Арена» состоится предматчевая тренировка молодежной сборной Азербайджана против сверстников из Португалии в рамках отбора на ЕВРО-2027 по футболу (U-21).</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/25/thumb20260325120355327_276.webp?2026-03-25+12%3A06%3A21"/>
-    </item>
-    <item>
-      <title>Азербайджан против Литвы</title>
-      <link>https://azerisport.com/ru/football/20260325101949430-Azerbaidzhan-protiv-Litvy.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260325101949430-Azerbaidzhan-protiv-Litvy.html</guid>
-      <description>Сегодня 10:21 Азербайджан против Литвы Сегодня юношеская сборная Азербайджана по футболу (U-19) проведет стартовый матч 1-го раунда отбора на ЕВРО-2027.</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/25/thumb20260325101949430_276.webp?2026-03-25+10%3A21%3A11"/>
-    </item>
-    <item>
-      <title>Португальский защитник: Нам нужно мощно начать против Азербайджана</title>
-      <link>https://azerisport.com/ru/football/20260324233503948-Portugalskii-zashcitnik-Nam-nuzhno-moshcno-nachat-protiv-Azerbaidzhana.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324233503948-Portugalskii-zashcitnik-Nam-nuzhno-moshcno-nachat-protiv-Azerbaidzhana.html</guid>
-      <description>Вчера 23:35 Португальский защитник: Нам нужно мощно начать против Азербайджана Защитник молодежной сборной Португалии по футболу Тьягу Габриэл поделился мнением касательно предстоящих матчей отбора на ЕВРО-2027 (U-21) против команд Азербайджана (27 марта) и Шотландии (31 марта), передает azerisport.com.</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/24/thumb20260324233503948_276.webp?2026-03-24+23%3A35%3A25"/>
-    </item>
-    <item>
-      <title>Какау назвал состав перед матчами с Азербайджаном</title>
-      <link>https://azerisport.com/ru/football/20260324231351774-Kakau-nazval-sostav-pered-matchami-s-Azerbaidzhanom.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324231351774-Kakau-nazval-sostav-pered-matchami-s-Azerbaidzhanom.html</guid>
-      <description>Вчера 23:13 Какау назвал состав перед матчами с Азербайджаном Обнародован состав сборной Казахстана по футзалу на предстоящие сборы и два товарищеских матча с командой Азербайджана в Актау (13 и 15 апреля).</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/24/thumb20260324231351774_276.webp?2026-03-24+23%3A14%3A12"/>
-    </item>
-    <item>
-      <title>Азербайджан выстоял против Болгарии</title>
-      <link>https://azerisport.com/ru/football/20260324111842529-Azerbaidzhan-vystoyal-protiv-Bolgarii.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324111842529-Azerbaidzhan-vystoyal-protiv-Bolgarii.html</guid>
-      <description>Вчера 18:53 Азербайджан выстоял против Болгарии Сегодня юношеская сборная Азербайджана по футболу (U-17) провела стартовый матч 2-го отборочного раунда ЕВРО-2026.</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/24/thumb20260324111842529_276.webp?2026-03-24+19%3A42%3A36"/>
-    </item>
-    <item>
-      <title>Кипрское СМИ – о возможном приобретении защитника из Карабаха</title>
-      <link>https://azerisport.com/ru/football/20260324183017877-Kiprskoe-SMI-o-vozmozhnom-priobretenii-zashcitnika-iz-Karabakha.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324183017877-Kiprskoe-SMI-o-vozmozhnom-priobretenii-zashcitnika-iz-Karabakha.html</guid>
-      <description>Вчера 18:31 Кипрское СМИ – о возможном приобретении защитника из Карабаха В Кипре отреагировали на информацию о возможном уходе защитника азербайджанского футбольного клуба «Карабах» Сами Ммаэ и переходе в местную «Омонию».</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/24/thumb20260324183017877_276.webp?2026-03-24+18%3A30%3A57"/>
-    </item>
-    <item>
-      <title>Ханкенди и ГЛ учинили разгромы</title>
-      <link>https://azerisport.com/ru/football/20260324104836109-KHankendi-i-GL-uchinili-razgromy.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324104836109-KHankendi-i-GL-uchinili-razgromy.html</guid>
-      <description>Вчера 16:58 Ханкенди и ГЛ учинили разгромы Сегодня завершился 19-й тур 2-й Лиги Азербайджана по футболу.</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/24/thumb20260324104836109_276.webp?2026-03-24+17%3A49%3A34"/>
-    </item>
-    <item>
-      <title>Наставник сборной Португалии пригласил еще одного хавбека перед матчем с Азербайджаном</title>
-      <link>https://azerisport.com/ru/football/20260324151112407-Nastavnik-sbornoi-Portugalii-priglasil-eshce-odnogo-khavbeka-pered-matchem-s-Azerbaidzhanom.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324151112407-Nastavnik-sbornoi-Portugalii-priglasil-eshce-odnogo-khavbeka-pered-matchem-s-Azerbaidzhanom.html</guid>
-      <description>Вчера 15:09 Наставник сборной Португалии пригласил еще одного хавбека перед матчем с Азербайджаном Главный тренер молодежной сборной Португалии по футболу Луиш Фрейре в преддверии матча 8-го тура группы B отбора на ЕВРО-2027 (U-21) против команды Азербайджана пригласил в состав еще одного игрока.</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/24/thumb20260324151112407_276.webp?2026-03-24+15%3A12%3A03"/>
-    </item>
-    <item>
-      <title>Нигерийский вингер отправился в Азербайджан ради Карабаха</title>
-      <link>https://azerisport.com/ru/football/20260324133730885-Nigeriiskii-vinger-otpravilsya-v-Azerbaidzhan-radi-Karabakha.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324133730885-Nigeriiskii-vinger-otpravilsya-v-Azerbaidzhan-radi-Karabakha.html</guid>
-      <description>Вчера 13:36 Нигерийский вингер отправился в Азербайджан ради Карабаха Азербайджанский футбольный клуб «Карабах» может пополнить ряды новым легионером.</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/24/thumb20260324133730885_276.webp?2026-03-24+13%3A37%3A59"/>
-    </item>
-    <item>
-      <title>Хавбек сборной Португалии: Игра с Азербайджаном – самая важная</title>
-      <link>https://azerisport.com/ru/football/20260324123210537-KHavbek-sbornoi-Portugalii-Igra-s-Azerbaidzhanom-samaya-vazhnaya.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324123210537-KHavbek-sbornoi-Portugalii-Igra-s-Azerbaidzhanom-samaya-vazhnaya.html</guid>
-      <description>Вчера 12:37 Хавбек сборной Португалии: Игра с Азербайджаном – самая важная Хавбек молодежной сборной Португалии по футболу Жоау Симоэш поделился мнением касательно предстоящих матчей отбора на ЕВРО-2027 (U-21) против команд Азербайджана (27 марта) и Шотландии (31 марта), передает azerisport.com.</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/24/thumb20260324123210537_276.webp?2026-03-24+23%3A32%3A29"/>
-    </item>
-    <item>
-      <title>Евгений Куксевич: В нашем составе есть новые игроки, которых хотим проверить</title>
-      <link>https://azerisport.com/ru/football/20260324113733276-Evgenii-Kuksevich-V-nashem-sostave-est-novye-igroki-kotorykh-khotim-proverit.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324113733276-Evgenii-Kuksevich-V-nashem-sostave-est-novye-igroki-kotorykh-khotim-proverit.html</guid>
-      <description>Вчера 11:37 Евгений Куксевич: В нашем составе есть новые игроки, которых хотим проверить Главный тренер сборной Азербайджана по футзалу Евгений Куксевич высказался по поводу стартовавшего сбора «милли» в преддверии товарищеских матчей, передает azerisport.com.</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/24/thumb20260324113733276_276.webp?2026-03-24+11%3A38%3A17"/>
-    </item>
-    <item>
-      <title>Агент белорусского вратаря – о возможности перейти в Карабах: Будем прорабатывать все варианты</title>
-      <link>https://azerisport.com/ru/football/20260324101938830-Agent-belorusskogo-vratarya-o-vozmozhnosti-pereiti-v-Karabakh-Budem-prorabatyvat-vse-varianty.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324101938830-Agent-belorusskogo-vratarya-o-vozmozhnosti-pereiti-v-Karabakh-Budem-prorabatyvat-vse-varianty.html</guid>
-      <description>Вчера 10:38 Агент белорусского вратаря – о возможности перейти в Карабах: Будем прорабатывать все варианты Агент голкипера азербайджанского футбольного клуба «Имишли» Андрея Синенко Дмитрий Хлебосолов прокомментировал разговоры об интересе к его клиенту со стороны агдамского «Карабаха», передает azerisport.com.</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/24/thumb20260324101938830_276.webp?2026-03-24+11%3A09%3A30"/>
-    </item>
-    <item>
-      <title>«Милли» проведет еще два матча</title>
-      <link>https://azerisport.com/ru/football/20260324100703974-Milli-provedet-eshce-dva-matcha.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260324100703974-Milli-provedet-eshce-dva-matcha.html</guid>
-      <description>Вчера 10:07 «Милли» проведет еще два матча Сборная Азербайджана по футзалу в следующем месяце проведет еще два товарищеских матча.</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/24/thumb20260324100703974_276.webp?2026-03-24+17%3A51%3A42"/>
-    </item>
-    <item>
-      <title>Эрен Айдын: Рашад Садыхов оказывает мне поддержку</title>
-      <link>https://azerisport.com/ru/football/20260323231439583-Eren-Aidyn-Rashad-Sadykhov-okazyvaet-mne-podderzhku.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260323231439583-Eren-Aidyn-Rashad-Sadykhov-okazyvaet-mne-podderzhku.html</guid>
-      <description>23 марта 23:14 Эрен Айдын: Рашад Садыхов оказывает мне поддержку Хавбек бакинского «Зире» Эрен Айдын прокомментировал azerisport.com матч 25-го тура Мисли премьер-лиги Азербайджана по футболу против «Карван-Евлаха» (1:0) и рассказал о предложениях из Европы.</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/23/thumb20260323231439583_276.webp?2026-03-23+23%3A17%3A34"/>
-    </item>
-    <item>
-      <title>Наставник «милли» отправился в Турцию</title>
-      <link>https://azerisport.com/ru/football/20260323190842518-Nastavnik-milli-otpravilsya-v-Turtsiyu.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260323190842518-Nastavnik-milli-otpravilsya-v-Turtsiyu.html</guid>
-      <description>23 марта 19:09 Наставник «милли» отправился в Турцию Главный тренер женской сборной Азербайджана по футболу Сиясет Аскеров отправился в Турцию.</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/23/thumb20260323190842518_276.webp?2026-03-23+19%3A47%3A36"/>
-    </item>
-    <item>
-      <title>Представители АФФА на семинаре UEFA GROW</title>
-      <link>https://azerisport.com/ru/football/20260323183625433-Predstaviteli-AFFA-na-seminare-UEFA-GROW.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260323183625433-Predstaviteli-AFFA-na-seminare-UEFA-GROW.html</guid>
-      <description>23 марта 18:36 Представители АФФА на семинаре UEFA GROW В Вене (Австрия) состоялась третья конференция УЕФА Grow.</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/23/thumb20260323183625433_276.webp?2026-03-23+18%3A36%3A58"/>
-    </item>
-    <item>
-      <title>Сначала наставник Сент-Люсии, потом Аббасов</title>
-      <link>https://azerisport.com/ru/football/20260323175937831-Snachala-nastavnik-Sent-Lyusii-potom-Abbasov.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260323175937831-Snachala-nastavnik-Sent-Lyusii-potom-Abbasov.html</guid>
-      <description>23 марта 18:01 Сначала наставник Сент-Люсии, потом Аббасов Стало известно время начала пресс-конференций главных тренеров сборных Азербайджана и Сент-Люсии в преддверии первого матча турнира Серии ФИФА по футболу в Сумгайыте.</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-      <media:thumbnail url="https://azerisport.com/images/articles/2026/03/23/thumb20260323175937831_276.webp?2026-03-23+18%3A00%3A31"/>
-    </item>
-    <item>
-      <title>11:34 Что ожидать от второго матча Азербайджана с Португалией?</title>
-      <link>https://azerisport.com/ru/video/20260325113454091-CHto-ozhidat-ot-vtorogo-matcha-Azerbaidzhana-s-Portugaliei.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/video/20260325113454091-CHto-ozhidat-ot-vtorogo-matcha-Azerbaidzhana-s-Portugaliei.html</guid>
-      <description>25 марта 12:37 Педру Матеуш: Если сыграем удачно с Кяпазом и Шамахы, то все может поменяться 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:2...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>10:47 Историческое золото азербайджанского таэквондо</title>
-      <link>https://azerisport.com/ru/taekvondo/20260325104707454-Istoricheskoe-zoloto-azerbaidzhanskogo-taekvondo.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/taekvondo/20260325104707454-Istoricheskoe-zoloto-azerbaidzhanskogo-taekvondo.html</guid>
-      <description>25 марта 12:37 Педру Матеуш: Если сыграем удачно с Кяпазом и Шамахы, то все может поменяться 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:2...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>10:07 Ламия Велиева: Всю свою силу и настоящую форму я планирую показать именно на этих соревнованиях</title>
-      <link>https://azerisport.com/ru/athletics/20260325100621156-Lamiya-Velieva-Vsyu-svoyu-silu-i-nastoyashcuyu-formu-ya-planiruyu-pokazat-imenno-na-etikh-sorevnovaniyakh.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/athletics/20260325100621156-Lamiya-Velieva-Vsyu-svoyu-silu-i-nastoyashcuyu-formu-ya-planiruyu-pokazat-imenno-na-etikh-sorevnovaniyakh.html</guid>
-      <description>25 марта 12:37 Педру Матеуш: Если сыграем удачно с Кяпазом и Шамахы, то все может поменяться 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:2...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>19:41 Азербайджанская четверка проиграла в Тбилиси</title>
-      <link>https://azerisport.com/ru/paralympics/20260324173936393-Azerbaidzhanskaya-chetverka-proigrala-v-Tbilisi.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/paralympics/20260324173936393-Azerbaidzhanskaya-chetverka-proigrala-v-Tbilisi.html</guid>
-      <description>25 марта 12:37 Педру Матеуш: Если сыграем удачно с Кяпазом и Шамахы, то все может поменяться 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:2...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>19:31 Азербайджанские дзюдоисты выбрали Германию</title>
-      <link>https://azerisport.com/ru/judo/20260324193023503-Azerbaidzhanskie-dzyudoisty-vybrali-Germaniyu.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/judo/20260324193023503-Azerbaidzhanskie-dzyudoisty-vybrali-Germaniyu.html</guid>
-      <description>25 марта 12:37 Педру Матеуш: Если сыграем удачно с Кяпазом и Шамахы, то все может поменяться 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:2...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>19:07 Азербайджан поднялся в мировом рейтинге</title>
-      <link>https://azerisport.com/ru/basketball/20260324190707902-Azerbaidzhan-podnyalsya-v-mirovom-reitinge.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/basketball/20260324190707902-Azerbaidzhan-podnyalsya-v-mirovom-reitinge.html</guid>
-      <description>25 марта 12:37 Педру Матеуш: Если сыграем удачно с Кяпазом и Шамахы, то все может поменяться 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:2...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>18:03 Борцы сборной Азербайджана лидируют в российском рейтинге</title>
-      <link>https://azerisport.com/ru/wrestling/20260324175849692-Bortsy-sbornoi-Azerbaidzhana-lidiruyut-v-rossiiskom-reitinge.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/wrestling/20260324175849692-Bortsy-sbornoi-Azerbaidzhana-lidiruyut-v-rossiiskom-reitinge.html</guid>
-      <description>25 марта 12:37 Педру Матеуш: Если сыграем удачно с Кяпазом и Шамахы, то все может поменяться 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:2...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>15:42 30-летие большой несправедливости по отношению к Азербайджану</title>
-      <link>https://azerisport.com/ru/video/20260324153848378-30-letie-bolshoi-nespravedlivosti-po-otnosheniyu-k-Azerbaidzhanu.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/video/20260324153848378-30-letie-bolshoi-nespravedlivosti-po-otnosheniyu-k-Azerbaidzhanu.html</guid>
-      <description>25 марта 12:37 Педру Матеуш: Если сыграем удачно с Кяпазом и Шамахы, то все может поменяться 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:2...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>15:28 Велиева провалила ЧМ</title>
-      <link>https://azerisport.com/ru/athletics/20260324153235846-Velieva-provalila-CHM.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/athletics/20260324153235846-Velieva-provalila-CHM.html</guid>
-      <description>25 марта 12:37 Педру Матеуш: Если сыграем удачно с Кяпазом и Шамахы, то все может поменяться 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:2...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>14:33 Мамедов попытается победить в турнире с участием Карлсена</title>
-      <link>https://azerisport.com/ru/chess/20260324143130866-Mamedov-popytaetsya-pobedit-v-turnire-s-uchastiem-Karlsena.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/chess/20260324143130866-Mamedov-popytaetsya-pobedit-v-turnire-s-uchastiem-Karlsena.html</guid>
-      <description>25 марта 12:37 Педру Матеуш: Если сыграем удачно с Кяпазом и Шамахы, то все может поменяться 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:2...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>14:04 Американский форвард Гянджи: Мы вписали свое имя в историю, и этого у нас никто не отнимет</title>
-      <link>https://azerisport.com/ru/basketball/20260324140352796-Amerikanskii-forvard-Gyandzhi-My-vpisali-svoe-imya-v-istoriyu-i-etogo-u-nas-nikto-ne-otnimet.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/basketball/20260324140352796-Amerikanskii-forvard-Gyandzhi-My-vpisali-svoe-imya-v-istoriyu-i-etogo-u-nas-nikto-ne-otnimet.html</guid>
-      <description>25 марта 12:37 Педру Матеуш: Если сыграем удачно с Кяпазом и Шамахы, то все может поменяться 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:2...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>13:07 Эмин Искендеров – о великолепном выступлении в Бремене</title>
-      <link>https://azerisport.com/ru/judo/20260324130620266-Emin-Iskenderov-o-velikolepnom-vystuplenii-v-Bremene.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/judo/20260324130620266-Emin-Iskenderov-o-velikolepnom-vystuplenii-v-Bremene.html</guid>
-      <description>25 марта 12:37 Педру Матеуш: Если сыграем удачно с Кяпазом и Шамахы, то все может поменяться 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:2...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>12:05 Азербайджанский состав на ЕВРО</title>
-      <link>https://azerisport.com/ru/weightlifting/20260324120425446-Azerbaidzhanskii-sostav-na-EVRO.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/weightlifting/20260324120425446-Azerbaidzhanskii-sostav-na-EVRO.html</guid>
-      <description>25 марта 12:37 Педру Матеуш: Если сыграем удачно с Кяпазом и Шамахы, то все может поменяться 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:2...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>11:23 Изменения в составе Карабаха. Кого можно сохранить в команде?</title>
-      <link>https://azerisport.com/ru/video/20260324111355487-Izmeneniya-v-sostave-Karabakha-Kogo-mozhno-sokhranit-v-komande.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/video/20260324111355487-Izmeneniya-v-sostave-Karabakha-Kogo-mozhno-sokhranit-v-komande.html</guid>
-      <description>25 марта 12:37 Педру Матеуш: Если сыграем удачно с Кяпазом и Шамахы, то все может поменяться 12:05 Эюбов ответит на вопросы журналистов 11:34 Что ожидать от второго матча Азербайджана с Португалией? 11:04 Велько СИМИЧ: Поражение Карабаха? Ничего удивительного 10:47 Историческое золото азербайджанского таэквондо 10:2...</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Курбан Бердыев: Тяжелая игра и тяжелая победа</title>
-      <link>https://azerisport.com/ru/football/20260321190716648-Kurban-Berdyev-Tyazhelaya-igra-i-tyazhelaya-pobeda.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260321190716648-Kurban-Berdyev-Tyazhelaya-igra-i-tyazhelaya-pobeda.html</guid>
-      <description>#1 ТОП Курбан Бердыев: Тяжелая игра и тяжелая победа Футбол 21 марта 19:13</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Гейдар МАМЕДАЛИЕВ: Когда встречаются борцы России и Азербайджана, я болею за того, кто хорошо борется</title>
-      <link>https://azerisport.com/ru/wrestling/20260322144651070-Geidar-MAMEDALIEV-Kogda-vstrechayutsya-bortsy-Rossii-i-Azerbaidzhana-ya-boleyu-za-togo-kto-khorosho-boretsya.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/wrestling/20260322144651070-Geidar-MAMEDALIEV-Kogda-vstrechayutsya-bortsy-Rossii-i-Azerbaidzhana-ya-boleyu-za-togo-kto-khorosho-boretsya.html</guid>
-      <description>#2 ТОП Гейдар МАМЕДАЛИЕВ: Когда встречаются борцы России и Азербайджана, я болею за того, кто хорошо борется Борьба 22 марта 14:46</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Американский дебют Ахундзаде</title>
-      <link>https://azerisport.com/ru/football/20260321230905445-Amerikanskii-debyut-Akhundzade.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260321230905445-Amerikanskii-debyut-Akhundzade.html</guid>
-      <description>#3 ТОП Американский дебют Ахундзаде Футбол 21 марта 23:09</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>ТТ разобрался с Габалой и продолжает преследовать Карабах</title>
-      <link>https://azerisport.com/ru/football/20260321000654746-TT-razobralsya-s-Gabaloi-i-prodolzhaet-presledovat-Karabakh.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260321000654746-TT-razobralsya-s-Gabaloi-i-prodolzhaet-presledovat-Karabakh.html</guid>
-      <description>#4 ТОП ТТ разобрался с Габалой и продолжает преследовать Карабах Футбол 21 марта 17:59</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Карабах обыграл лидера и помог Нефтчи</title>
-      <link>https://azerisport.com/ru/football/20260321111945910-Karabakh-obygral-lidera-i-pomog-Neftchi.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260321111945910-Karabakh-obygral-lidera-i-pomog-Neftchi.html</guid>
-      <description>#5 ТОП Карабах обыграл лидера и помог Нефтчи Футбол 21 марта 16:41</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Гейдаров взял бронзу тбилисского Большого шлема</title>
-      <link>https://azerisport.com/ru/judo/20260321102233478-Geidarov-vzyal-bronzu-tbilisskogo-Bolshogo-shlema.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/judo/20260321102233478-Geidarov-vzyal-bronzu-tbilisskogo-Bolshogo-shlema.html</guid>
-      <description>#6 ТОП Гейдаров взял бронзу тбилисского Большого шлема Дзюдо 21 марта 17:44</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Нужный ключ против Карабаха, спорная ситуация и изобилие от Нефтчи</title>
-      <link>https://azerisport.com/ru/football/20260321000006216-Nuzhnyi-klyuch-protiv-Karabakha-spornaya-situatsiya-i-izobilie-ot-Neftchi.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/football/20260321000006216-Nuzhnyi-klyuch-protiv-Karabakha-spornaya-situatsiya-i-izobilie-ot-Neftchi.html</guid>
-      <description>#7 ТОП Нужный ключ против Карабаха, спорная ситуация и изобилие от Нефтчи Футбол 21 марта 00:01</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Гамзатханов упустил бронзу в Тбилиси</title>
-      <link>https://azerisport.com/ru/judo/20260322100620272-Gamzatkhanov-upustil-bronzu-v-Tbilisi.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/judo/20260322100620272-Gamzatkhanov-upustil-bronzu-v-Tbilisi.html</guid>
-      <description>#9 ТОП Гамзатханов упустил бронзу в Тбилиси Дзюдо 22 марта 19:09</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Тбилисские итоги перед ЕВРО: один плюс, несколько минусов и высокая конкуренция</title>
-      <link>https://azerisport.com/ru/judo/20260323140230565-Tbilisskie-itogi-pered-EVRO-odin-plyus-neskolko-minusov-i-vysokaya-konkurentsiya.html</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/judo/20260323140230565-Tbilisskie-itogi-pered-EVRO-odin-plyus-neskolko-minusov-i-vysokaya-konkurentsiya.html</guid>
-      <description>#10 ТОП Тбилисские итоги перед ЕВРО: один плюс, несколько минусов и высокая конкуренция Дзюдо 23 марта 14:03</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Redaksiya siyasəti</title>
-      <link>https://azerisport.com/ru/about/redaksiya-siyaseti/</link>
-      <guid isPermaLink="false">https://azerisport.com/ru/about/redaksiya-siyaseti/</guid>
-      <description>Redaksiya siyasəti О нас Контакты © 2006—2026 «Azerisport.com» Все права защищены. Ссылка на «Azerisport.com» при цитировании материалов обязательна.</description>
-      <pubDate>Wed, 25 Mar 2026 08:58:53 +0000</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2026 22:17:39 +0000</lastBuildDate>
+    <generator>Football RSS Mirror</generator>
+    <item>
+      <title>90 минут Алиева в матче Суперлиги - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMilwFBVV95cUxONnkxSmduY0k3Y1pBNHNiOVFTb0d0RXhiTXVDa3lnMkVvZk40NnAyY1Fmc2hpQTlEWE1fWFE5NmFoNVpZaGpnQS1YaFc5MTkycmozbUpNdVdKcXRjOGcxdzBJWUR5M2FZLUs4MzRvaG51TFRnTVd3aldCSUQ2T2w0WnZVMHBaeW91RDJtOVdZenhXYzBiNHBF?oc=5</link>
+      <guid isPermaLink="false">CBMilwFBVV95cUxONnkxSmduY0k3Y1pBNHNiOVFTb0d0RXhiTXVDa3lnMkVvZk40NnAyY1Fmc2hpQTlEWE1fWFE5NmFoNVpZaGpnQS1YaFc5MTkycmozbUpNdVdKcXRjOGcxdzBJWUR5M2FZLUs4MzRvaG51TFRnTVd3aldCSUQ2T2w0WnZVMHBaeW91RDJtOVdZenhXYzBiNHBF</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxONnkxSmduY0k3Y1pBNHNiOVFTb0d0RXhiTXVDa3lnMkVvZk40NnAyY1Fmc2hpQTlEWE1fWFE5NmFoNVpZaGpnQS1YaFc5MTkycmozbUpNdVdKcXRjOGcxdzBJWUR5M2FZLUs4MzRvaG51TFRnTVd3aldCSUQ2T2w0WnZVMHBaeW91RDJtOVdZenhXYzBiNHBF?oc=5" target="_blank"&gt;90 минут Алиева в матче Суперлиги&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 19:44:32 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Филипе Кандиду: Если бы провели против Сабаха все 90 минут в полном составе, результат мог бы быть другим - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdnZQQWlMZU8yTFVLQ2ktX1BjZVlsZ1lzV0xfdFpBTkJoZVZYTk5VX1U2Ri1iVzJWcEJBWWgtQldVZ1lZNXFEenlETHZWVExsVVNMdDM3eU9mdkFFSFphejhyb0ZUTVVGdXV1Qnppdkpac0lMOE9ONHpDNzB5S2xqWF93T2VURl8wdHlEZmxqNUVBM2dzcUtEZnlZa2lYb0lISmFRU2wxcXlzZzhhR1kxU1pacU1kUUpvYnVkbkRjdVozZF9WTTJHSmJ3aTlNS1VaNXVMd0VjQ0VPeDdhR0dHa19MaEZSVXZmZ1ZaRGdXSWNfQQ?oc=5</link>
+      <guid isPermaLink="false">CBMi8gFBVV95cUxQdnZQQWlMZU8yTFVLQ2ktX1BjZVlsZ1lzV0xfdFpBTkJoZVZYTk5VX1U2Ri1iVzJWcEJBWWgtQldVZ1lZNXFEenlETHZWVExsVVNMdDM3eU9mdkFFSFphejhyb0ZUTVVGdXV1Qnppdkpac0lMOE9ONHpDNzB5S2xqWF93T2VURl8wdHlEZmxqNUVBM2dzcUtEZnlZa2lYb0lISmFRU2wxcXlzZzhhR1kxU1pacU1kUUpvYnVkbkRjdVozZF9WTTJHSmJ3aTlNS1VaNXVMd0VjQ0VPeDdhR0dHa19MaEZSVXZmZ1ZaRGdXSWNfQQ</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdnZQQWlMZU8yTFVLQ2ktX1BjZVlsZ1lzV0xfdFpBTkJoZVZYTk5VX1U2Ri1iVzJWcEJBWWgtQldVZ1lZNXFEenlETHZWVExsVVNMdDM3eU9mdkFFSFphejhyb0ZUTVVGdXV1Qnppdkpac0lMOE9ONHpDNzB5S2xqWF93T2VURl8wdHlEZmxqNUVBM2dzcUtEZnlZa2lYb0lISmFRU2wxcXlzZzhhR1kxU1pacU1kUUpvYnVkbkRjdVozZF9WTTJHSmJ3aTlNS1VaNXVMd0VjQ0VPeDdhR0dHa19MaEZSVXZmZ1ZaRGdXSWNfQQ?oc=5" target="_blank"&gt;Филипе Кандиду: Если бы провели против Сабаха все 90 минут в полном составе, результат мог бы быть другим&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 18:34:03 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>ТТ в гостях у Шамахы, Шафа против Габалы - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxNN2wtcldvSU1jaUhqWTdSZVpvS1NXWXVNWUZfYUZUV2kxUk9GR1pTVlAtbGxYYndrX2stelBUZmQ0Y2NxaVlqOFVjVF9rTUw0Rm93VVJnV3JIaTlQeVNPUkstU1M5Ni15WUNqUF9vYWdCZnZ6TEhSMTZ4SmIxS1JBX3dzT1VSZUxqVVZmckJmbUFETWswSkRocTR5b0p1R3dQVHRsUA?oc=5</link>
+      <guid isPermaLink="false">CBMipAFBVV95cUxNN2wtcldvSU1jaUhqWTdSZVpvS1NXWXVNWUZfYUZUV2kxUk9GR1pTVlAtbGxYYndrX2stelBUZmQ0Y2NxaVlqOFVjVF9rTUw0Rm93VVJnV3JIaTlQeVNPUkstU1M5Ni15WUNqUF9vYWdCZnZ6TEhSMTZ4SmIxS1JBX3dzT1VSZUxqVVZmckJmbUFETWswSkRocTR5b0p1R3dQVHRsUA</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNN2wtcldvSU1jaUhqWTdSZVpvS1NXWXVNWUZfYUZUV2kxUk9GR1pTVlAtbGxYYndrX2stelBUZmQ0Y2NxaVlqOFVjVF9rTUw0Rm93VVJnV3JIaTlQeVNPUkstU1M5Ni15WUNqUF9vYWdCZnZ6TEhSMTZ4SmIxS1JBX3dzT1VSZUxqVVZmckJmbUFETWswSkRocTR5b0p1R3dQVHRsUA?oc=5" target="_blank"&gt;ТТ в гостях у Шамахы, Шафа против Габалы&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 20:14:24 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Победа чемпиона - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPV2NrVF9VMzJDanlEZHlCeTNQbGFXaENmc1JaWlB2NkdseW81WU04WWZMemhKZFJsRC16cTZRLWhmMk9wYmU3ZUJRb0RXcTRKQlVqVmNKdUdfUmFsVzZDeUkwaU5yeGhMeVZza1FKamVla2FZZVNMX19aU3Jxd3hqRm1B?oc=5</link>
+      <guid isPermaLink="false">CBMiggFBVV95cUxPV2NrVF9VMzJDanlEZHlCeTNQbGFXaENmc1JaWlB2NkdseW81WU04WWZMemhKZFJsRC16cTZRLWhmMk9wYmU3ZUJRb0RXcTRKQlVqVmNKdUdfUmFsVzZDeUkwaU5yeGhMeVZza1FKamVla2FZZVNMX19aU3Jxd3hqRm1B</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxPV2NrVF9VMzJDanlEZHlCeTNQbGFXaENmc1JaWlB2NkdseW81WU04WWZMemhKZFJsRC16cTZRLWhmMk9wYmU3ZUJRb0RXcTRKQlVqVmNKdUdfUmFsVzZDeUkwaU5yeGhMeVZza1FKamVla2FZZVNMX19aU3Jxd3hqRm1B?oc=5" target="_blank"&gt;Победа чемпиона&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 18:13:57 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Чемпион устроил голевой матч в Сумгайыте - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxNYW92Wm14b0k1c0NOOXlaQ0puSlc4aVdpVi1sb1hNclN3M1E4VEhaNkZ5eGFyUXJFYzFnZUliQWpaMzR5bE9Mdms4MjB6RnVNUk4waTlGZ1lEZkVoTlEtT19JQ0pYTVc4cENQVEhsR2VPWnlYTzhxdkt3aFJoZVZUbHMxQnFPRVpTRVBZSnRSb3F4dlY3UGdjTHRTSndNdw?oc=5</link>
+      <guid isPermaLink="false">CBMingFBVV95cUxNYW92Wm14b0k1c0NOOXlaQ0puSlc4aVdpVi1sb1hNclN3M1E4VEhaNkZ5eGFyUXJFYzFnZUliQWpaMzR5bE9Mdms4MjB6RnVNUk4waTlGZ1lEZkVoTlEtT19JQ0pYTVc4cENQVEhsR2VPWnlYTzhxdkt3aFJoZVZUbHMxQnFPRVpTRVBZSnRSb3F4dlY3UGdjTHRTSndNdw</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMingFBVV95cUxNYW92Wm14b0k1c0NOOXlaQ0puSlc4aVdpVi1sb1hNclN3M1E4VEhaNkZ5eGFyUXJFYzFnZUliQWpaMzR5bE9Mdms4MjB6RnVNUk4waTlGZ1lEZkVoTlEtT19JQ0pYTVc4cENQVEhsR2VPWnlYTzhxdkt3aFJoZVZUbHMxQnFPRVpTRVBZSnRSb3F4dlY3UGdjTHRTSndNdw?oc=5" target="_blank"&gt;Чемпион устроил голевой матч в Сумгайыте&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 16:58:40 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Вальдас Дамбраускас: Постараемся в матче с Барселоной написать одну из таких историй - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOGRpU25FY21DVlNmLTltUmNUcFJ6UVFRX29NSDJicGRGSG0zczFVenRNUnZXRTA3aUw0NlhiWkhYVm5ub0NMRXBqbGZpTVJLV1QzTElsTTFFT2dVSF9FeXV1RGx6a2k2UjUxUTF6SzZ0R2pOTTEtSzhaMlJabUdyend1RUNmTDlGbDc2X1NxbG0xTm44Ri1Ta2dxb0w2aHozT3BzWm1fWFgxV19hVGlqcDdOVndRMWVkTlNFdmdKSWEyN0lfMnJYSnd3UkRleURQRE5kZjZSMXp0Nmg0S0E?oc=5</link>
+      <guid isPermaLink="false">CBMi3gFBVV95cUxNOGRpU25FY21DVlNmLTltUmNUcFJ6UVFRX29NSDJicGRGSG0zczFVenRNUnZXRTA3aUw0NlhiWkhYVm5ub0NMRXBqbGZpTVJLV1QzTElsTTFFT2dVSF9FeXV1RGx6a2k2UjUxUTF6SzZ0R2pOTTEtSzhaMlJabUdyend1RUNmTDlGbDc2X1NxbG0xTm44Ri1Ta2dxb0w2aHozT3BzWm1fWFgxV19hVGlqcDdOVndRMWVkTlNFdmdKSWEyN0lfMnJYSnd3UkRleURQRE5kZjZSMXp0Nmg0S0E</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOGRpU25FY21DVlNmLTltUmNUcFJ6UVFRX29NSDJicGRGSG0zczFVenRNUnZXRTA3aUw0NlhiWkhYVm5ub0NMRXBqbGZpTVJLV1QzTElsTTFFT2dVSF9FeXV1RGx6a2k2UjUxUTF6SzZ0R2pOTTEtSzhaMlJabUdyend1RUNmTDlGbDc2X1NxbG0xTm44Ri1Ta2dxb0w2aHozT3BzWm1fWFgxV19hVGlqcDdOVndRMWVkTlNFdmdKSWEyN0lfMnJYSnd3UkRleURQRE5kZjZSMXp0Nmg0S0E?oc=5" target="_blank"&gt;Вальдас Дамбраускас: Постараемся в матче с Барселоной написать одну из таких историй&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 17:50:00 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>LIVE: Сабах продолжает забивать Сумгайыту, Зире упустил победу над Имишли - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxOMHhTVmF4TE9wN25KVU1HQmJnUXFmTWZiVmVITDRqMHBSMTVnaGFjNGllMVJ2ZXd1VVJjd1dySkFPZ1V3aDRfLVFvVmc4TE95Z1ZLRU1PSVBYdFJzcXBPSkNvblhUeXhXUnpGTVhxSHk0RXktVDQ5alA0UmtLZmF5Nmd4ZnBPUlVEcExUb05KN2xfejZiY2d2aTJ5SHpSQkpwLTZsblZrZTJfb0wwRHJab1loc0VmSDFXdzlDY1VKUHFxX0o1QmNtUVd5TQ?oc=5</link>
+      <guid isPermaLink="false">CBMiywFBVV95cUxOMHhTVmF4TE9wN25KVU1HQmJnUXFmTWZiVmVITDRqMHBSMTVnaGFjNGllMVJ2ZXd1VVJjd1dySkFPZ1V3aDRfLVFvVmc4TE95Z1ZLRU1PSVBYdFJzcXBPSkNvblhUeXhXUnpGTVhxSHk0RXktVDQ5alA0UmtLZmF5Nmd4ZnBPUlVEcExUb05KN2xfejZiY2d2aTJ5SHpSQkpwLTZsblZrZTJfb0wwRHJab1loc0VmSDFXdzlDY1VKUHFxX0o1QmNtUVd5TQ</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxOMHhTVmF4TE9wN25KVU1HQmJnUXFmTWZiVmVITDRqMHBSMTVnaGFjNGllMVJ2ZXd1VVJjd1dySkFPZ1V3aDRfLVFvVmc4TE95Z1ZLRU1PSVBYdFJzcXBPSkNvblhUeXhXUnpGTVhxSHk0RXktVDQ5alA0UmtLZmF5Nmd4ZnBPUlVEcExUb05KN2xfejZiY2d2aTJ5SHpSQkpwLTZsblZrZTJfb0wwRHJab1loc0VmSDFXdzlDY1VKUHFxX0o1QmNtUVd5TQ?oc=5" target="_blank"&gt;LIVE: Сабах продолжает забивать Сумгайыту, Зире упустил победу над Имишли&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 16:39:07 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>LIVE: Сумгайыт остался в меньшинстве против Сабаха, Зире упустил победу над Имишли - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeDFqSWd1ZV9uSEpXRmtaYUEwaGdkS2E4QUhnRXVkUGN4RXhCZTF3cUd4TFdGTlBhVkRjRWlldzY4RUJVWXBqWm92cHZzNmdYeGVuSXczTlVzTkNETDJyTC01bnNkSXdZMFJIRmF1cnA2NTUwdDZmQ2JXMFRLN3V2cHpPS2gwdlU4UUFLOUZjM091SFJIc0w5WTU2SGVQdVdwYi0yeHFEMXJ4cjU1eG1WNlYyOVRNejRNZVBJQ0VicFJTd2U2a3Q5NnBCQk5pX0t1Zk00a09IMmg?oc=5</link>
+      <guid isPermaLink="false">CBMi2AFBVV95cUxNeDFqSWd1ZV9uSEpXRmtaYUEwaGdkS2E4QUhnRXVkUGN4RXhCZTF3cUd4TFdGTlBhVkRjRWlldzY4RUJVWXBqWm92cHZzNmdYeGVuSXczTlVzTkNETDJyTC01bnNkSXdZMFJIRmF1cnA2NTUwdDZmQ2JXMFRLN3V2cHpPS2gwdlU4UUFLOUZjM091SFJIc0w5WTU2SGVQdVdwYi0yeHFEMXJ4cjU1eG1WNlYyOVRNejRNZVBJQ0VicFJTd2U2a3Q5NnBCQk5pX0t1Zk00a09IMmg</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeDFqSWd1ZV9uSEpXRmtaYUEwaGdkS2E4QUhnRXVkUGN4RXhCZTF3cUd4TFdGTlBhVkRjRWlldzY4RUJVWXBqWm92cHZzNmdYeGVuSXczTlVzTkNETDJyTC01bnNkSXdZMFJIRmF1cnA2NTUwdDZmQ2JXMFRLN3V2cHpPS2gwdlU4UUFLOUZjM091SFJIc0w5WTU2SGVQdVdwYi0yeHFEMXJ4cjU1eG1WNlYyOVRNejRNZVBJQ0VicFJTd2U2a3Q5NnBCQk5pX0t1Zk00a09IMmg?oc=5" target="_blank"&gt;LIVE: Сумгайыт остался в меньшинстве против Сабаха, Зире упустил победу над Имишли&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 15:40:34 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Битва за лидерство - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPa3Q2dDVHWlFQYXZobW9BcXBmWVFQVHpnTmxpWGVFYkpjNndPeU90U3RfU3Zjc1c5RXBsSkdxT1BwYXZpZnI5U1lJdjFyTVpONDdnNDlGLUlmT0wxY21qdEYzbHFkRkFsSGlfU0dtQkZjRWVfWW9Hb1BDeklUaS1FWUhn?oc=5</link>
+      <guid isPermaLink="false">CBMiggFBVV95cUxPa3Q2dDVHWlFQYXZobW9BcXBmWVFQVHpnTmxpWGVFYkpjNndPeU90U3RfU3Zjc1c5RXBsSkdxT1BwYXZpZnI5U1lJdjFyTVpONDdnNDlGLUlmT0wxY21qdEYzbHFkRkFsSGlfU0dtQkZjRWVfWW9Hb1BDeklUaS1FWUhn</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxPa3Q2dDVHWlFQYXZobW9BcXBmWVFQVHpnTmxpWGVFYkpjNndPeU90U3RfU3Zjc1c5RXBsSkdxT1BwYXZpZnI5U1lJdjFyTVpONDdnNDlGLUlmT0wxY21qdEYzbHFkRkFsSGlfU0dtQkZjRWVfWW9Hb1BDeklUaS1FWUhn?oc=5" target="_blank"&gt;Битва за лидерство&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 06:23:17 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Наш 20-летний чемпион мира, который взял свой реванш - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxOb0FVWkNTZHVGNFl2WGRIdW5mOHZ2ejlram9fQWRGdU8xLUpyM0VRQUtoM1VKMlg4djNEbHUwUVNRcENvUG1vVjFVOXd3dHF3dGlFdmxqYUJrM2J6RU1SZjFTQ244WThqQmZoVWh1aTNzYnQ3ajBQclNiQVNBaEQzY2hIa0NoZzNaeWhKSEhuWk12bXl6Sjd2bnU0VGdBczVkeHNST3Fpa2lWTlhERjlV?oc=5</link>
+      <guid isPermaLink="false">CBMirwFBVV95cUxOb0FVWkNTZHVGNFl2WGRIdW5mOHZ2ejlram9fQWRGdU8xLUpyM0VRQUtoM1VKMlg4djNEbHUwUVNRcENvUG1vVjFVOXd3dHF3dGlFdmxqYUJrM2J6RU1SZjFTQ244WThqQmZoVWh1aTNzYnQ3ajBQclNiQVNBaEQzY2hIa0NoZzNaeWhKSEhuWk12bXl6Sjd2bnU0VGdBczVkeHNST3Fpa2lWTlhERjlV</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOb0FVWkNTZHVGNFl2WGRIdW5mOHZ2ejlram9fQWRGdU8xLUpyM0VRQUtoM1VKMlg4djNEbHUwUVNRcENvUG1vVjFVOXd3dHF3dGlFdmxqYUJrM2J6RU1SZjFTQ244WThqQmZoVWh1aTNzYnQ3ajBQclNiQVNBaEQzY2hIa0NoZzNaeWhKSEhuWk12bXl6Sjd2bnU0VGdBczVkeHNST3Fpa2lWTlhERjlV?oc=5" target="_blank"&gt;Наш 20-летний чемпион мира, который взял свой реванш&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 12:05:22 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Архив - 20 ноября 2026 - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wcUxUMXBPYzhGNGhMY1NBT1VKZ3p5X3M0aDZmU2RCdmpaVEpCa19qWDNNZG5CaUIza2p2TzNJbkkxd192UkQ1VjU0dTFKaDZPRTlhTVByS2ZjNWdOUXI4?oc=5</link>
+      <guid isPermaLink="false">CBMiX0FVX3lxTE0wcUxUMXBPYzhGNGhMY1NBT1VKZ3p5X3M0aDZmU2RCdmpaVEpCa19qWDNNZG5CaUIza2p2TzNJbkkxd192UkQ1VjU0dTFKaDZPRTlhTVByS2ZjNWdOUXI4</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wcUxUMXBPYzhGNGhMY1NBT1VKZ3p5X3M0aDZmU2RCdmpaVEpCa19qWDNNZG5CaUIza2p2TzNJbkkxd192UkQ1VjU0dTFKaDZPRTlhTVByS2ZjNWdOUXI4?oc=5" target="_blank"&gt;Архив - 20 ноября 2026&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 08:02:19 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Рустам Алиев: Сумгайыт стремится закончить сезон в четверке лучших - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMiygFBVV95cUxQeWlpNXM4MHlQQno2Y3VfWXhNNjc0NGtvaUo2YzdYOXBWUTA1N1JxaDRwQlhTRFE2d09xeklPbmhZLVM3UnFxSHlLUGdjdmd3c0NhNFlXbzJ5aW9KSjRJTmFmZ081VUwyYW1RU3U1NGRYZ3BWZlE2Qmw4eGhQdVV1LUY3ZWFqZVcxV3RCRTlybVhocGYtbWx4MmRYYWNmODBzdlA3UDh3WnZjM3Z0MXo2TURybFl4VmhicDZSb1E0QXhfc0lHNTNiYldR?oc=5</link>
+      <guid isPermaLink="false">CBMiygFBVV95cUxQeWlpNXM4MHlQQno2Y3VfWXhNNjc0NGtvaUo2YzdYOXBWUTA1N1JxaDRwQlhTRFE2d09xeklPbmhZLVM3UnFxSHlLUGdjdmd3c0NhNFlXbzJ5aW9KSjRJTmFmZ081VUwyYW1RU3U1NGRYZ3BWZlE2Qmw4eGhQdVV1LUY3ZWFqZVcxV3RCRTlybVhocGYtbWx4MmRYYWNmODBzdlA3UDh3WnZjM3Z0MXo2TURybFl4VmhicDZSb1E0QXhfc0lHNTNiYldR</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxQeWlpNXM4MHlQQno2Y3VfWXhNNjc0NGtvaUo2YzdYOXBWUTA1N1JxaDRwQlhTRFE2d09xeklPbmhZLVM3UnFxSHlLUGdjdmd3c0NhNFlXbzJ5aW9KSjRJTmFmZ081VUwyYW1RU3U1NGRYZ3BWZlE2Qmw4eGhQdVV1LUY3ZWFqZVcxV3RCRTlybVhocGYtbWx4MmRYYWNmODBzdlA3UDh3WnZjM3Z0MXo2TURybFl4VmhicDZSb1E0QXhfc0lHNTNiYldR?oc=5" target="_blank"&gt;Рустам Алиев: Сумгайыт стремится закончить сезон в четверке лучших&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 11:47:57 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Матч Кяпаз – Карабах доверили Джабарову - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2FYUFA2cTJ4cElMVUJYeWl5aVQxYzVib3p5SV92c1F5WHhEZXdYNmhQLVpOclEtR3d5MTl4LVJmdmlrRVdkdVlQMkZtWHNSalkwOUJ1OVJBMnRacjEwTktHbVF1ODI5WEdaZmY1NnNlX0VMSU1uOVlPbjc0MWE3NTR5ai1kaVdkcFRoLUJENDAzckZqQU5rYVhralR4TEdz?oc=5</link>
+      <guid isPermaLink="false">CBMioAFBVV95cUxPV2FYUFA2cTJ4cElMVUJYeWl5aVQxYzVib3p5SV92c1F5WHhEZXdYNmhQLVpOclEtR3d5MTl4LVJmdmlrRVdkdVlQMkZtWHNSalkwOUJ1OVJBMnRacjEwTktHbVF1ODI5WEdaZmY1NnNlX0VMSU1uOVlPbjc0MWE3NTR5ai1kaVdkcFRoLUJENDAzckZqQU5rYVhralR4TEdz</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2FYUFA2cTJ4cElMVUJYeWl5aVQxYzVib3p5SV92c1F5WHhEZXdYNmhQLVpOclEtR3d5MTl4LVJmdmlrRVdkdVlQMkZtWHNSalkwOUJ1OVJBMnRacjEwTktHbVF1ODI5WEdaZmY1NnNlX0VMSU1uOVlPbjc0MWE3NTR5ai1kaVdkcFRoLUJENDAzckZqQU5rYVhralR4TEdz?oc=5" target="_blank"&gt;Матч Кяпаз – Карабах доверили Джабарову&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 19:50:56 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Карван-Евлах победил на обновленном стадионе в Ханкенди - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMiywFBVV95cUxOTlA0eEl1MkhjNXd0UUEzMWF3TjQwS1dDUWswc1htOVhHRlVkSUlYNm9SekhQTnBiRkg2UTRkWHZ1TDdjc0tLOWpUNzNIblQwVlp0ZXp5VEZzNkY5M1lnbF9rTXVjdTFQbHhZRG1oaS12NmlubEwwZmlPY1pncHM1SEJfMDhEcTNEY3lwc2RHdFZiS2xDb01zWGMwMFZzeWdyWjlaZ0xCNFBxVU52cFhmN2E3UkhNV0hwN0E1YUU5NWE3c1hvQVlEMkJVOA?oc=5</link>
+      <guid isPermaLink="false">CBMiywFBVV95cUxOTlA0eEl1MkhjNXd0UUEzMWF3TjQwS1dDUWswc1htOVhHRlVkSUlYNm9SekhQTnBiRkg2UTRkWHZ1TDdjc0tLOWpUNzNIblQwVlp0ZXp5VEZzNkY5M1lnbF9rTXVjdTFQbHhZRG1oaS12NmlubEwwZmlPY1pncHM1SEJfMDhEcTNEY3lwc2RHdFZiS2xDb01zWGMwMFZzeWdyWjlaZ0xCNFBxVU52cFhmN2E3UkhNV0hwN0E1YUU5NWE3c1hvQVlEMkJVOA</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxOTlA0eEl1MkhjNXd0UUEzMWF3TjQwS1dDUWswc1htOVhHRlVkSUlYNm9SekhQTnBiRkg2UTRkWHZ1TDdjc0tLOWpUNzNIblQwVlp0ZXp5VEZzNkY5M1lnbF9rTXVjdTFQbHhZRG1oaS12NmlubEwwZmlPY1pncHM1SEJfMDhEcTNEY3lwc2RHdFZiS2xDb01zWGMwMFZzeWdyWjlaZ0xCNFBxVU52cFhmN2E3UkhNV0hwN0E1YUU5NWE3c1hvQVlEMkJVOA?oc=5" target="_blank"&gt;Карван-Евлах победил на обновленном стадионе в Ханкенди&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 11:57:55 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Архив - 19 ноября 2026 - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5ODk5M0haQkZfMjY5cUZLajFWbFNMTHdPYWhVUmIwQmw2d2pneVhzbmpyY2pFRG9JTTY5cXIxbEM0dktvUkRqU1N2cjdXTGZfelplaHc3WHE5VmE4RHM0?oc=5</link>
+      <guid isPermaLink="false">CBMiX0FVX3lxTFA5ODk5M0haQkZfMjY5cUZLajFWbFNMTHdPYWhVUmIwQmw2d2pneVhzbmpyY2pFRG9JTTY5cXIxbEM0dktvUkRqU1N2cjdXTGZfelplaHc3WHE5VmE4RHM0</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5ODk5M0haQkZfMjY5cUZLajFWbFNMTHdPYWhVUmIwQmw2d2pneVhzbmpyY2pFRG9JTTY5cXIxbEM0dktvUkRqU1N2cjdXTGZfelplaHc3WHE5VmE4RHM0?oc=5" target="_blank"&gt;Архив - 19 ноября 2026&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 08:03:21 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Карабах ожидает переполненный стадион в Гяндже - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMirAFBVV95cUxPM3E2S19QTjkwX2NNYlA4VkM1VXVONFhYOEpsOFhCOV9HRzQta2xwbVQyUk5pMm5uVzBrQ0RXNlBZTXlFeXlVejJ4bEVual9hM1N2Vzl3NnBOQUdmX01tMzZMRUhkMExXdENCSXM0OFFqYlJzdTJ6bFFlWGpjbTQtM1ZOQkkxeGd2TkJOTFE0S1NOV19HMEVGbDlCWFFiTUo4cFlRcDRmNUVubHRo?oc=5</link>
+      <guid isPermaLink="false">CBMirAFBVV95cUxPM3E2S19QTjkwX2NNYlA4VkM1VXVONFhYOEpsOFhCOV9HRzQta2xwbVQyUk5pMm5uVzBrQ0RXNlBZTXlFeXlVejJ4bEVual9hM1N2Vzl3NnBOQUdmX01tMzZMRUhkMExXdENCSXM0OFFqYlJzdTJ6bFFlWGpjbTQtM1ZOQkkxeGd2TkJOTFE0S1NOV19HMEVGbDlCWFFiTUo4cFlRcDRmNUVubHRo</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPM3E2S19QTjkwX2NNYlA4VkM1VXVONFhYOEpsOFhCOV9HRzQta2xwbVQyUk5pMm5uVzBrQ0RXNlBZTXlFeXlVejJ4bEVual9hM1N2Vzl3NnBOQUdmX01tMzZMRUhkMExXdENCSXM0OFFqYlJzdTJ6bFFlWGpjbTQtM1ZOQkkxeGd2TkJOTFE0S1NOV19HMEVGbDlCWFFiTUo4cFlRcDRmNUVubHRo?oc=5" target="_blank"&gt;Карабах ожидает переполненный стадион в Гяндже&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 19:04:10 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Руй Жорже: Главнейшая цель – показать миру, что азербайджанцы тоже умеют играть в футбол - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMGIya1lKdGlFem5rTkhCb29OVjMxZEFsekllVEEtcGI5X1NZMzdUWmpxX0QwVkUwdFFDVUtScDBEbVMtdUZpbzBhNnNEbHR1Zmd2Mm9UcUtFbFBVNVhvWGhTcjFCbm1tRGMwd05WVS1ZeUJ3Y3poam4tdXVRM25rNjlwSFZRWFl4VFUza1hwS24yZkZuSXcxb0ZYd0F5akJ6Q3p0STcxYlpWSnhzODRyeHVlUGdaMzdVakpuY1EtT29RdmxzTll5Ny1xQ3VsU21rZHROcXJJYkRtd05wMFNfcVVFOA?oc=5</link>
+      <guid isPermaLink="false">CBMi4wFBVV95cUxQMGIya1lKdGlFem5rTkhCb29OVjMxZEFsekllVEEtcGI5X1NZMzdUWmpxX0QwVkUwdFFDVUtScDBEbVMtdUZpbzBhNnNEbHR1Zmd2Mm9UcUtFbFBVNVhvWGhTcjFCbm1tRGMwd05WVS1ZeUJ3Y3poam4tdXVRM25rNjlwSFZRWFl4VFUza1hwS24yZkZuSXcxb0ZYd0F5akJ6Q3p0STcxYlpWSnhzODRyeHVlUGdaMzdVakpuY1EtT29RdmxzTll5Ny1xQ3VsU21rZHROcXJJYkRtd05wMFNfcVVFOA</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMGIya1lKdGlFem5rTkhCb29OVjMxZEFsekllVEEtcGI5X1NZMzdUWmpxX0QwVkUwdFFDVUtScDBEbVMtdUZpbzBhNnNEbHR1Zmd2Mm9UcUtFbFBVNVhvWGhTcjFCbm1tRGMwd05WVS1ZeUJ3Y3poam4tdXVRM25rNjlwSFZRWFl4VFUza1hwS24yZkZuSXcxb0ZYd0F5akJ6Q3p0STcxYlpWSnhzODRyeHVlUGdaMzdVakpuY1EtT29RdmxzTll5Ny1xQ3VsU21rZHROcXJJYkRtd05wMFNfcVVFOA?oc=5" target="_blank"&gt;Руй Жорже: Главнейшая цель – показать миру, что азербайджанцы тоже умеют играть в футбол&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 14:35:17 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Шафа привлечет новичка сборной Азербайджана - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVTBwYnZtbkdCYy1NTDZjZWdPdUR3cXdRSUMzSFZRNGs2ZXRDYVFfaUZ6N0JiRzZteGtrWGRDdnVlRlBhZ2UzSUc1dzdYay1HMDZGMktpcndiWkhHbDgzWkwwc21tSkh3NnlhWUdwZjB2d19wVE8xV1ExNEY3QkNoa0VrQ3NianVBY1VDOWtRRGxndzJZZGcwR1Bkc0RaNkNOcnBsSTJLTjI?oc=5</link>
+      <guid isPermaLink="false">CBMiqAFBVV95cUxQVTBwYnZtbkdCYy1NTDZjZWdPdUR3cXdRSUMzSFZRNGs2ZXRDYVFfaUZ6N0JiRzZteGtrWGRDdnVlRlBhZ2UzSUc1dzdYay1HMDZGMktpcndiWkhHbDgzWkwwc21tSkh3NnlhWUdwZjB2d19wVE8xV1ExNEY3QkNoa0VrQ3NianVBY1VDOWtRRGxndzJZZGcwR1Bkc0RaNkNOcnBsSTJLTjI</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVTBwYnZtbkdCYy1NTDZjZWdPdUR3cXdRSUMzSFZRNGs2ZXRDYVFfaUZ6N0JiRzZteGtrWGRDdnVlRlBhZ2UzSUc1dzdYay1HMDZGMktpcndiWkhHbDgzWkwwc21tSkh3NnlhWUdwZjB2d19wVE8xV1ExNEY3QkNoa0VrQ3NianVBY1VDOWtRRGxndzJZZGcwR1Bkc0RaNkNOcnBsSTJLTjI?oc=5" target="_blank"&gt;Шафа привлечет новичка сборной Азербайджана&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 15:45:35 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Наш 20-летний чемпион мира, который взял реванш - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQam1PWlJmZG54bUJ1TF9EbGNYcUk3VlBGYVRiZF9rR1l5RTI0U3U5ZEFrc3pydjBEQmE1S0UwU1BPQ0dxZTBWNVZ1X3I0T0VGc2YtVW9WWGtlVkR3RElQYk43MlA2MUlKWE9WaDRyNGc3REFXTlhTX2NNTnhVRlRzNmZzVXhtWF9YSTlkUG05TXhSWDNKbGxEVGVUaVJQQ0F2bldLYkdIYzM?oc=5</link>
+      <guid isPermaLink="false">CBMiqAFBVV95cUxQam1PWlJmZG54bUJ1TF9EbGNYcUk3VlBGYVRiZF9rR1l5RTI0U3U5ZEFrc3pydjBEQmE1S0UwU1BPQ0dxZTBWNVZ1X3I0T0VGc2YtVW9WWGtlVkR3RElQYk43MlA2MUlKWE9WaDRyNGc3REFXTlhTX2NNTnhVRlRzNmZzVXhtWF9YSTlkUG05TXhSWDNKbGxEVGVUaVJQQ0F2bldLYkdIYzM</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQam1PWlJmZG54bUJ1TF9EbGNYcUk3VlBGYVRiZF9rR1l5RTI0U3U5ZEFrc3pydjBEQmE1S0UwU1BPQ0dxZTBWNVZ1X3I0T0VGc2YtVW9WWGtlVkR3RElQYk43MlA2MUlKWE9WaDRyNGc3REFXTlhTX2NNTnhVRlRzNmZzVXhtWF9YSTlkUG05TXhSWDNKbGxEVGVUaVJQQ0F2bldLYkdIYzM?oc=5" target="_blank"&gt;Наш 20-летний чемпион мира, который взял реванш&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 12:04:45 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Рашад Садыхов: Вокруг нас происходят странные вещи - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmVWQU90UF9HamhuQ2p5OHNJNnRmNkh2Q2RXeWFMOG85bzJ6bGh6M3RvTF81NzN0UERuMGxqR3dkSHc3U181UjBZVllLanlwRVhtdGtIUG9UcGZWZURna3hnNjkweHJzMC1uTFNjeTlGTXJIOU1RZnYwSXNaYnFvRjI2NkVEaXlkOGhYTnZUdkNBZEdEMlgtaXNmbldPSzdHU2l1VHM5RmhMSGxBXy16RFBCNA?oc=5</link>
+      <guid isPermaLink="false">CBMiswFBVV95cUxPYmVWQU90UF9HamhuQ2p5OHNJNnRmNkh2Q2RXeWFMOG85bzJ6bGh6M3RvTF81NzN0UERuMGxqR3dkSHc3U181UjBZVllLanlwRVhtdGtIUG9UcGZWZURna3hnNjkweHJzMC1uTFNjeTlGTXJIOU1RZnYwSXNaYnFvRjI2NkVEaXlkOGhYTnZUdkNBZEdEMlgtaXNmbldPSzdHU2l1VHM5RmhMSGxBXy16RFBCNA</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmVWQU90UF9HamhuQ2p5OHNJNnRmNkh2Q2RXeWFMOG85bzJ6bGh6M3RvTF81NzN0UERuMGxqR3dkSHc3U181UjBZVllLanlwRVhtdGtIUG9UcGZWZURna3hnNjkweHJzMC1uTFNjeTlGTXJIOU1RZnYwSXNaYnFvRjI2NkVEaXlkOGhYTnZUdkNBZEdEMlgtaXNmbldPSzdHU2l1VHM5RmhMSGxBXy16RFBCNA?oc=5" target="_blank"&gt;Рашад Садыхов: Вокруг нас происходят странные вещи&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 13:04:58 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Азербайджанский состав на матчи с Саудовской Аравией - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxQXzR3ZUt2Nkh2Nm9lQlRTaGpfWVFjbzRlQ213SFdybE81U0Q1dmFoOXM4YVNZVTJhaEd1NzZqRHdCb3NWaTdUQkhwTTlHTzVvODBYekhnRTY5UDVOVUxXTkQ4dUFtZjVjZjRTbER1NEcwOE4zZUhpYjA1bTJxTkxpbjRuR3lNZTVXdE5IOHV2SXBBeWlwSTEtMFNvZkVISnhqQVBOZWVZOTlzd21xRUpfanlB?oc=5</link>
+      <guid isPermaLink="false">CBMisgFBVV95cUxQXzR3ZUt2Nkh2Nm9lQlRTaGpfWVFjbzRlQ213SFdybE81U0Q1dmFoOXM4YVNZVTJhaEd1NzZqRHdCb3NWaTdUQkhwTTlHTzVvODBYekhnRTY5UDVOVUxXTkQ4dUFtZjVjZjRTbER1NEcwOE4zZUhpYjA1bTJxTkxpbjRuR3lNZTVXdE5IOHV2SXBBeWlwSTEtMFNvZkVISnhqQVBOZWVZOTlzd21xRUpfanlB</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxQXzR3ZUt2Nkh2Nm9lQlRTaGpfWVFjbzRlQ213SFdybE81U0Q1dmFoOXM4YVNZVTJhaEd1NzZqRHdCb3NWaTdUQkhwTTlHTzVvODBYekhnRTY5UDVOVUxXTkQ4dUFtZjVjZjRTbER1NEcwOE4zZUhpYjA1bTJxTkxpbjRuR3lNZTVXdE5IOHV2SXBBeWlwSTEtMFNvZkVISnhqQVBOZWVZOTlzd21xRUpfanlB?oc=5" target="_blank"&gt;Азербайджанский состав на матчи с Саудовской Аравией&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 12:39:52 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Тренер Имишли: Мы заслуживали минимум ничьи - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxOV2RGcVJGSFdSbERUR3ByNDZIdExlWGJ5R0Q1czVUUFRYeVhQam15Z1ZwWmZ4Qnl1UU16OS01NEJyN1lnenFlQnRKUUZpcTJaV2hoTjdzcjNUY09zRTlSdGl6RENRcmpyS3Eyemc0a0E3YllFUVpFVlJxOEUxM1Fja2VxcWg2SHZjUzFKMHJ6TFUycEdJTjEtTmFoNTNHUnUyb1ZCWg?oc=5</link>
+      <guid isPermaLink="false">CBMipAFBVV95cUxOV2RGcVJGSFdSbERUR3ByNDZIdExlWGJ5R0Q1czVUUFRYeVhQam15Z1ZwWmZ4Qnl1UU16OS01NEJyN1lnenFlQnRKUUZpcTJaV2hoTjdzcjNUY09zRTlSdGl6RENRcmpyS3Eyemc0a0E3YllFUVpFVlJxOEUxM1Fja2VxcWg2SHZjUzFKMHJ6TFUycEdJTjEtTmFoNTNHUnUyb1ZCWg</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxOV2RGcVJGSFdSbERUR3ByNDZIdExlWGJ5R0Q1czVUUFRYeVhQam15Z1ZwWmZ4Qnl1UU16OS01NEJyN1lnenFlQnRKUUZpcTJaV2hoTjdzcjNUY09zRTlSdGl6RENRcmpyS3Eyemc0a0E3YllFUVpFVlJxOEUxM1Fja2VxcWg2SHZjUzFKMHJ6TFUycEdJTjEtTmFoNTNHUnUyb1ZCWg?oc=5" target="_blank"&gt;Тренер Имишли: Мы заслуживали минимум ничьи&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 13:20:02 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Азербайджан одержал победу над Ираком - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMingFBVV95cUxOdTFVYVloMlpLN2N1TkFIY0pPYWFVMmVsaWVRemVGUktJY3ZsOVhac1FFQkl1Y3J3Y1E4WVpuUzJXOEphOEtwTjJsT1Rock5xQ0ctR2VRU0hFR3ByS1cwdEIyNUNIU2YtRVZMcEdWRU5VTDJjd2d6cmJxUUNfYU1zbjJjX0NWVmVWUk9TSUw1R2hjczVSZlZlTXFNendJQQ?oc=5</link>
+      <guid isPermaLink="false">CBMingFBVV95cUxOdTFVYVloMlpLN2N1TkFIY0pPYWFVMmVsaWVRemVGUktJY3ZsOVhac1FFQkl1Y3J3Y1E4WVpuUzJXOEphOEtwTjJsT1Rock5xQ0ctR2VRU0hFR3ByS1cwdEIyNUNIU2YtRVZMcEdWRU5VTDJjd2d6cmJxUUNfYU1zbjJjX0NWVmVWUk9TSUw1R2hjczVSZlZlTXFNendJQQ</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMingFBVV95cUxOdTFVYVloMlpLN2N1TkFIY0pPYWFVMmVsaWVRemVGUktJY3ZsOVhac1FFQkl1Y3J3Y1E4WVpuUzJXOEphOEtwTjJsT1Rock5xQ0ctR2VRU0hFR3ByS1cwdEIyNUNIU2YtRVZMcEdWRU5VTDJjd2d6cmJxUUNfYU1zbjJjX0NWVmVWUk9TSUw1R2hjczVSZlZlTXFNendJQQ?oc=5" target="_blank"&gt;Азербайджан одержал победу над Ираком&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 14:24:30 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Зире потерял ключевого защитника на длительный период - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNaFpTYWJqZ2JialBQVmlYejBZdndxdG5HTy1Lb3UyNlZzd0pSX0NxYkpVaFJEbU9VZG1IVVBHTk1mVjAyR1hrc2pqOFI3eEU1bm5jSTcxOEhUeEF6SE9McFZlbWotQjZtVGZHejl4a0tzZXUxcFh2bVBFemR4Q2VIQjZzNl96ZHBIVlBDMVBOb2o0cG5XcWhITld3cUhkdGZRWVJZY1hpNkd3QTdkSXE2NU1VYVBnQQ?oc=5</link>
+      <guid isPermaLink="false">CBMitgFBVV95cUxNaFpTYWJqZ2JialBQVmlYejBZdndxdG5HTy1Lb3UyNlZzd0pSX0NxYkpVaFJEbU9VZG1IVVBHTk1mVjAyR1hrc2pqOFI3eEU1bm5jSTcxOEhUeEF6SE9McFZlbWotQjZtVGZHejl4a0tzZXUxcFh2bVBFemR4Q2VIQjZzNl96ZHBIVlBDMVBOb2o0cG5XcWhITld3cUhkdGZRWVJZY1hpNkd3QTdkSXE2NU1VYVBnQQ</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNaFpTYWJqZ2JialBQVmlYejBZdndxdG5HTy1Lb3UyNlZzd0pSX0NxYkpVaFJEbU9VZG1IVVBHTk1mVjAyR1hrc2pqOFI3eEU1bm5jSTcxOEhUeEF6SE9McFZlbWotQjZtVGZHejl4a0tzZXUxcFh2bVBFemR4Q2VIQjZzNl96ZHBIVlBDMVBOb2o0cG5XcWhITld3cUhkdGZRWVJZY1hpNkd3QTdkSXE2NU1VYVBnQQ?oc=5" target="_blank"&gt;Зире потерял ключевого защитника на длительный период&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 10:04:21 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>ШГ и Гянджабасар поделили очки, Шимал разгромил Загаталу - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ2pZUjFpUFc3a2tWZ29FNnlPTXFDNTN1dVhlWTlGbWt1RTJ6d1BxLTBfRWlySXVuZnpDbUhiRlhvQ3gxZEFybEhCQUItVE9GQkJqYWY4NU4xZTlZYmxwc2lvUnVNaGVDalBuUWtkVWJSSnluTTZmbGZpMUliSlV0UDAtVHlCYjhDdmlqNl9Fenl5aWlDSmlVS1ZGVGlodmtpMzVsRy1ZQ0dsWXZrZ21SZkNFS3FrT09EeGc?oc=5</link>
+      <guid isPermaLink="false">CBMiugFBVV95cUxQQ2pZUjFpUFc3a2tWZ29FNnlPTXFDNTN1dVhlWTlGbWt1RTJ6d1BxLTBfRWlySXVuZnpDbUhiRlhvQ3gxZEFybEhCQUItVE9GQkJqYWY4NU4xZTlZYmxwc2lvUnVNaGVDalBuUWtkVWJSSnluTTZmbGZpMUliSlV0UDAtVHlCYjhDdmlqNl9Fenl5aWlDSmlVS1ZGVGlodmtpMzVsRy1ZQ0dsWXZrZ21SZkNFS3FrT09EeGc</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ2pZUjFpUFc3a2tWZ29FNnlPTXFDNTN1dVhlWTlGbWt1RTJ6d1BxLTBfRWlySXVuZnpDbUhiRlhvQ3gxZEFybEhCQUItVE9GQkJqYWY4NU4xZTlZYmxwc2lvUnVNaGVDalBuUWtkVWJSSnluTTZmbGZpMUliSlV0UDAtVHlCYjhDdmlqNl9Fenl5aWlDSmlVS1ZGVGlodmtpMzVsRy1ZQ0dsWXZrZ21SZkNFS3FrT09EeGc?oc=5" target="_blank"&gt;ШГ и Гянджабасар поделили очки, Шимал разгромил Загаталу&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 11:59:44 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Албанский форвард российского клуба: Аббасов сыграл очень важную роль в моей карьере - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMi2AFBVV95cUxOckFFcWFZMGxoLXlMUXBONy1aWTJrVG9XYTZwNWNROTkzREt2V0ZpMmUteVFPMWNuQ2lYdU9VbUo4UVRfMy1HNUd3SjRBbWRFWi1iQjFCLWVoM3IzRHMwRENoWFhSZG5sU0xvZ3AyMGJ5YXJrRFowMDl3UkpmWFRaYWF5ZzZJVkpFc0sxRHMxYkxHdEdOTFBPZi14VTlVdmlweGRBVGdVYlJ4QWplMll1VEZyS1F5VTUydm44UFVHZk9tZ0d6TUlzYThmTzN5TUFJano5TEJLQzQ?oc=5</link>
+      <guid isPermaLink="false">CBMi2AFBVV95cUxOckFFcWFZMGxoLXlMUXBONy1aWTJrVG9XYTZwNWNROTkzREt2V0ZpMmUteVFPMWNuQ2lYdU9VbUo4UVRfMy1HNUd3SjRBbWRFWi1iQjFCLWVoM3IzRHMwRENoWFhSZG5sU0xvZ3AyMGJ5YXJrRFowMDl3UkpmWFRaYWF5ZzZJVkpFc0sxRHMxYkxHdEdOTFBPZi14VTlVdmlweGRBVGdVYlJ4QWplMll1VEZyS1F5VTUydm44UFVHZk9tZ0d6TUlzYThmTzN5TUFJano5TEJLQzQ</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxOckFFcWFZMGxoLXlMUXBONy1aWTJrVG9XYTZwNWNROTkzREt2V0ZpMmUteVFPMWNuQ2lYdU9VbUo4UVRfMy1HNUd3SjRBbWRFWi1iQjFCLWVoM3IzRHMwRENoWFhSZG5sU0xvZ3AyMGJ5YXJrRFowMDl3UkpmWFRaYWF5ZzZJVkpFc0sxRHMxYkxHdEdOTFBPZi14VTlVdmlweGRBVGdVYlJ4QWplMll1VEZyS1F5VTUydm44UFVHZk9tZ0d6TUlzYThmTzN5TUFJano5TEJLQzQ?oc=5" target="_blank"&gt;Албанский форвард российского клуба: Аббасов сыграл очень важную роль в моей карьере&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 10:19:24 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Бразилец Карабаха может этой зимой покинуть команду - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkdSSTB6NWtuMlo2MXN0Yk8waGZka1lJdjVSRGR5c1gzS0d4WDRCY0pVajZjRjZiT3p3ZElLeG5IZGpBU3hsQ05IZVhwV0h0N096X1h6c2NYcU1rRW82RFJpbWZOdDZfQV9NQ0tmQXc4TGZxa3M2Nk1Ga1M3N01IWmxjck8tbEUzZXhCeS1XbURUYUFCWV95TEVuSDFFUVhQLXR2QndhR3ZCNk0tVEJBaw?oc=5</link>
+      <guid isPermaLink="false">CBMisAFBVV95cUxNNkdSSTB6NWtuMlo2MXN0Yk8waGZka1lJdjVSRGR5c1gzS0d4WDRCY0pVajZjRjZiT3p3ZElLeG5IZGpBU3hsQ05IZVhwV0h0N096X1h6c2NYcU1rRW82RFJpbWZOdDZfQV9NQ0tmQXc4TGZxa3M2Nk1Ga1M3N01IWmxjck8tbEUzZXhCeS1XbURUYUFCWV95TEVuSDFFUVhQLXR2QndhR3ZCNk0tVEJBaw</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkdSSTB6NWtuMlo2MXN0Yk8waGZka1lJdjVSRGR5c1gzS0d4WDRCY0pVajZjRjZiT3p3ZElLeG5IZGpBU3hsQ05IZVhwV0h0N096X1h6c2NYcU1rRW82RFJpbWZOdDZfQV9NQ0tmQXc4TGZxa3M2Nk1Ga1M3N01IWmxjck8tbEUzZXhCeS1XbURUYUFCWV95TEVuSDFFUVhQLXR2QndhR3ZCNk0tVEJBaw?oc=5" target="_blank"&gt;Бразилец Карабаха может этой зимой покинуть команду&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 14:56:47 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Тренеры казахстанского клуба посетили базу Карабаха и поговорили с Гурбаном Гурбановым - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMi3wFBVV95cUxPazRQXzhnLURkTldPZ2xnMGUxbzNzUXFSNTFocEJYS25JU3VsVFdzTkkyU0w2TmR1ZjNxQkZrdktvOXBZZHFrUzZ4aEZRRmVnTXBHb092UUR6VVdKekpIR29DeVY4VDhLNzhaQUkxSDNITU5MWjVuMjJwRUhZWjM0dVhVZDVkaVIzVE9MbTJwS1B0S0Fvd0QzNjJFc1E4QWpLdHZrbFotZmxkZy0xa1RJVGtlX0xxNmNpekxWNEh6allfdGUwSVBhRkZwMXRtYmM4MHgxMXV4UWJ3b0lFSktv?oc=5</link>
+      <guid isPermaLink="false">CBMi3wFBVV95cUxPazRQXzhnLURkTldPZ2xnMGUxbzNzUXFSNTFocEJYS25JU3VsVFdzTkkyU0w2TmR1ZjNxQkZrdktvOXBZZHFrUzZ4aEZRRmVnTXBHb092UUR6VVdKekpIR29DeVY4VDhLNzhaQUkxSDNITU5MWjVuMjJwRUhZWjM0dVhVZDVkaVIzVE9MbTJwS1B0S0Fvd0QzNjJFc1E4QWpLdHZrbFotZmxkZy0xa1RJVGtlX0xxNmNpekxWNEh6allfdGUwSVBhRkZwMXRtYmM4MHgxMXV4UWJ3b0lFSktv</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMi3wFBVV95cUxPazRQXzhnLURkTldPZ2xnMGUxbzNzUXFSNTFocEJYS25JU3VsVFdzTkkyU0w2TmR1ZjNxQkZrdktvOXBZZHFrUzZ4aEZRRmVnTXBHb092UUR6VVdKekpIR29DeVY4VDhLNzhaQUkxSDNITU5MWjVuMjJwRUhZWjM0dVhVZDVkaVIzVE9MbTJwS1B0S0Fvd0QzNjJFc1E4QWpLdHZrbFotZmxkZy0xa1RJVGtlX0xxNmNpekxWNEh6allfdGUwSVBhRkZwMXRtYmM4MHgxMXV4UWJ3b0lFSktv?oc=5" target="_blank"&gt;Тренеры казахстанского клуба посетили базу Карабаха и поговорили с Гурбаном Гурбановым&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 10:12:57 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Вернидуб встретился с координатором и тренерским штабом академии Нефтчи - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMizAFBVV95cUxQVkRSX2hCSmxYU0JkMnY3cW9pWTU5QUVIX3N1Slo2bkhZbWRaTFpnc040RzV5TTFaRVJtU0NFRDhob1Nlb3dxNnp6UXZvY3lXSmpMcHJTZnFNVVBFTDU1NXl1aFRFSlgwRTBJMkh2N0dyMDkxOGpSUndHZmY5MGhjaDQ0STBoZnV2UFkwdVRxMU9vNl85LTZJdHVxR1B6WWxodS1wWFVmQjNmaW0wTVNhVlE0amN5cG9zcE5BVXFITTdhQ1RRcjdyaUVDcVQ?oc=5</link>
+      <guid isPermaLink="false">CBMizAFBVV95cUxQVkRSX2hCSmxYU0JkMnY3cW9pWTU5QUVIX3N1Slo2bkhZbWRaTFpnc040RzV5TTFaRVJtU0NFRDhob1Nlb3dxNnp6UXZvY3lXSmpMcHJTZnFNVVBFTDU1NXl1aFRFSlgwRTBJMkh2N0dyMDkxOGpSUndHZmY5MGhjaDQ0STBoZnV2UFkwdVRxMU9vNl85LTZJdHVxR1B6WWxodS1wWFVmQjNmaW0wTVNhVlE0amN5cG9zcE5BVXFITTdhQ1RRcjdyaUVDcVQ</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMizAFBVV95cUxQVkRSX2hCSmxYU0JkMnY3cW9pWTU5QUVIX3N1Slo2bkhZbWRaTFpnc040RzV5TTFaRVJtU0NFRDhob1Nlb3dxNnp6UXZvY3lXSmpMcHJTZnFNVVBFTDU1NXl1aFRFSlgwRTBJMkh2N0dyMDkxOGpSUndHZmY5MGhjaDQ0STBoZnV2UFkwdVRxMU9vNl85LTZJdHVxR1B6WWxodS1wWFVmQjNmaW0wTVNhVlE0amN5cG9zcE5BVXFITTdhQ1RRcjdyaUVDcVQ?oc=5" target="_blank"&gt;Вернидуб встретился с координатором и тренерским штабом академии Нефтчи&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 13:20:02 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Барселону ждет аншлаг на Олимпийском стадионе - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHh2VjJYaHowWEd5eFJDNnhzQzRfZ0U5Z2xidTJWT0dsd0lmVTdJN2xza0pJTU1lS2Q4ek9fcTNKejRzTVNIeHh3MDVqbkdJbzVJN01RVzVISFN6WkYzcDkycmsxRWVlUjhZSWNfbGlpNjY4bnZBMXFLNzZJUkZBQ3JrZmpudHFWa2JuTkVlMTJvRER2Y2hzUlBEaWx2Rk0xRHRDcWxMckU?oc=5</link>
+      <guid isPermaLink="false">CBMiqAFBVV95cUxNaHh2VjJYaHowWEd5eFJDNnhzQzRfZ0U5Z2xidTJWT0dsd0lmVTdJN2xza0pJTU1lS2Q4ek9fcTNKejRzTVNIeHh3MDVqbkdJbzVJN01RVzVISFN6WkYzcDkycmsxRWVlUjhZSWNfbGlpNjY4bnZBMXFLNzZJUkZBQ3JrZmpudHFWa2JuTkVlMTJvRER2Y2hzUlBEaWx2Rk0xRHRDcWxMckU</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaHh2VjJYaHowWEd5eFJDNnhzQzRfZ0U5Z2xidTJWT0dsd0lmVTdJN2xza0pJTU1lS2Q4ek9fcTNKejRzTVNIeHh3MDVqbkdJbzVJN01RVzVISFN6WkYzcDkycmsxRWVlUjhZSWNfbGlpNjY4bnZBMXFLNzZJUkZBQ3JrZmpudHFWa2JuTkVlMTJvRER2Y2hzUlBEaWx2Rk0xRHRDcWxMckU?oc=5" target="_blank"&gt;Барселону ждет аншлаг на Олимпийском стадионе&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 08:44:05 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Важный экзамен Сабаха перед Барселоной - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXJOdmI3ZVNOcmlUbTNwTkp1Wm5vdzJrUE1rQ3RJWHhBS0FsYTBySE1lMG1SS1lqaXdmS1dzTmliNXpSRFUxQTBUT0o2V0VzVllqR1FnUW5zUlAycHBzYXVONTdKUk00RHB1aU5URnFsWDZ2ODgyY2RiRjdlWEx1d1F5c0F4My0tZDgyM0pzbE94NlNNdFdCT1pYaw?oc=5</link>
+      <guid isPermaLink="false">CBMimwFBVV95cUxPYXJOdmI3ZVNOcmlUbTNwTkp1Wm5vdzJrUE1rQ3RJWHhBS0FsYTBySE1lMG1SS1lqaXdmS1dzTmliNXpSRFUxQTBUT0o2V0VzVllqR1FnUW5zUlAycHBzYXVONTdKUk00RHB1aU5URnFsWDZ2ODgyY2RiRjdlWEx1d1F5c0F4My0tZDgyM0pzbE94NlNNdFdCT1pYaw</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXJOdmI3ZVNOcmlUbTNwTkp1Wm5vdzJrUE1rQ3RJWHhBS0FsYTBySE1lMG1SS1lqaXdmS1dzTmliNXpSRFUxQTBUT0o2V0VzVllqR1FnUW5zUlAycHBzYXVONTdKUk00RHB1aU5URnFsWDZ2ODgyY2RiRjdlWEx1d1F5c0F4My0tZDgyM0pzbE94NlNNdFdCT1pYaw?oc=5" target="_blank"&gt;Важный экзамен Сабаха перед Барселоной&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 07:08:44 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Эльхан Самедов: Создание такой футбольной атмосферы в Ханкенди – многообещающее направление на будущее - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUXNvNkJIeXRObktQd1d6dzcwR3BMRjFwYllxdDkyajdTZC1yLUJxYzFLdlFrS25FNmVoMjRIYVp6Y1RBUDduU1J0RW81dGRnd3plaU5VX1NWdVFIZWl1aUtFTzBqdDBkclM3QkhaUWViRXRTVkhpNFRWSVZTRTRRcno2VHpiZW1FTTZOX0NXQjRydFNSc2Y4YnJlZ3RUYWNtclZQaU05UXZtczV6LTd6c2JrdV9Ga2FGUkQ4eHFIQTM2bkdDSEVreHFtZk9NdlR0V19aRFRQWEdILXBublRINVVPOURvbVRJX09nVXJqaElyQ2RYdURn?oc=5</link>
+      <guid isPermaLink="false">CBMi9wFBVV95cUxNUXNvNkJIeXRObktQd1d6dzcwR3BMRjFwYllxdDkyajdTZC1yLUJxYzFLdlFrS25FNmVoMjRIYVp6Y1RBUDduU1J0RW81dGRnd3plaU5VX1NWdVFIZWl1aUtFTzBqdDBkclM3QkhaUWViRXRTVkhpNFRWSVZTRTRRcno2VHpiZW1FTTZOX0NXQjRydFNSc2Y4YnJlZ3RUYWNtclZQaU05UXZtczV6LTd6c2JrdV9Ga2FGUkQ4eHFIQTM2bkdDSEVreHFtZk9NdlR0V19aRFRQWEdILXBublRINVVPOURvbVRJX09nVXJqaElyQ2RYdURn</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUXNvNkJIeXRObktQd1d6dzcwR3BMRjFwYllxdDkyajdTZC1yLUJxYzFLdlFrS25FNmVoMjRIYVp6Y1RBUDduU1J0RW81dGRnd3plaU5VX1NWdVFIZWl1aUtFTzBqdDBkclM3QkhaUWViRXRTVkhpNFRWSVZTRTRRcno2VHpiZW1FTTZOX0NXQjRydFNSc2Y4YnJlZ3RUYWNtclZQaU05UXZtczV6LTd6c2JrdV9Ga2FGUkQ4eHFIQTM2bkdDSEVreHFtZk9NdlR0V19aRFRQWEdILXBublRINVVPOURvbVRJX09nVXJqaElyQ2RYdURn?oc=5" target="_blank"&gt;Эльхан Самедов: Создание такой футбольной атмосферы в Ханкенди – многообещающее направление на будущее&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 08:13:58 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Славчо Георгиевски: Если Нефтчи продолжит в том же духе, он стопроцентно станет чемпионом - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMi5wFBVV95cUxOU3BPS2VHbHl1QWpVMFZWZHNDQmRPZndxcFE1eW92cV9ENEExZU1OakM4b3lVWm5hV2VpVEUtdk8tRXA2c0NlLWlzUUdxZHVma3hIOUZ1V1A5emplTFNudDJGZ25SdjdHVV9vSzlmV3M1QWM1b29iYTJSdTRGdndkeGlfUHcyQVI5MkxLNEtmVHhtbXV5ZVo2N2J5X3cwSDR2Q1hHbjBHSTFITTZ3WGQzSXhsN01Jc1J2WnNoemlaMnJXWU8tQjNibWtMclBvRGNMWmktR1VBU0NWdng2aUZ1UENzZTVSMFU?oc=5</link>
+      <guid isPermaLink="false">CBMi5wFBVV95cUxOU3BPS2VHbHl1QWpVMFZWZHNDQmRPZndxcFE1eW92cV9ENEExZU1OakM4b3lVWm5hV2VpVEUtdk8tRXA2c0NlLWlzUUdxZHVma3hIOUZ1V1A5emplTFNudDJGZ25SdjdHVV9vSzlmV3M1QWM1b29iYTJSdTRGdndkeGlfUHcyQVI5MkxLNEtmVHhtbXV5ZVo2N2J5X3cwSDR2Q1hHbjBHSTFITTZ3WGQzSXhsN01Jc1J2WnNoemlaMnJXWU8tQjNibWtMclBvRGNMWmktR1VBU0NWdng2aUZ1UENzZTVSMFU</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMi5wFBVV95cUxOU3BPS2VHbHl1QWpVMFZWZHNDQmRPZndxcFE1eW92cV9ENEExZU1OakM4b3lVWm5hV2VpVEUtdk8tRXA2c0NlLWlzUUdxZHVma3hIOUZ1V1A5emplTFNudDJGZ25SdjdHVV9vSzlmV3M1QWM1b29iYTJSdTRGdndkeGlfUHcyQVI5MkxLNEtmVHhtbXV5ZVo2N2J5X3cwSDR2Q1hHbjBHSTFITTZ3WGQzSXhsN01Jc1J2WnNoemlaMnJXWU8tQjNibWtMclBvRGNMWmktR1VBU0NWdng2aUZ1UENzZTVSMFU?oc=5" target="_blank"&gt;Славчо Георгиевски: Если Нефтчи продолжит в том же духе, он стопроцентно станет чемпионом&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 06:18:16 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>АФФА показала, как в «милли» прощались с Махмудовым - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVW4tcTRfLUoxM0pPV0dQR2JEVXlxQmZDZElXQmFMQ2l2VnByeU1zd3htekN3YTZ6VkNfX1U0bG44WEF0U0JQN3RjUnVKeHpaOVJXclp2ZGpXSWs5b3FjbllnRy1OQjc5cEVHelVPdkdDS1F4N3VHdGpoLThmTF9oblcwSVhLSnBKaEd6VTdCcnRSejRBRlBXVWFlTVpwQzVkV2x1OE9aN0E?oc=5</link>
+      <guid isPermaLink="false">CBMiqAFBVV95cUxQVW4tcTRfLUoxM0pPV0dQR2JEVXlxQmZDZElXQmFMQ2l2VnByeU1zd3htekN3YTZ6VkNfX1U0bG44WEF0U0JQN3RjUnVKeHpaOVJXclp2ZGpXSWs5b3FjbllnRy1OQjc5cEVHelVPdkdDS1F4N3VHdGpoLThmTF9oblcwSVhLSnBKaEd6VTdCcnRSejRBRlBXVWFlTVpwQzVkV2x1OE9aN0E</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVW4tcTRfLUoxM0pPV0dQR2JEVXlxQmZDZElXQmFMQ2l2VnByeU1zd3htekN3YTZ6VkNfX1U0bG44WEF0U0JQN3RjUnVKeHpaOVJXclp2ZGpXSWs5b3FjbllnRy1OQjc5cEVHelVPdkdDS1F4N3VHdGpoLThmTF9oblcwSVhLSnBKaEd6VTdCcnRSejRBRlBXVWFlTVpwQzVkV2x1OE9aN0E?oc=5" target="_blank"&gt;АФФА показала, как в «милли» прощались с Махмудовым&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 19:50:34 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>На матч Сабах – Барселона билеты приобрели болельщики из 74 стран - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY3dhY2FDbGlhb1d6NmxSTUo2eVRDVzk2TE5wRDBXV1FuZ3piYUtiTUFPWVR3UTU5cTBlenZhQUI5QVNWMjJPSE5Fbm0yY1hPbXFqT05YTXFDaGRTdWZiVGZYRUhJOEVqVS04MkxlTXVTNzBoWERoWk15SEE1MlNCRGFrcENtZkRpcnNyMHBKT1N0RGFxQ1lxblNxQWdFU2djei1FZl9nTHloZnpsZE5RNjh2S3RIZ0hpdjhWYks0Z1JOUQ?oc=5</link>
+      <guid isPermaLink="false">CBMiwgFBVV95cUxQY3dhY2FDbGlhb1d6NmxSTUo2eVRDVzk2TE5wRDBXV1FuZ3piYUtiTUFPWVR3UTU5cTBlenZhQUI5QVNWMjJPSE5Fbm0yY1hPbXFqT05YTXFDaGRTdWZiVGZYRUhJOEVqVS04MkxlTXVTNzBoWERoWk15SEE1MlNCRGFrcENtZkRpcnNyMHBKT1N0RGFxQ1lxblNxQWdFU2djei1FZl9nTHloZnpsZE5RNjh2S3RIZ0hpdjhWYks0Z1JOUQ</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY3dhY2FDbGlhb1d6NmxSTUo2eVRDVzk2TE5wRDBXV1FuZ3piYUtiTUFPWVR3UTU5cTBlenZhQUI5QVNWMjJPSE5Fbm0yY1hPbXFqT05YTXFDaGRTdWZiVGZYRUhJOEVqVS04MkxlTXVTNzBoWERoWk15SEE1MlNCRGFrcENtZkRpcnNyMHBKT1N0RGFxQ1lxblNxQWdFU2djei1FZl9nTHloZnpsZE5RNjh2S3RIZ0hpdjhWYks0Z1JOUQ?oc=5" target="_blank"&gt;На матч Сабах – Барселона билеты приобрели болельщики из 74 стран&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 19:10:47 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Отбитый пенальти не помог команде Тагизаде в Кубке - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVFlnLW5oUTFuejE4eHVsZk92ckhtcHo2WV83dEt4RDh4ZDRoTGMzZEFrTmdWSzZ1NXpGaGNoWjJSd3NHYWg1MW9vNUtGcXlJZGtKdGpzYVctWF9kbUlSNmg2SkVPR3p0cDhsZXJZUWwxMkxpazBtWXVVeUN4eXNiNnI5YlhmNzhNdjVmQ1lucXEtVGZZZFNzcGh2QmNjX3Jjb0NlNWU4eUhPY2M?oc=5</link>
+      <guid isPermaLink="false">CBMiqwFBVV95cUxQVFlnLW5oUTFuejE4eHVsZk92ckhtcHo2WV83dEt4RDh4ZDRoTGMzZEFrTmdWSzZ1NXpGaGNoWjJSd3NHYWg1MW9vNUtGcXlJZGtKdGpzYVctWF9kbUlSNmg2SkVPR3p0cDhsZXJZUWwxMkxpazBtWXVVeUN4eXNiNnI5YlhmNzhNdjVmQ1lucXEtVGZZZFNzcGh2QmNjX3Jjb0NlNWU4eUhPY2M</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVFlnLW5oUTFuejE4eHVsZk92ckhtcHo2WV83dEt4RDh4ZDRoTGMzZEFrTmdWSzZ1NXpGaGNoWjJSd3NHYWg1MW9vNUtGcXlJZGtKdGpzYVctWF9kbUlSNmg2SkVPR3p0cDhsZXJZUWwxMkxpazBtWXVVeUN4eXNiNnI5YlhmNzhNdjVmQ1lucXEtVGZZZFNzcGh2QmNjX3Jjb0NlNWU4eUhPY2M?oc=5" target="_blank"&gt;Отбитый пенальти не помог команде Тагизаде в Кубке&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 16:35:14 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Ветераны Ханкенди – о возвращении клуба на родную арену - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMisgFBVV95cUxOckxHYkFucmJrZjU1bFh6LVl0SXRXZkxwOEREWmdZc0R6Z3EwZlAxNXhWTllSUktnOFhzNTV3X3pvb2dXZjRscVp6dW82SHpXVXNaMXVkQ2hlSWdpSE9NV2kzbVVEckktS1A4aG5LX2lpamJTd3hoZjNva1AtTW1lOWxvNW8wS0JJMy10SUtuVzBDMVNXTzRMc082NVQ2RVBaNzNXUl9yQktFUURILTc4aVpR?oc=5</link>
+      <guid isPermaLink="false">CBMisgFBVV95cUxOckxHYkFucmJrZjU1bFh6LVl0SXRXZkxwOEREWmdZc0R6Z3EwZlAxNXhWTllSUktnOFhzNTV3X3pvb2dXZjRscVp6dW82SHpXVXNaMXVkQ2hlSWdpSE9NV2kzbVVEckktS1A4aG5LX2lpamJTd3hoZjNva1AtTW1lOWxvNW8wS0JJMy10SUtuVzBDMVNXTzRMc082NVQ2RVBaNzNXUl9yQktFUURILTc4aVpR</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxOckxHYkFucmJrZjU1bFh6LVl0SXRXZkxwOEREWmdZc0R6Z3EwZlAxNXhWTllSUktnOFhzNTV3X3pvb2dXZjRscVp6dW82SHpXVXNaMXVkQ2hlSWdpSE9NV2kzbVVEckktS1A4aG5LX2lpamJTd3hoZjNva1AtTW1lOWxvNW8wS0JJMy10SUtuVzBDMVNXTzRMc082NVQ2RVBaNzNXUl9yQktFUURILTc4aVpR?oc=5" target="_blank"&gt;Ветераны Ханкенди – о возвращении клуба на родную арену&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 16:15:10 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Наставник Ханкенди: Этот сезон будет для нас переходным периодом - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTk9fRmU3b3VPM3dnbUx0Tm80M2UwTHk3MkMwM2o3U09uR09ta09SZVFhWXZaNzBjNTFtQ04xdERvWmVXdzl3V2EtOXpYMlJZZENUSWxDdmNvcEVYdEZoLWcxQl9ldU1vbk5teHEtUm5CM0dYbHlKWGRxTkEyQ2FLc3B2RlJUeXgtNEFjTDRFT2dSTGFVbU45VlBscnZveklIREs4VHh3Wl9WOWZRRndHV3RXcUVueVp2a2stR29PVk0xdw?oc=5</link>
+      <guid isPermaLink="false">CBMiwgFBVV95cUxQTk9fRmU3b3VPM3dnbUx0Tm80M2UwTHk3MkMwM2o3U09uR09ta09SZVFhWXZaNzBjNTFtQ04xdERvWmVXdzl3V2EtOXpYMlJZZENUSWxDdmNvcEVYdEZoLWcxQl9ldU1vbk5teHEtUm5CM0dYbHlKWGRxTkEyQ2FLc3B2RlJUeXgtNEFjTDRFT2dSTGFVbU45VlBscnZveklIREs4VHh3Wl9WOWZRRndHV3RXcUVueVp2a2stR29PVk0xdw</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTk9fRmU3b3VPM3dnbUx0Tm80M2UwTHk3MkMwM2o3U09uR09ta09SZVFhWXZaNzBjNTFtQ04xdERvWmVXdzl3V2EtOXpYMlJZZENUSWxDdmNvcEVYdEZoLWcxQl9ldU1vbk5teHEtUm5CM0dYbHlKWGRxTkEyQ2FLc3B2RlJUeXgtNEFjTDRFT2dSTGFVbU45VlBscnZveklIREs4VHh3Wl9WOWZRRndHV3RXcUVueVp2a2stR29PVk0xdw?oc=5" target="_blank"&gt;Наставник Ханкенди: Этот сезон будет для нас переходным периодом&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 15:09:55 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Рамиз Мамедов: Несмотря на победу Карван-Евлаха, сегодня был праздник для всех - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemk2Y2x6OENMRnZGSnMxbm1kY3RYRjQxSVJweUJPYXFaVWRZNDhKem1LR2xGcWF3RUNXYVU3MUw2VHoyNXBKSFhXLVpVWm1OUklEaEFnck1naWRpcU5wUTRBTVQ0dTcyS0RYWnpBbDJiNDNZQVA1MV9rLTVVRXdhbnZmVVRGWUVob1ZYY1VTRFRyQTlLZXlFVFVfYW5tNUEtVUJ2YU5hbU9LbUxNVnZ5dzFrbGRVY2swTHpXSktxX0tnb3BZdm9VRGp2bkhEaVd4Y0tSdHpR?oc=5</link>
+      <guid isPermaLink="false">CBMi1gFBVV95cUxQemk2Y2x6OENMRnZGSnMxbm1kY3RYRjQxSVJweUJPYXFaVWRZNDhKem1LR2xGcWF3RUNXYVU3MUw2VHoyNXBKSFhXLVpVWm1OUklEaEFnck1naWRpcU5wUTRBTVQ0dTcyS0RYWnpBbDJiNDNZQVA1MV9rLTVVRXdhbnZmVVRGWUVob1ZYY1VTRFRyQTlLZXlFVFVfYW5tNUEtVUJ2YU5hbU9LbUxNVnZ5dzFrbGRVY2swTHpXSktxX0tnb3BZdm9VRGp2bkhEaVd4Y0tSdHpR</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemk2Y2x6OENMRnZGSnMxbm1kY3RYRjQxSVJweUJPYXFaVWRZNDhKem1LR2xGcWF3RUNXYVU3MUw2VHoyNXBKSFhXLVpVWm1OUklEaEFnck1naWRpcU5wUTRBTVQ0dTcyS0RYWnpBbDJiNDNZQVA1MV9rLTVVRXdhbnZmVVRGWUVob1ZYY1VTRFRyQTlLZXlFVFVfYW5tNUEtVUJ2YU5hbU9LbUxNVnZ5dzFrbGRVY2swTHpXSktxX0tnb3BZdm9VRGp2bkhEaVd4Y0tSdHpR?oc=5" target="_blank"&gt;Рамиз Мамедов: Несмотря на победу Карван-Евлаха, сегодня был праздник для всех&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 14:34:48 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Сборная Азербайджана готовится к матчам в Сербии - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxPWWJrTlVmcWhfUVVKNzBlenVsRllTYlFhV0dKTm1YLTRuN0ZudmJaYzVWZGQtMTlhckxTUUVubS02YWxVUlBVcHV4YmhfME1oZzkyN0xsb21fZ2RkS1QxcEhjMUpWaHk5TEw1UzV2THVWNFNPRXZTNXpTX01WSEdtTUgyNDJyWXh3VEk4NnFCM0V2UW5fOUp0T1BpcTNQejhJYkt1THhURzVCX2xVOHMw?oc=5</link>
+      <guid isPermaLink="false">CBMirwFBVV95cUxPWWJrTlVmcWhfUVVKNzBlenVsRllTYlFhV0dKTm1YLTRuN0ZudmJaYzVWZGQtMTlhckxTUUVubS02YWxVUlBVcHV4YmhfME1oZzkyN0xsb21fZ2RkS1QxcEhjMUpWaHk5TEw1UzV2THVWNFNPRXZTNXpTX01WSEdtTUgyNDJyWXh3VEk4NnFCM0V2UW5fOUp0T1BpcTNQejhJYkt1THhURzVCX2xVOHMw</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPWWJrTlVmcWhfUVVKNzBlenVsRllTYlFhV0dKTm1YLTRuN0ZudmJaYzVWZGQtMTlhckxTUUVubS02YWxVUlBVcHV4YmhfME1oZzkyN0xsb21fZ2RkS1QxcEhjMUpWaHk5TEw1UzV2THVWNFNPRXZTNXpTX01WSEdtTUgyNDJyWXh3VEk4NnFCM0V2UW5fOUp0T1BpcTNQejhJYkt1THhURzVCX2xVOHMw?oc=5" target="_blank"&gt;Сборная Азербайджана готовится к матчам в Сербии&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 14:24:38 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>«Милли» посетила Физули - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPcVNkeWpyTDM2c2JBVlh0aGhwazB5X0Fzb25qblR4Y3p3bzJIb3JlWDVuNFZqY1lzR2hxN3NMZ2ozVGFMX2JtZG13eWtSeC1ZUEswM09wR3hSbTVKbHhWQ2NzR3NEVTUyUkZ6M2lrb1VBaUMxLTBUQ3p1aUNlSm1EMElRWWlKUQ?oc=5</link>
+      <guid isPermaLink="false">CBMihgFBVV95cUxPcVNkeWpyTDM2c2JBVlh0aGhwazB5X0Fzb25qblR4Y3p3bzJIb3JlWDVuNFZqY1lzR2hxN3NMZ2ozVGFMX2JtZG13eWtSeC1ZUEswM09wR3hSbTVKbHhWQ2NzR3NEVTUyUkZ6M2lrb1VBaUMxLTBUQ3p1aUNlSm1EMElRWWlKUQ</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxPcVNkeWpyTDM2c2JBVlh0aGhwazB5X0Fzb25qblR4Y3p3bzJIb3JlWDVuNFZqY1lzR2hxN3NMZ2ozVGFMX2JtZG13eWtSeC1ZUEswM09wR3hSbTVKbHhWQ2NzR3NEVTUyUkZ6M2lrb1VBaUMxLTBUQ3p1aUNlSm1EMElRWWlKUQ?oc=5" target="_blank"&gt;«Милли» посетила Физули&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 12:39:23 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Приятная новость для футболистов, не попадающих в состав - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQRVM2bVF6U0ZHdk95bGRMMXVmNmxGS0FKS20waFB0VFo3dE9XYS1IeEJxWE81ZFZ3SkhBck81XzNCOVQ1NklxU0JsZGd2X25wY0lhUUJVbzRDYXVMRlFhZTAwTFhyR200SVA1Qkc0MTlvdmdlTUVOVmpmWDduNU53Qmt6Skl0dFlVZ0dvSXNZOXpNY2hwcFBmXzB3SEw5cHh1VHJnMWgxZVZzcUc2UkJTSWdkaEVqQ2s?oc=5</link>
+      <guid isPermaLink="false">CBMitwFBVV95cUxQRVM2bVF6U0ZHdk95bGRMMXVmNmxGS0FKS20waFB0VFo3dE9XYS1IeEJxWE81ZFZ3SkhBck81XzNCOVQ1NklxU0JsZGd2X25wY0lhUUJVbzRDYXVMRlFhZTAwTFhyR200SVA1Qkc0MTlvdmdlTUVOVmpmWDduNU53Qmt6Skl0dFlVZ0dvSXNZOXpNY2hwcFBmXzB3SEw5cHh1VHJnMWgxZVZzcUc2UkJTSWdkaEVqQ2s</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxQRVM2bVF6U0ZHdk95bGRMMXVmNmxGS0FKS20waFB0VFo3dE9XYS1IeEJxWE81ZFZ3SkhBck81XzNCOVQ1NklxU0JsZGd2X25wY0lhUUJVbzRDYXVMRlFhZTAwTFhyR200SVA1Qkc0MTlvdmdlTUVOVmpmWDduNU53Qmt6Skl0dFlVZ0dvSXNZOXpNY2hwcFBmXzB3SEw5cHh1VHJnMWgxZVZzcUc2UkJTSWdkaEVqQ2s?oc=5" target="_blank"&gt;Приятная новость для футболистов, не попадающих в состав&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 11:39:10 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Ташкент для Азербайджана удачен. Кто станет чемпионом на этот раз? - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZWpuNkFFRWFlR0xiZG9OZW1yZm00NGhXdXAxOTNaeTVHWGNNVE1MVEpiVmw2QzFsWXoyMkdsRWtab1Boa2s5bWxZalNuVE1QMGhHMW9La0VBOW9nVmlKR0x4LThCb2ctRDNLT1p4RndDazJnbUY0bzVzUkZnYTNKUGFNY196TUhiNEZtcWFueFUtYWFUVWhxMlU0Q1R3VXlWNUhhdGlhc2xYMGJERjlMQ1ZhUVNoMmwzc1ItQW9KWlQwdw?oc=5</link>
+      <guid isPermaLink="false">CBMiwgFBVV95cUxOZWpuNkFFRWFlR0xiZG9OZW1yZm00NGhXdXAxOTNaeTVHWGNNVE1MVEpiVmw2QzFsWXoyMkdsRWtab1Boa2s5bWxZalNuVE1QMGhHMW9La0VBOW9nVmlKR0x4LThCb2ctRDNLT1p4RndDazJnbUY0bzVzUkZnYTNKUGFNY196TUhiNEZtcWFueFUtYWFUVWhxMlU0Q1R3VXlWNUhhdGlhc2xYMGJERjlMQ1ZhUVNoMmwzc1ItQW9KWlQwdw</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZWpuNkFFRWFlR0xiZG9OZW1yZm00NGhXdXAxOTNaeTVHWGNNVE1MVEpiVmw2QzFsWXoyMkdsRWtab1Boa2s5bWxZalNuVE1QMGhHMW9La0VBOW9nVmlKR0x4LThCb2ctRDNLT1p4RndDazJnbUY0bzVzUkZnYTNKUGFNY196TUhiNEZtcWFueFUtYWFUVWhxMlU0Q1R3VXlWNUhhdGlhc2xYMGJERjlMQ1ZhUVNoMmwzc1ItQW9KWlQwdw?oc=5" target="_blank"&gt;Ташкент для Азербайджана удачен. Кто станет чемпионом на этот раз?&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 11:41:12 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Карабах предложил новый контракт бразильцу - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMipAFBVV95cUxQcmttak01X1Excm9jS1Bjb01PekpkU3hUdENZZV9MVGZVTlZqbmh5RmhQYl9uLWJ2U1B3SXBBQWdXOHg0eHNVWjVKOVlteWVOdzRPeEJYb0hpUGtoemZPUVA3UlZhdXg4aHYtMGtTTVV5SDVzTkJpWGVHV1VBOW5Jd3RBWWc0RmU0blZINzBadm01WWJreUZIZTFLWDIyQmx4bzVPNA?oc=5</link>
+      <guid isPermaLink="false">CBMipAFBVV95cUxQcmttak01X1Excm9jS1Bjb01PekpkU3hUdENZZV9MVGZVTlZqbmh5RmhQYl9uLWJ2U1B3SXBBQWdXOHg0eHNVWjVKOVlteWVOdzRPeEJYb0hpUGtoemZPUVA3UlZhdXg4aHYtMGtTTVV5SDVzTkJpWGVHV1VBOW5Jd3RBWWc0RmU0blZINzBadm01WWJreUZIZTFLWDIyQmx4bzVPNA</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQcmttak01X1Excm9jS1Bjb01PekpkU3hUdENZZV9MVGZVTlZqbmh5RmhQYl9uLWJ2U1B3SXBBQWdXOHg0eHNVWjVKOVlteWVOdzRPeEJYb0hpUGtoemZPUVA3UlZhdXg4aHYtMGtTTVV5SDVzTkJpWGVHV1VBOW5Jd3RBWWc0RmU0blZINzBadm01WWJreUZIZTFLWDIyQmx4bzVPNA?oc=5" target="_blank"&gt;Карабах предложил новый контракт бразильцу&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 10:40:59 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Защитник Сабаха: Да, я разочарован - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOanoxWVBDeTdYbExzZE1VU0xxem5XM1lYZHBFN1E3bVpTVmhsU001RUlONmRlT2l0b3VyY1lzQ0xBWjgwTVYxM2V5MmRSS0g1MXM5UDcwRnc0amhiNmpVMkJEWVNTamdjZmFKOU5xMkdtNGpTQ1RTd003YW9NaHhfZWhEUmdYWTFlbmpESENNaW9mMF94RlllanlJSQ?oc=5</link>
+      <guid isPermaLink="false">CBMimwFBVV95cUxOanoxWVBDeTdYbExzZE1VU0xxem5XM1lYZHBFN1E3bVpTVmhsU001RUlONmRlT2l0b3VyY1lzQ0xBWjgwTVYxM2V5MmRSS0g1MXM5UDcwRnc0amhiNmpVMkJEWVNTamdjZmFKOU5xMkdtNGpTQ1RTd003YW9NaHhfZWhEUmdYWTFlbmpESENNaW9mMF94RlllanlJSQ</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOanoxWVBDeTdYbExzZE1VU0xxem5XM1lYZHBFN1E3bVpTVmhsU001RUlONmRlT2l0b3VyY1lzQ0xBWjgwTVYxM2V5MmRSS0g1MXM5UDcwRnc0amhiNmpVMkJEWVNTamdjZmFKOU5xMkdtNGpTQ1RTd003YW9NaHhfZWhEUmdYWTFlbmpESENNaW9mMF94RlllanlJSQ?oc=5" target="_blank"&gt;Защитник Сабаха: Да, я разочарован&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 09:13:35 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Архив - 18 ноября 2026 - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nLUFybXBaRE85V05UcUU5R2trZzQ0blN5eDV3WTE5RkpKd29uRmhYV1VNdjB5QlBRTlVNeTFEUkxqbHVqendORG1EZEE0eDhaNm00a2lBc1ZYbURVRURV?oc=5</link>
+      <guid isPermaLink="false">CBMiX0FVX3lxTE5nLUFybXBaRE85V05UcUU5R2trZzQ0blN5eDV3WTE5RkpKd29uRmhYV1VNdjB5QlBRTlVNeTFEUkxqbHVqendORG1EZEE0eDhaNm00a2lBc1ZYbURVRURV</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nLUFybXBaRE85V05UcUU5R2trZzQ0blN5eDV3WTE5RkpKd29uRmhYV1VNdjB5QlBRTlVNeTFEUkxqbHVqendORG1EZEE0eDhaNm00a2lBc1ZYbURVRURV?oc=5" target="_blank"&gt;Архив - 18 ноября 2026&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 08:01:24 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Новый сезон Высшей лиги: больше команд, новый формат - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxQSlhpR2JYbjJIT1BEWHdjT0lPcHhrQnZNaXRFXzBYR3d2VlB3ZUsxX0tJcW51Zm1wTXR4WFRrZ3I4cUVtYXllN1I3cEU5VUF0UFFjQTBNc2pQa2dFX0xRRnctVVpoSjI3eWFiZnRLQ2tPMlZEd1oxdHJtX0d0N1NMeWF1RUtENzJ3eGVfdnNhNnJrbkN0X29OZjVPS1lSQ1JQM0pYZ1dZYjlKaHJicFE?oc=5</link>
+      <guid isPermaLink="false">CBMirgFBVV95cUxQSlhpR2JYbjJIT1BEWHdjT0lPcHhrQnZNaXRFXzBYR3d2VlB3ZUsxX0tJcW51Zm1wTXR4WFRrZ3I4cUVtYXllN1I3cEU5VUF0UFFjQTBNc2pQa2dFX0xRRnctVVpoSjI3eWFiZnRLQ2tPMlZEd1oxdHJtX0d0N1NMeWF1RUtENzJ3eGVfdnNhNnJrbkN0X29OZjVPS1lSQ1JQM0pYZ1dZYjlKaHJicFE</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQSlhpR2JYbjJIT1BEWHdjT0lPcHhrQnZNaXRFXzBYR3d2VlB3ZUsxX0tJcW51Zm1wTXR4WFRrZ3I4cUVtYXllN1I3cEU5VUF0UFFjQTBNc2pQa2dFX0xRRnctVVpoSjI3eWFiZnRLQ2tPMlZEd1oxdHJtX0d0N1NMeWF1RUtENzJ3eGVfdnNhNnJrbkN0X29OZjVPS1lSQ1JQM0pYZ1dZYjlKaHJicFE?oc=5" target="_blank"&gt;Новый сезон Высшей лиги: больше команд, новый формат&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 08:28:26 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Джахангир Фараджуллаев: Отныне в сборной Азербайджана будут играть только местные ребята - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRGtqdmpUeVRNbmJ5aDNkcy1LTmdrRklSQzYwa1VsdTQ4am9SSFJ0V3dpR2JiR051enRCUEgxUU5OMl9OZTZJWXY2WmM4MXVXWTB5RFhmUmZQVlJUWDFIeHNLR3h1eGdNMTl2ZXM0eGhaWG0xVjZUREVxUFEwNTNlU3JGb2FmT3ZHODJrcE91NHBzbzdQRnZiQkQzTlAxdHVnYXpiajBIaVI5YkdiWVl6LVZCYnRYcEFDaE1CWWR1QWJ6YjRScVBDZjRWNkFROFBydTFkbzN5cWx2WGpTOG1pdGhB?oc=5</link>
+      <guid isPermaLink="false">CBMi4gFBVV95cUxNRGtqdmpUeVRNbmJ5aDNkcy1LTmdrRklSQzYwa1VsdTQ4am9SSFJ0V3dpR2JiR051enRCUEgxUU5OMl9OZTZJWXY2WmM4MXVXWTB5RFhmUmZQVlJUWDFIeHNLR3h1eGdNMTl2ZXM0eGhaWG0xVjZUREVxUFEwNTNlU3JGb2FmT3ZHODJrcE91NHBzbzdQRnZiQkQzTlAxdHVnYXpiajBIaVI5YkdiWVl6LVZCYnRYcEFDaE1CWWR1QWJ6YjRScVBDZjRWNkFROFBydTFkbzN5cWx2WGpTOG1pdGhB</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRGtqdmpUeVRNbmJ5aDNkcy1LTmdrRklSQzYwa1VsdTQ4am9SSFJ0V3dpR2JiR051enRCUEgxUU5OMl9OZTZJWXY2WmM4MXVXWTB5RFhmUmZQVlJUWDFIeHNLR3h1eGdNMTl2ZXM0eGhaWG0xVjZUREVxUFEwNTNlU3JGb2FmT3ZHODJrcE91NHBzbzdQRnZiQkQzTlAxdHVnYXpiajBIaVI5YkdiWVl6LVZCYnRYcEFDaE1CWWR1QWJ6YjRScVBDZjRWNkFROFBydTFkbzN5cWx2WGpTOG1pdGhB?oc=5" target="_blank"&gt;Джахангир Фараджуллаев: Отныне в сборной Азербайджана будут играть только местные ребята&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 07:54:34 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Вингер Карабаха: Дни, которые я буду помнить всю свою жизнь - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMiugFBVV95cUxNR2dhVXBiajI0NW82QUpDV0hOZ08zek1jTEhJb21reVM3NE5BRHNKMHBsWlhyM1RNOWV0X2JKa2pzMFhrdS1TYXFjNTBHX3hrWlhFeVFvVE45SzVQZ1l1amJxTms0aFZ2V2NfbmNoZXVrZG1LWXZJTC1PWFA1S1Q1THhBaVlKRWVLVXRVMmZUNW5zZjFmWGdhckp1OTRVX1M0UFlsNXNxYWdQUXVPUXNGOGxWaUlMaERGVFE?oc=5</link>
+      <guid isPermaLink="false">CBMiugFBVV95cUxNR2dhVXBiajI0NW82QUpDV0hOZ08zek1jTEhJb21reVM3NE5BRHNKMHBsWlhyM1RNOWV0X2JKa2pzMFhrdS1TYXFjNTBHX3hrWlhFeVFvVE45SzVQZ1l1amJxTms0aFZ2V2NfbmNoZXVrZG1LWXZJTC1PWFA1S1Q1THhBaVlKRWVLVXRVMmZUNW5zZjFmWGdhckp1OTRVX1M0UFlsNXNxYWdQUXVPUXNGOGxWaUlMaERGVFE</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNR2dhVXBiajI0NW82QUpDV0hOZ08zek1jTEhJb21reVM3NE5BRHNKMHBsWlhyM1RNOWV0X2JKa2pzMFhrdS1TYXFjNTBHX3hrWlhFeVFvVE45SzVQZ1l1amJxTms0aFZ2V2NfbmNoZXVrZG1LWXZJTC1PWFA1S1Q1THhBaVlKRWVLVXRVMmZUNW5zZjFmWGdhckp1OTRVX1M0UFlsNXNxYWdQUXVPUXNGOGxWaUlMaERGVFE?oc=5" target="_blank"&gt;Вингер Карабаха: Дни, которые я буду помнить всю свою жизнь&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 07:39:45 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Джейхун СУЛТАНОВ: Будет ли Араз-Нахчыван бороться за выживание? Пока рано делать такие выводы - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMi6AFBVV95cUxQN3VmNU9UOXpJaVZIYy1OUURPbzMwZDJOaVNGc1lwTWhvMUdoOEpzZmxiZHlxX0xYaE5jMTBNQkZobEJ0LUxjWVVjSzZ3am1nb1BYNnBySGhRSU4xR3pQREt6U04yQkl4MnRucmY1RmkzbkpxblEycm5VdnktNlR2aUtCajhWSjNtU1VGbHFWa3ZFcWRiQ0hCcjUzN2Iyc0ZId2Rka2xSZmYxbkVmaDRZWEJHdDBYUmFsbHc0SGMwRmtTSV9vOHlGTzhncUd5ZUZLVXFfNFBfekpjdktlaG8tdHVtNVI1bWhx?oc=5</link>
+      <guid isPermaLink="false">CBMi6AFBVV95cUxQN3VmNU9UOXpJaVZIYy1OUURPbzMwZDJOaVNGc1lwTWhvMUdoOEpzZmxiZHlxX0xYaE5jMTBNQkZobEJ0LUxjWVVjSzZ3am1nb1BYNnBySGhRSU4xR3pQREt6U04yQkl4MnRucmY1RmkzbkpxblEycm5VdnktNlR2aUtCajhWSjNtU1VGbHFWa3ZFcWRiQ0hCcjUzN2Iyc0ZId2Rka2xSZmYxbkVmaDRZWEJHdDBYUmFsbHc0SGMwRmtTSV9vOHlGTzhncUd5ZUZLVXFfNFBfekpjdktlaG8tdHVtNVI1bWhx</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxQN3VmNU9UOXpJaVZIYy1OUURPbzMwZDJOaVNGc1lwTWhvMUdoOEpzZmxiZHlxX0xYaE5jMTBNQkZobEJ0LUxjWVVjSzZ3am1nb1BYNnBySGhRSU4xR3pQREt6U04yQkl4MnRucmY1RmkzbkpxblEycm5VdnktNlR2aUtCajhWSjNtU1VGbHFWa3ZFcWRiQ0hCcjUzN2Iyc0ZId2Rka2xSZmYxbkVmaDRZWEJHdDBYUmFsbHc0SGMwRmtTSV9vOHlGTzhncUd5ZUZLVXFfNFBfekpjdktlaG8tdHVtNVI1bWhx?oc=5" target="_blank"&gt;Джейхун СУЛТАНОВ: Будет ли Араз-Нахчыван бороться за выживание? Пока рано делать такие выводы&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 07:08:07 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Исторический матч Ханкенди, спасение Мингячевира - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxONEVBdkc2encxM1NWQUpyOFdWUzExaS1uRklmeENzUEJWMERBZGJEMVpjdWk2TjNTNUUzeVNOLWpIWDI0VldlZGZ4MC1JMl9KMUIxUzhUOFNwRXZETDlPZTVPd3pvYnFhTEM0NUNDQ0RpSmN0TVRoR2s1VTFONmRSVFVwbk5sRFU5RnRpY3BDbENqZ2tHOFdOSzdLbUM0WnpBbG1TdUt6ajFMNkk?oc=5</link>
+      <guid isPermaLink="false">CBMiqwFBVV95cUxONEVBdkc2encxM1NWQUpyOFdWUzExaS1uRklmeENzUEJWMERBZGJEMVpjdWk2TjNTNUUzeVNOLWpIWDI0VldlZGZ4MC1JMl9KMUIxUzhUOFNwRXZETDlPZTVPd3pvYnFhTEM0NUNDQ0RpSmN0TVRoR2s1VTFONmRSVFVwbk5sRFU5RnRpY3BDbENqZ2tHOFdOSzdLbUM0WnpBbG1TdUt6ajFMNkk</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxONEVBdkc2encxM1NWQUpyOFdWUzExaS1uRklmeENzUEJWMERBZGJEMVpjdWk2TjNTNUUzeVNOLWpIWDI0VldlZGZ4MC1JMl9KMUIxUzhUOFNwRXZETDlPZTVPd3pvYnFhTEM0NUNDQ0RpSmN0TVRoR2s1VTFONmRSVFVwbk5sRFU5RnRpY3BDbENqZ2tHOFdOSzdLbUM0WnpBbG1TdUt6ajFMNkk?oc=5" target="_blank"&gt;Исторический матч Ханкенди, спасение Мингячевира&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 06:55:26 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Вингер Карабаха сыграл, Украина победила - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMikwFBVV95cUxNWTNFNE9zV3dmTlI0U1NfZU1DRnZueHloZGMzYzZMdEQ5YjJzRENtNjJ2UUtfbTJHRk1neVFTdmlCVGlaUmhaRWk1aDNSbnprZFVaM0ZIVGpNQjYwSlhET0hiSURCZXZCbUZUOGFsNTZ3TWZ1NHdiaFFpOHBEbnMzU3l5ei1HRTNKTmFCSkEtRUt6LXM?oc=5</link>
+      <guid isPermaLink="false">CBMikwFBVV95cUxNWTNFNE9zV3dmTlI0U1NfZU1DRnZueHloZGMzYzZMdEQ5YjJzRENtNjJ2UUtfbTJHRk1neVFTdmlCVGlaUmhaRWk1aDNSbnprZFVaM0ZIVGpNQjYwSlhET0hiSURCZXZCbUZUOGFsNTZ3TWZ1NHdiaFFpOHBEbnMzU3l5ei1HRTNKTmFCSkEtRUt6LXM</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxNWTNFNE9zV3dmTlI0U1NfZU1DRnZueHloZGMzYzZMdEQ5YjJzRENtNjJ2UUtfbTJHRk1neVFTdmlCVGlaUmhaRWk1aDNSbnprZFVaM0ZIVGpNQjYwSlhET0hiSURCZXZCbUZUOGFsNTZ3TWZ1NHdiaFFpOHBEbnMzU3l5ei1HRTNKTmFCSkEtRUt6LXM?oc=5" target="_blank"&gt;Вингер Карабаха сыграл, Украина победила&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 06:16:00 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Архив - 17 ноября 2026 - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EQVdPZnR5cE1sVy1rUUdqQzRFTDVLYm9tRDdpY2E5VHhvcTNlek1tWnVMRmtxWmZVS2xXdlZzdG82S21tRjdyRnB6Rl9mZTY1VHIyUGlqM2lSdUt5UExv?oc=5</link>
+      <guid isPermaLink="false">CBMiX0FVX3lxTE5EQVdPZnR5cE1sVy1rUUdqQzRFTDVLYm9tRDdpY2E5VHhvcTNlek1tWnVMRmtxWmZVS2xXdlZzdG82S21tRjdyRnB6Rl9mZTY1VHIyUGlqM2lSdUt5UExv</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5EQVdPZnR5cE1sVy1rUUdqQzRFTDVLYm9tRDdpY2E5VHhvcTNlek1tWnVMRmtxWmZVS2xXdlZzdG82S21tRjdyRnB6Rl9mZTY1VHIyUGlqM2lSdUt5UExv?oc=5" target="_blank"&gt;Архив - 17 ноября 2026&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Tue, 17 Nov 2026 08:03:14 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Азербайджан идет вторым в европейском рейтинге - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcTFjSm14UEpCOHNnWktvLUhXSGdZSjFWNnNqek9SbW9fSmxrX2tJWE1PSWg4V3FVMUE4ZDNKOTlVVU4yZWJKNi1fdGx6WDBFbk9pbTYxb1VoZk5IeDh3VjRodlh5UUlHa1JCV2pJQkd2VWtWQUFlcGV2QnpscXc5R1RyVzVIdl9lTTlqa0xVeFhwM3k4c3lzSVYwTEN4XzVwMzVRY3oxa1Q?oc=5</link>
+      <guid isPermaLink="false">CBMiqAFBVV95cUxQcTFjSm14UEpCOHNnWktvLUhXSGdZSjFWNnNqek9SbW9fSmxrX2tJWE1PSWg4V3FVMUE4ZDNKOTlVVU4yZWJKNi1fdGx6WDBFbk9pbTYxb1VoZk5IeDh3VjRodlh5UUlHa1JCV2pJQkd2VWtWQUFlcGV2QnpscXc5R1RyVzVIdl9lTTlqa0xVeFhwM3k4c3lzSVYwTEN4XzVwMzVRY3oxa1Q</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcTFjSm14UEpCOHNnWktvLUhXSGdZSjFWNnNqek9SbW9fSmxrX2tJWE1PSWg4V3FVMUE4ZDNKOTlVVU4yZWJKNi1fdGx6WDBFbk9pbTYxb1VoZk5IeDh3VjRodlh5UUlHa1JCV2pJQkd2VWtWQUFlcGV2QnpscXc5R1RyVzVIdl9lTTlqa0xVeFhwM3k4c3lzSVYwTEN4XzVwMzVRY3oxa1Q?oc=5" target="_blank"&gt;Азербайджан идет вторым в европейском рейтинге&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Thu, 19 Nov 2026 07:08:07 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Еще один польский вариант Байрамова - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMimgFBVV95cUxNWjZvQm01SUpqZGQweTEyRGFaS212NGpPVXJudF9HUGVyamo1dzlpSmZFSkV4YmhIaVlyejc4d0hrcFA1NnE2Mmp0QTBlSHBpMnNLMUc4ZWhRcnAyVUdrZDFYU3NIR0VNbW55LWF5YW9FcTRhV2ZQa3plQjRpT2FTekt6T0lIdXB3aHpKcll0U3hnOWx1YWtHVTVB?oc=5</link>
+      <guid isPermaLink="false">CBMimgFBVV95cUxNWjZvQm01SUpqZGQweTEyRGFaS212NGpPVXJudF9HUGVyamo1dzlpSmZFSkV4YmhIaVlyejc4d0hrcFA1NnE2Mmp0QTBlSHBpMnNLMUc4ZWhRcnAyVUdrZDFYU3NIR0VNbW55LWF5YW9FcTRhV2ZQa3plQjRpT2FTekt6T0lIdXB3aHpKcll0U3hnOWx1YWtHVTVB</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxNWjZvQm01SUpqZGQweTEyRGFaS212NGpPVXJudF9HUGVyamo1dzlpSmZFSkV4YmhIaVlyejc4d0hrcFA1NnE2Mmp0QTBlSHBpMnNLMUc4ZWhRcnAyVUdrZDFYU3NIR0VNbW55LWF5YW9FcTRhV2ZQa3plQjRpT2FTekt6T0lIdXB3aHpKcll0U3hnOWx1YWtHVTVB?oc=5" target="_blank"&gt;Еще один польский вариант Байрамова&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 22:25:45 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Сайт Барселоны – о вояже в Азербайджан: Команду ждет самый дальний выезд в еврокубках - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQURPbnBMWEJSUFpWQlhBR0loUVYwTk9MUVFkTUtORUhSb0R1NWNWei1sV0ZtR0lfUE5KSU5DX0tSV1Y1ZC1mb212ZWlwcHRhRVdUSjlyblVCRWUyNUNBTHJwQXZfYWFabFcyalR2SlpmQmpHQlpvM0FhbjdEbk5GT19BREpqWFpxWC1uYlpCb3dMblRPdHVJTmlPdE1hWWEtR1J1QmlTajdjLTUyN2g0bFlQWjdPZGZxZ2pxaUQ3RTkzaDYzUHR4NDZZem0wU3pzcGZqR0FyZXdhejJl?oc=5</link>
+      <guid isPermaLink="false">CBMi3AFBVV95cUxNQURPbnBMWEJSUFpWQlhBR0loUVYwTk9MUVFkTUtORUhSb0R1NWNWei1sV0ZtR0lfUE5KSU5DX0tSV1Y1ZC1mb212ZWlwcHRhRVdUSjlyblVCRWUyNUNBTHJwQXZfYWFabFcyalR2SlpmQmpHQlpvM0FhbjdEbk5GT19BREpqWFpxWC1uYlpCb3dMblRPdHVJTmlPdE1hWWEtR1J1QmlTajdjLTUyN2g0bFlQWjdPZGZxZ2pxaUQ3RTkzaDYzUHR4NDZZem0wU3pzcGZqR0FyZXdhejJl</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQURPbnBMWEJSUFpWQlhBR0loUVYwTk9MUVFkTUtORUhSb0R1NWNWei1sV0ZtR0lfUE5KSU5DX0tSV1Y1ZC1mb212ZWlwcHRhRVdUSjlyblVCRWUyNUNBTHJwQXZfYWFabFcyalR2SlpmQmpHQlpvM0FhbjdEbk5GT19BREpqWFpxWC1uYlpCb3dMblRPdHVJTmlPdE1hWWEtR1J1QmlTajdjLTUyN2g0bFlQWjdPZGZxZ2pxaUQ3RTkzaDYzUHR4NDZZem0wU3pzcGZqR0FyZXdhejJl?oc=5" target="_blank"&gt;Сайт Барселоны – о вояже в Азербайджан: Команду ждет самый дальний выезд в еврокубках&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 15:37:30 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Легионер Шафы досрочно завершил сезон - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMinwFBVV95cUxNa2l2VnRPZkJ5Q3cyTGMtQ2JsU2c5TDVvVzZ4ZGtqX3YwZGJ6UXVxVmVpTEZlMEdJeUlzVjB4QzRzLWdKWG85SmxXQWpWeEpoSGhtWHVFbzdYRVlLaDBzRHNvLVBqVExINGJhd3Q3bnlhUG9KRkR2c1EyUDlvUXlnNlJ3bC1XbGRKU25uNUd2N3NZWk56bnBmSXlETmFrRnc?oc=5</link>
+      <guid isPermaLink="false">CBMinwFBVV95cUxNa2l2VnRPZkJ5Q3cyTGMtQ2JsU2c5TDVvVzZ4ZGtqX3YwZGJ6UXVxVmVpTEZlMEdJeUlzVjB4QzRzLWdKWG85SmxXQWpWeEpoSGhtWHVFbzdYRVlLaDBzRHNvLVBqVExINGJhd3Q3bnlhUG9KRkR2c1EyUDlvUXlnNlJ3bC1XbGRKU25uNUd2N3NZWk56bnBmSXlETmFrRnc</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMinwFBVV95cUxNa2l2VnRPZkJ5Q3cyTGMtQ2JsU2c5TDVvVzZ4ZGtqX3YwZGJ6UXVxVmVpTEZlMEdJeUlzVjB4QzRzLWdKWG85SmxXQWpWeEpoSGhtWHVFbzdYRVlLaDBzRHNvLVBqVExINGJhd3Q3bnlhUG9KRkR2c1EyUDlvUXlnNlJ3bC1XbGRKU25uNUd2N3NZWk56bnBmSXlETmFrRnc?oc=5" target="_blank"&gt;Легионер Шафы досрочно завершил сезон&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 18:58:44 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Сын Беюкаги Гаджиева: Не хочу пользоваться именем своего отца - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQTTBiaDVqUW5KQU5kYjJaNFNIdGw2aEtXX292U3VacTgzWTZrX1c1X0Y4b2czN1gxelM5ZUNwTXVMWTRnTFI3eDFDcnhfSUNlaWJXbHFYaW5xMWFpTVhqb254WkpBRE9KTnpnOHAxWkpPX1JLUWJ2X0ljc21wTlRiUWYxN0Nqbzl4RGpreVp5Q2lQTERhYnEtSDVqWHhlOFlaNXh1RW1SaWY3d1dlajhrekdfRVh0ZHRBRDFuT096UQ?oc=5</link>
+      <guid isPermaLink="false">CBMivwFBVV95cUxQTTBiaDVqUW5KQU5kYjJaNFNIdGw2aEtXX292U3VacTgzWTZrX1c1X0Y4b2czN1gxelM5ZUNwTXVMWTRnTFI3eDFDcnhfSUNlaWJXbHFYaW5xMWFpTVhqb254WkpBRE9KTnpnOHAxWkpPX1JLUWJ2X0ljc21wTlRiUWYxN0Nqbzl4RGpreVp5Q2lQTERhYnEtSDVqWHhlOFlaNXh1RW1SaWY3d1dlajhrekdfRVh0ZHRBRDFuT096UQ</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQTTBiaDVqUW5KQU5kYjJaNFNIdGw2aEtXX292U3VacTgzWTZrX1c1X0Y4b2czN1gxelM5ZUNwTXVMWTRnTFI3eDFDcnhfSUNlaWJXbHFYaW5xMWFpTVhqb254WkpBRE9KTnpnOHAxWkpPX1JLUWJ2X0ljc21wTlRiUWYxN0Nqbzl4RGpreVp5Q2lQTERhYnEtSDVqWHhlOFlaNXh1RW1SaWY3d1dlajhrekdfRVh0ZHRBRDFuT096UQ?oc=5" target="_blank"&gt;Сын Беюкаги Гаджиева: Не хочу пользоваться именем своего отца&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 14:42:18 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Расим РАМАЛДАНОВ: Как азербайджанец, я надеюсь, что все будет хорошо. Но нужно признать реальность - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMi7AFBVV95cUxONUVnZjRoVDVRbVg5Q0I5TGNnZXNfRXljTGNTYUZtSENjMHdINGFvNnJ2dHlZRlJtUlJQdGxGZDVXckJvd0FaeG5zOThySDhiQ0tGV0h6LUI3SGFiNF83Q1NQNmE3ZzA2b0dMMzNGdF9vMU5EOWpRQnRSeDVUNlRsQmd3MFE1QVBwLU52SHNGU2t0N0IwVERTa002cElYT2ZGMVVvNktoVUZOSE9uNU1SOWY2anRSMHVaQlEteVFIdHZId1hkdlVQZmpOTTlyTXIwTnUzLW5rVzFPQzhOZ2FpbzZXeG8wc2I1UURPaw?oc=5</link>
+      <guid isPermaLink="false">CBMi7AFBVV95cUxONUVnZjRoVDVRbVg5Q0I5TGNnZXNfRXljTGNTYUZtSENjMHdINGFvNnJ2dHlZRlJtUlJQdGxGZDVXckJvd0FaeG5zOThySDhiQ0tGV0h6LUI3SGFiNF83Q1NQNmE3ZzA2b0dMMzNGdF9vMU5EOWpRQnRSeDVUNlRsQmd3MFE1QVBwLU52SHNGU2t0N0IwVERTa002cElYT2ZGMVVvNktoVUZOSE9uNU1SOWY2anRSMHVaQlEteVFIdHZId1hkdlVQZmpOTTlyTXIwTnUzLW5rVzFPQzhOZ2FpbzZXeG8wc2I1UURPaw</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMi7AFBVV95cUxONUVnZjRoVDVRbVg5Q0I5TGNnZXNfRXljTGNTYUZtSENjMHdINGFvNnJ2dHlZRlJtUlJQdGxGZDVXckJvd0FaeG5zOThySDhiQ0tGV0h6LUI3SGFiNF83Q1NQNmE3ZzA2b0dMMzNGdF9vMU5EOWpRQnRSeDVUNlRsQmd3MFE1QVBwLU52SHNGU2t0N0IwVERTa002cElYT2ZGMVVvNktoVUZOSE9uNU1SOWY2anRSMHVaQlEteVFIdHZId1hkdlVQZmpOTTlyTXIwTnUzLW5rVzFPQzhOZ2FpbzZXeG8wc2I1UURPaw?oc=5" target="_blank"&gt;Расим РАМАЛДАНОВ: Как азербайджанец, я надеюсь, что все будет хорошо. Но нужно признать реальность&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Wed, 18 Nov 2026 14:11:50 +0000</pubDate>
+      <category>Azerisport.com</category>
+    </item>
+    <item>
+      <title>Сборная Азербайджана сыграет с Партизаном и Црвеной Звездой - Azerisport.com</title>
+      <link>https://news.google.com/rss/articles/CBMivwFBVV95cUxQTHB2WFEzSlpJaFRja1dTbFlxSnhlN3Rjb2E5WS1qZjVoaFFEY0V1cDNLRHplZl94dG41dTRQYmlWaU9LdzN0OGMxQ2dJYlZZSlpkVEFabVRyUVc2Sl93NnAxT2FxVVF6Ry1qUEhGVjRGM2dLTXNfazNKTmYxRmNDYVg0aW5WekJpUW54TVdoYWtodUZPaFlBM3lVV2RCRXIwOG9JUTMwQkd0NEdBNmN6QnRsWVRmX2FKSXcxdF9Mcw?oc=5</link>
+      <guid isPermaLink="false">CBMivwFBVV95cUxQTHB2WFEzSlpJaFRja1dTbFlxSnhlN3Rjb2E5WS1qZjVoaFFEY0V1cDNLRHplZl94dG41dTRQYmlWaU9LdzN0OGMxQ2dJYlZZSlpkVEFabVRyUVc2Sl93NnAxT2FxVVF6Ry1qUEhGVjRGM2dLTXNfazNKTmYxRmNDYVg0aW5WekJpUW54TVdoYWtodUZPaFlBM3lVV2RCRXIwOG9JUTMwQkd0NEdBNmN6QnRsWVRmX2FKSXcxdF9Mcw</guid>
+      <description>&lt;a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQTHB2WFEzSlpJaFRja1dTbFlxSnhlN3Rjb2E5WS1qZjVoaFFEY0V1cDNLRHplZl94dG41dTRQYmlWaU9LdzN0OGMxQ2dJYlZZSlpkVEFabVRyUVc2Sl93NnAxT2FxVVF6Ry1qUEhGVjRGM2dLTXNfazNKTmYxRmNDYVg0aW5WekJpUW54TVdoYWtodUZPaFlBM3lVV2RCRXIwOG9JUTMwQkd0NEdBNmN6QnRsWVRmX2FKSXcxdF9Mcw?oc=5" target="_blank"&gt;Сборная Азербайджана сыграет с Партизаном и Црвеной Звездой&lt;/a&gt; &lt;font color="#6f6f6f"&gt;Azerisport.com&lt;/font&gt;</description>
+      <pubDate>Fri, 20 Nov 2026 15:34:48 +0000</pubDate>
+      <category>Azerisport.com</category>
     </item>
   </channel>
 </rss>
